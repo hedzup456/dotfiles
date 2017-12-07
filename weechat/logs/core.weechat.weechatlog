@@ -1226,3 +1226,685 @@
 2017-12-06 23:09:45		perl: scripts unloaded
 2017-12-06 23:09:45		URL server stopped
 2017-12-06 23:09:45		python: scripts unloaded
+2017-12-07 18:24:55	=!=	Warning: /home/rjh/.weechat/trigger.conf, line 19: unknown option for section "color": flag_post_action = lightblue
+2017-12-07 18:24:55	=!=	Warning: unknown option for section "trigger": beep.post_action (value: "none")
+2017-12-07 18:24:55	=!=	Warning: unknown option for section "trigger": cmd_pass.post_action (value: "none")
+2017-12-07 18:24:55	=!=	Warning: unknown option for section "trigger": msg_auth.post_action (value: "none")
+2017-12-07 18:24:55	=!=	Warning: unknown option for section "trigger": server_pass.post_action (value: "none")
+2017-12-07 18:24:55	=!=	Warning: /home/rjh/.weechat/aspell.conf, line 14: unknown option for section "color": suggestion = default
+2017-12-07 18:24:55	=!=	Warning: /home/rjh/.weechat/aspell.conf, line 15: unknown option for section "color": suggestion_delimiter_dict = cyan
+2017-12-07 18:24:55	=!=	Warning: /home/rjh/.weechat/aspell.conf, line 16: unknown option for section "color": suggestion_delimiter_word = cyan
+2017-12-07 18:24:55	=!=	Warning: /home/rjh/.weechat/aspell.conf, line 29: unknown section identifier ("look")
+2017-12-07 18:24:55	=!=	Warning: /home/rjh/.weechat/aspell.conf, line 30: option outside section: suggestion_delimiter_dict = " / "
+2017-12-07 18:24:55	=!=	Warning: /home/rjh/.weechat/aspell.conf, line 31: option outside section: suggestion_delimiter_word = ","
+2017-12-07 18:24:55	=!=	Warning: /home/rjh/.weechat/irc.conf, line 99: unknown option for section "network": sasl_fail_unavailable = on
+2017-12-07 18:24:55	=!=	Warning: /home/rjh/.weechat/irc.conf, line 127: unknown option for section "server_default": msg_kick = ""
+2017-12-07 18:24:55	=!=	Warning: /home/rjh/.weechat/irc.conf, line 128: unknown option for section "server_default": msg_part = "WeeChat ${info:version}"
+2017-12-07 18:24:55	=!=	Warning: /home/rjh/.weechat/irc.conf, line 129: unknown option for section "server_default": msg_quit = "WeeChat ${info:version}"
+2017-12-07 18:24:55	=!=	Warning: /home/rjh/.weechat/irc.conf, line 148: unknown option for section "server_default": usermode = ""
+2017-12-07 18:24:55	=!=	irc: error creating server option "freenode.usermode"
+2017-12-07 18:24:55	=!=	Warning: /home/rjh/.weechat/irc.conf, line 177: invalid value for option: freenode.usermode
+2017-12-07 18:24:55	=!=	irc: error creating server option "freenode.msg_kick"
+2017-12-07 18:24:55	=!=	Warning: /home/rjh/.weechat/irc.conf, line 188: invalid value for option: freenode.msg_kick
+2017-12-07 18:24:55	=!=	irc: error creating server option "freenode.msg_part"
+2017-12-07 18:24:55	=!=	Warning: /home/rjh/.weechat/irc.conf, line 189: invalid value for option: freenode.msg_part
+2017-12-07 18:24:55	=!=	irc: error creating server option "freenode.msg_quit"
+2017-12-07 18:24:55	=!=	Warning: /home/rjh/.weechat/irc.conf, line 190: invalid value for option: freenode.msg_quit
+2017-12-07 18:24:55	=!=	Warning: /home/rjh/.weechat/relay.conf, line 28: unknown option for section "network": allow_empty_password = off
+2017-12-07 18:24:55		perl scripts loaded: beep, buffers, colorize_lines, iset
+2017-12-07 18:24:56		python: stdout/stderr: Package python-xmpp (xmpppy) must be installed to use Jabber protocol.
+2017-12-07 18:24:56		[18:24]
+2017-12-07 18:24:56		python: stdout/stderr: Get xmpppy with your package manager, or at this URL: http://xmpppy.sourceforge.net/
+2017-12-07 18:24:56	=!=	python: function "register" not found (or failed) in file "/home/rjh/dotfiles/weechat/python/autoload/jabber.py"
+2017-12-07 18:24:56		URL server listening on ('127.0.1.1', 53975)
+2017-12-07 18:24:57		[vimode.py] Problematic keybindings detected:
+2017-12-07 18:24:57		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-07 18:24:57		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-07 18:24:57		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-07 18:24:57		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-07 18:24:57		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-07 18:24:57		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-07 18:24:57		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-07 18:24:57		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-07 18:24:57		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-07 18:24:57		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-07 18:24:57		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-07 18:24:57		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-07 18:24:57		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-07 18:24:57		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-07 18:24:57		[vimode.py] These keybindings may conflict with vimode.
+2017-12-07 18:24:57		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-07 18:24:57		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-07 18:24:57		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-07 18:24:57		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-07 18:24:57		script: 347 scripts for WeeChat 1.4
+2017-12-07 18:24:57		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-07 18:29:03	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2017-12-07 18:35:00		[18:29]
+2017-12-07 18:37:13		Option changed: weechat.color.chat_bg = gray  (default: default)
+2017-12-07 18:37:19		Option changed: weechat.color.chat_bg = black  (default: default)
+2017-12-07 18:39:12		URL server stopped
+2017-12-07 18:39:12		python: scripts unloaded
+2017-12-07 18:39:12		perl: scripts unloaded
+2017-12-07 18:39:21		perl scripts loaded: beep, buffers, colorize_lines, iset
+2017-12-07 18:39:22		python: stdout/stderr: Package python-xmpp (xmpppy) must be installed to use Jabber protocol.
+2017-12-07 18:39:22		[18:39]
+2017-12-07 18:39:22		python: stdout/stderr: Get xmpppy with your package manager, or at this URL: http://xmpppy.sourceforge.net/
+2017-12-07 18:39:22	=!=	python: function "register" not found (or failed) in file "/home/rjh/dotfiles/weechat/python/autoload/jabber.py"
+2017-12-07 18:39:22		URL server listening on ('127.0.1.1', 54070)
+2017-12-07 18:39:23		[vimode.py] Problematic keybindings detected:
+2017-12-07 18:39:23		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-07 18:39:23		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-07 18:39:23		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-07 18:39:23		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-07 18:39:23		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-07 18:39:23		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-07 18:39:23		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-07 18:39:23		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-07 18:39:23		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-07 18:39:23		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-07 18:39:23		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-07 18:39:23		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-07 18:39:23		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-07 18:39:23		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-07 18:39:23		[vimode.py] These keybindings may conflict with vimode.
+2017-12-07 18:39:23		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-07 18:39:23		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-07 18:39:23		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-07 18:39:23		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-07 18:39:23		script: 347 scripts for WeeChat 1.4
+2017-12-07 18:39:23		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-07 18:39:41	=!=	irc: command "join" must be executed on connected irc server
+2017-12-07 18:40:48		[color] (weechat.conf)
+2017-12-07 18:40:48		  weechat.color.bar_more = lightmagenta
+2017-12-07 18:40:48		  weechat.color.chat = default
+2017-12-07 18:40:48		  weechat.color.chat_bg = black  (default: default)
+2017-12-07 18:40:48		  weechat.color.chat_buffer = white
+2017-12-07 18:40:48		  weechat.color.chat_channel = white
+2017-12-07 18:40:48		  weechat.color.chat_day_change = cyan
+2017-12-07 18:40:48		  weechat.color.chat_delimiters = green
+2017-12-07 18:40:48		  weechat.color.chat_highlight = yellow
+2017-12-07 18:40:48		  weechat.color.chat_highlight_bg = magenta
+2017-12-07 18:40:48		  weechat.color.chat_host = cyan
+2017-12-07 18:40:48		  weechat.color.chat_inactive_buffer = default
+2017-12-07 18:40:48		  weechat.color.chat_inactive_window = default
+2017-12-07 18:40:48		  weechat.color.chat_nick = lightcyan
+2017-12-07 18:40:48		  weechat.color.chat_nick_colors = "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue"
+2017-12-07 18:40:48		  weechat.color.chat_nick_offline = default
+2017-12-07 18:40:48		  weechat.color.chat_nick_offline_highlight = default
+2017-12-07 18:40:48		  weechat.color.chat_nick_offline_highlight_bg = blue
+2017-12-07 18:40:48		  weechat.color.chat_nick_other = cyan
+2017-12-07 18:40:48		  weechat.color.chat_nick_prefix = green
+2017-12-07 18:40:48		  weechat.color.chat_nick_self = white
+2017-12-07 18:40:48		  weechat.color.chat_nick_suffix = green
+2017-12-07 18:40:48		  weechat.color.chat_prefix_action = white
+2017-12-07 18:40:48		  weechat.color.chat_prefix_buffer = brown
+2017-12-07 18:40:48		  weechat.color.chat_prefix_buffer_inactive_buffer = default
+2017-12-07 18:40:48		  weechat.color.chat_prefix_error = yellow
+2017-12-07 18:40:48		  weechat.color.chat_prefix_join = lightgreen
+2017-12-07 18:40:48		  weechat.color.chat_prefix_more = lightmagenta
+2017-12-07 18:40:48		  weechat.color.chat_prefix_network = magenta
+2017-12-07 18:40:48		  weechat.color.chat_prefix_quit = lightred
+2017-12-07 18:40:48		  weechat.color.chat_prefix_suffix = green
+2017-12-07 18:40:48		  weechat.color.chat_read_marker = magenta
+2017-12-07 18:40:48		  weechat.color.chat_read_marker_bg = default
+2017-12-07 18:40:48		  weechat.color.chat_server = brown
+2017-12-07 18:40:48		  weechat.color.chat_tags = red
+2017-12-07 18:40:48		  weechat.color.chat_text_found = yellow
+2017-12-07 18:40:48		  weechat.color.chat_text_found_bg = lightmagenta
+2017-12-07 18:40:48		  weechat.color.chat_time = default
+2017-12-07 18:40:48		  weechat.color.chat_time_delimiters = brown
+2017-12-07 18:40:48		  weechat.color.chat_value = cyan
+2017-12-07 18:40:48		  weechat.color.chat_value_null = blue
+2017-12-07 18:40:48		  weechat.color.emphasized = yellow
+2017-12-07 18:40:48		  weechat.color.emphasized_bg = magenta
+2017-12-07 18:40:48		  weechat.color.input_actions = lightgreen
+2017-12-07 18:40:48		  weechat.color.input_text_not_found = red
+2017-12-07 18:40:48		  weechat.color.nicklist_away = cyan
+2017-12-07 18:40:48		  weechat.color.nicklist_group = green
+2017-12-07 18:40:48		  weechat.color.separator = blue
+2017-12-07 18:40:48		  weechat.color.status_count_highlight = magenta
+2017-12-07 18:40:48		  weechat.color.status_count_msg = brown
+2017-12-07 18:40:48		  weechat.color.status_count_other = default
+2017-12-07 18:40:48		  weechat.color.status_count_private = green
+2017-12-07 18:40:48		  weechat.color.status_data_highlight = lightmagenta
+2017-12-07 18:40:48		  weechat.color.status_data_msg = yellow
+2017-12-07 18:40:48		  weechat.color.status_data_other = default
+2017-12-07 18:40:48		  weechat.color.status_data_private = lightgreen
+2017-12-07 18:40:48		  weechat.color.status_filter = green
+2017-12-07 18:40:48		  weechat.color.status_more = yellow
+2017-12-07 18:40:48		  weechat.color.status_mouse = green
+2017-12-07 18:40:48		  weechat.color.status_name = white
+2017-12-07 18:40:48		  weechat.color.status_name_ssl = lightgreen
+2017-12-07 18:40:48		  weechat.color.status_nicklist_count = default
+2017-12-07 18:40:48		  weechat.color.status_number = yellow
+2017-12-07 18:40:48		  weechat.color.status_time = default
+2017-12-07 18:40:48		63 options (matching with "weechat.color.*")
+2017-12-07 18:44:35		Option changed: irc.look.server_buffer = independent  (default: merge_with_core)
+2017-12-07 18:45:58		Bar "activetitle" created
+2017-12-07 18:46:02	=!=	Error: failed to create bar "activetitle"
+2017-12-07 18:46:06	=!=	Error: failed to create bar "activetitle"
+2017-12-07 18:46:20	=!=	Error with command "/bar remove activetitle window top 0 0 buffer_title" (help on command: /help bar)
+2017-12-07 18:46:26		Bar "activetitle" deleted
+2017-12-07 18:46:29	=!=	Error: unknown bar "activetitle"
+2017-12-07 18:46:32		Bar "activetitle" created
+2017-12-07 18:47:02		Option changed: weechat.bar.activetitle.priority = 500  (default: 0)
+2017-12-07 18:47:22		Option changed: weechat.bar.activetitle.conditions = "${active}"  (default: "")
+2017-12-07 18:47:33		Option changed: weechat.bar.activetitle.color_fg = white  (default: default)
+2017-12-07 18:47:39		Option changed: weechat.bar.activetitle.color_bg = 31  (default: default)
+2017-12-07 18:47:42		Option changed: weechat.bar.activetitle.color_bg = 32  (default: default)
+2017-12-07 18:47:43		Option changed: weechat.bar.activetitle.color_bg = 33  (default: default)
+2017-12-07 18:47:46		Option changed: weechat.bar.activetitle.color_bg = 30  (default: default)
+2017-12-07 18:47:48		Option changed: weechat.bar.activetitle.color_bg = 31  (default: default)
+2017-12-07 18:47:50		Option changed: weechat.bar.activetitle.color_bg = 32  (default: default)
+2017-12-07 18:47:52		Option changed: weechat.bar.activetitle.color_bg = 35  (default: default)
+2017-12-07 18:47:55		Option changed: weechat.bar.activetitle.color_bg = 70  (default: default)
+2017-12-07 18:47:58		Option changed: weechat.bar.activetitle.color_bg = 74  (default: default)
+2017-12-07 18:48:02		Option changed: weechat.bar.activetitle.color_bg = 31  (default: default)
+2017-12-07 18:48:13		Option changed: weechat.bar.activetitle.separator = on  (default: off)
+2017-12-07 18:48:31		Option changed: weechat.bar.title.color_bg = 31  (default: blue)
+2017-12-07 18:48:40		Option changed: weechat.bar.title.color_fg = black  (default: default)
+2017-12-07 18:48:55		Option changed: weechat.bar.title.conditions = "${inactive}"  (default: "")
+2017-12-07 18:51:18		Bar "rootstatus" created
+2017-12-07 18:51:38		Option changed: weechat.bar.rootstatus.color_bg = 31  (default: default)
+2017-12-07 18:51:43		Option changed: weechat.bar.rootstatus.color_fg = 234  (default: default)
+2017-12-07 18:51:58		Option changed: weechat.bar.rootstatus.color_fg = 31  (default: default)
+2017-12-07 18:52:07		Option changed: weechat.bar.rootstatus.color_bg = 234  (default: default)
+2017-12-07 18:52:24		Option changed: weechat.bar.rootstatus.separator = on  (default: off)
+2017-12-07 18:52:33		Option changed: weechat.bar.rootstatus.priority = 500  (default: 0)
+2017-12-07 18:52:46		Bar "status" deleted
+2017-12-07 18:53:57		Bar "rootinput" created
+2017-12-07 18:54:56		Bar "rootinput" deleted
+2017-12-07 18:54:56		[18:54]
+2017-12-07 18:55:30		Bar "rootinput" created
+2017-12-07 18:57:32		Option changed: weechat.bar.rootinput.color_bg = black  (default: default)
+2017-12-07 18:57:40		Option changed: weechat.bar.rootinput.priority = 1000  (default: 0)
+2017-12-07 18:57:53		Bar "input" deleted
+2017-12-07 18:58:35		Option changed: weechat.bar.nicklist.color_bg = 31  (default: default)
+2017-12-07 18:58:45		Option changed: weechat.bar.nicklist.color_fg = 229  (default: default)
+2017-12-07 18:58:55		Option changed: weechat.bar.nicklist.separator = on
+2017-12-07 18:58:59		Option changed: weechat.bar.nicklist.separator = off  (default: on)
+2017-12-07 18:59:02		Option changed: weechat.bar.nicklist.separator = on
+2017-12-07 19:00:37		Option changed: weechat.bar.nicklist.conditions = "${nicklist} && ${buffer.full_name} !~ ^irc.freenode.(#newsbin|##news)$"  (default: "${nicklist}")
+2017-12-07 19:02:37		[bar] (weechat.conf)
+2017-12-07 19:02:37		  weechat.bar.activetitle.color_fg = white  (default: default)
+2017-12-07 19:02:37		1 option (matching with "weechat.bar.activetitle.color_fg")
+2017-12-07 19:02:49		Option changed: weechat.color.chat = 31  (default: default)
+2017-12-07 19:02:59		Option changed: weechat.color.chat_bg = 31  (default: default)
+2017-12-07 19:03:08		Option changed: weechat.color.chat = white  (default: default)
+2017-12-07 19:03:13		Option changed: weechat.color.chat = 229  (default: default)
+2017-12-07 19:04:04		Option changed: weechat.color.chat_prefix_join = 121  (default: lightgreen)
+2017-12-07 19:04:15		Option changed: weechat.color.chat_host = 31  (default: cyan)
+2017-12-07 19:04:32		Option changed: irc.color.message_join = 121  (default: green)
+2017-12-07 19:05:18		Option changed: weechat.color.chat_prefix_quit = 131  (default: lightred)
+2017-12-07 19:05:29		Option changed: irc.color.message_quit = 131  (default: red)
+2017-12-07 19:06:27		Option changed: irc.color.nick_prefixes = "q:lightred;a:lightcyan;o:121;h:lightmagneta;v:229;*:lightblue"  (default: "y:lightred;q:lightred;a:lightcyan;o:lightgreen;h:lightmagenta;v:yellow;*:lightblue")
+2017-12-07 19:06:28		Option changed: irc.color.nick_prefixes = "q:lightred;a:lightcyan;o:121;h:lightmagneta;v:229;*:lightblue"  (default: "y:lightred;q:lightred;a:lightcyan;o:lightgreen;h:lightmagenta;v:yellow;*:lightblue")
+2017-12-07 19:06:48		Option changed: irc.look.color_nicks_in_nicklist = on  (default: off)
+2017-12-07 19:07:06		Option changed: irc.color.nick_prefixes = "q:lightred;a:lightcyan;o:121;h:lightmagneta;v:199;*:lightblue"  (default: "y:lightred;q:lightred;a:lightcyan;o:lightgreen;h:lightmagenta;v:yellow;*:lightblue")
+2017-12-07 19:07:20		Option changed: irc.color.nick_prefixes = "q:lightred;a:lightcyan;o:19;h:lightmagneta;v:229;*:lightblue"  (default: "y:lightred;q:lightred;a:lightcyan;o:lightgreen;h:lightmagenta;v:yellow;*:lightblue")
+2017-12-07 19:07:32		Option changed: irc.color.nick_prefixes = "q:lightred;a:lightcyan;o:121;h:lightmagneta;v:229;*:lightblue"  (default: "y:lightred;q:lightred;a:lightcyan;o:lightgreen;h:lightmagenta;v:yellow;*:lightblue")
+2017-12-07 19:07:57		Option changed: weechat.color.bar_more = 229  (default: lightmagenta)
+2017-12-07 19:08:10		Option changed: weechat.color.chat_highlight = lightred  (default: yellow)
+2017-12-07 19:08:27		Option changed: weechat.color.chat_highlight_bg = default  (default: magenta)
+2017-12-07 19:10:12		Option changed: weechat.color.chat_nick_colors = "cyan,magneta,green,brown,lightblue,lightcyan,lightmagneta,lightgreen,blue"  (default: "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue")
+2017-12-07 19:10:12		[19:10]
+2017-12-07 19:10:23		Option changed: weechat.color.chat_nick_colors = "cyan,magneta,brown,lightblue,lightcyan,lightmagneta,lightgreen,blue"  (default: "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue")
+2017-12-07 19:10:44		Option changed: weechat.color.chat_prefix_more = 31  (default: lightmagenta)
+2017-12-07 19:10:50		Option changed: weechat.color.chat_prefix_suffix = 31  (default: green)
+2017-12-07 19:10:59		Option changed: weechat.color.chat_read_marker = 31  (default: magenta)
+2017-12-07 19:12:37		Option changed: weechat.color.chat_time = 239  (default: default)
+2017-12-07 19:12:47		Option changed: weechat.color.chat_delimiters = 31  (default: green)
+2017-12-07 19:12:56		Option changed: weechat.color.separator = 31  (default: blue)
+2017-12-07 19:13:14		Option changed: weechat.color.status_data_highlight = 163  (default: lightmagenta)
+2017-12-07 19:13:25		Option changed: weechat.color.status_data_msg = 229  (default: yellow)
+2017-12-07 19:13:30		Option changed: weechat.color.status_data_private = 121  (default: lightgreen)
+2017-12-07 19:13:45		Option changed: weechat.color.status_more = 229  (default: yellow)
+2017-12-07 19:13:49		Option changed: weechat.color.status_more = 121  (default: yellow)
+2017-12-07 19:13:55		Option changed: weechat.color.status_more = 229  (default: yellow)
+2017-12-07 19:14:01		Option changed: weechat.color.status_name = 121  (default: white)
+2017-12-07 19:14:06		Option changed: weechat.color.status_name_ssl = 121  (default: lightgreen)
+2017-12-07 19:19:48		URL server stopped
+2017-12-07 19:19:48		python: scripts unloaded
+2017-12-07 19:19:48		perl: scripts unloaded
+2017-12-07 19:21:29		New key binding (context "mouse"): @bar(buffers):ctrl-wheeldown => hsignal:buffers_mouse
+2017-12-07 19:21:29		New key binding (context "mouse"): @bar(buffers):ctrl-wheelup => hsignal:buffers_mouse
+2017-12-07 19:21:29		New key binding (context "mouse"): @item(buffers):button2* => hsignal:buffers_mouse
+2017-12-07 19:21:29		New key binding (context "mouse"): @item(buffers):button1* => hsignal:buffers_mouse
+2017-12-07 19:21:29		New key binding (context "mouse"): @chat(perl.iset):button1 => hsignal:iset_mouse
+2017-12-07 19:21:29		New key binding (context "mouse"): @chat(perl.iset):button2* => hsignal:iset_mouse
+2017-12-07 19:21:29		New key binding (context "mouse"): @chat(perl.iset):wheeldown => /repeat 5 /iset **down
+2017-12-07 19:21:29		New key binding (context "mouse"): @chat(perl.iset):wheelup => /repeat 5 /iset **up
+2017-12-07 19:21:29		perl scripts loaded: beep, buffers, colorize_lines, iset
+2017-12-07 19:21:29		python: stdout/stderr: Package python-xmpp (xmpppy) must be installed to use Jabber protocol.
+2017-12-07 19:21:29		[19:21]
+2017-12-07 19:21:29		python: stdout/stderr: Get xmpppy with your package manager, or at this URL: http://xmpppy.sourceforge.net/
+2017-12-07 19:21:29	=!=	python: function "register" not found (or failed) in file "/home/rjh/dotfiles/weechat/python/autoload/jabber.py"
+2017-12-07 19:21:30		URL server listening on ('127.0.1.1', 54293)
+2017-12-07 19:21:30		[vimode.py] Problematic keybindings detected:
+2017-12-07 19:21:30		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-07 19:21:30		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-07 19:21:30		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-07 19:21:30		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-07 19:21:30		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-07 19:21:30		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-07 19:21:30		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-07 19:21:30		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-07 19:21:30		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-07 19:21:30		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-07 19:21:30		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-07 19:21:30		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-07 19:21:30		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-07 19:21:30		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-07 19:21:30		[vimode.py] These keybindings may conflict with vimode.
+2017-12-07 19:21:30		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-07 19:21:30		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-07 19:21:30		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-07 19:21:30		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-07 19:21:30		script: 347 scripts for WeeChat 1.4
+2017-12-07 19:21:30		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-07 19:21:54	=!=	irc: command "join" must be executed on connected irc server
+2017-12-07 19:27:00		[19:21]
+2017-12-07 19:29:09		Option changed: weechat.look.buffer_time_format = "${color:252}%H${color:245}:%M${color:240}:%S"  (default: "%H:%M:%S")
+2017-12-07 19:30:17		Option changed: weechat.bar.buffers.color_bg = 60  (default: default)
+2017-12-07 19:31:20		Option changed: weechat.color.chat_bg = 60  (default: default)
+2017-12-07 19:34:41		script: script "go.py" is already installed and up-to-date
+2017-12-07 19:36:00	=!=	Error: wrong type "windows" for bar "activetitle"
+2017-12-07 19:36:20		Bar "activetitle" created
+2017-12-07 19:36:29		Option changed: weechat.bar.activetitle.color_bg = 31  (default: default)
+2017-12-07 19:36:34		Option changed: weechat.bar.activetitle.color_bg = 60  (default: default)
+2017-12-07 19:36:37		Option changed: weechat.bar.activetitle.color_bg = 31  (default: default)
+2017-12-07 19:36:42		Option changed: weechat.bar.activetitle.color_bg = 65  (default: default)
+2017-12-07 19:36:45		Option changed: weechat.bar.activetitle.color_bg = 55  (default: default)
+2017-12-07 19:36:48		Option changed: weechat.bar.activetitle.color_bg = 60  (default: default)
+2017-12-07 19:37:18		Option changed: weechat.bar.activetitle.color_bg = 238  (default: default)
+2017-12-07 19:37:41		Option changed: weechat.color.chat_bg = 238  (default: default)
+2017-12-07 19:43:00		[19:37]
+2017-12-07 20:04:26		Option changed: buffers.color.default_bg = 238  (default: default)
+2017-12-07 20:04:26		[20:04]
+2017-12-07 20:04:47		Option changed: buffers.color.hotlist_low_bg = 238  (default: default)
+2017-12-07 20:05:18		Option changed: buffers.color.current_bg = 248  (default: red)
+2017-12-07 20:05:31		Option changed: buffers.color.current_fg = black  (default: lightcyan)
+2017-12-07 20:05:44		Option changed: buffers.color.current_fg = 238  (default: lightcyan)
+2017-12-07 20:06:14		Option changed: buffers.color.number = blue  (default: lightgreen)
+2017-12-07 20:06:22		[color] (buffers.conf)
+2017-12-07 20:06:22		  buffers.color.current_bg = 248  (default: red)
+2017-12-07 20:06:22		  buffers.color.current_fg = 238  (default: lightcyan)
+2017-12-07 20:06:22		  buffers.color.default_bg = 238  (default: default)
+2017-12-07 20:06:22		  buffers.color.default_fg = default
+2017-12-07 20:06:22		  buffers.color.hotlist_highlight_bg = default
+2017-12-07 20:06:22		  buffers.color.hotlist_highlight_fg = magenta
+2017-12-07 20:06:22		  buffers.color.hotlist_low_bg = 238  (default: default)
+2017-12-07 20:06:22		  buffers.color.hotlist_low_fg = white
+2017-12-07 20:06:22		  buffers.color.hotlist_message_bg = default
+2017-12-07 20:06:22		  buffers.color.hotlist_message_fg = yellow
+2017-12-07 20:06:22		  buffers.color.hotlist_private_bg = default
+2017-12-07 20:06:22		  buffers.color.hotlist_private_fg = lightgreen
+2017-12-07 20:06:22		  buffers.color.none_channel_bg = default
+2017-12-07 20:06:22		  buffers.color.none_channel_fg = default
+2017-12-07 20:06:22		  buffers.color.number = blue  (default: lightgreen)
+2017-12-07 20:06:22		  buffers.color.number_char = lightgreen
+2017-12-07 20:06:22		  buffers.color.prefix_bufname = default
+2017-12-07 20:06:22		  buffers.color.queries_default_bg = default
+2017-12-07 20:06:22		  buffers.color.queries_default_fg = default
+2017-12-07 20:06:22		  buffers.color.queries_highlight_bg = default
+2017-12-07 20:06:22		  buffers.color.queries_highlight_fg = default
+2017-12-07 20:06:22		  buffers.color.queries_message_bg = default
+2017-12-07 20:06:22		  buffers.color.queries_message_fg = default
+2017-12-07 20:06:22		  buffers.color.suffix_bufname = default
+2017-12-07 20:06:22		  buffers.color.whitelist_default_bg = default
+2017-12-07 20:06:22		  buffers.color.whitelist_default_fg = default
+2017-12-07 20:06:22		  buffers.color.whitelist_highlight_bg = default
+2017-12-07 20:06:22		  buffers.color.whitelist_highlight_fg = default
+2017-12-07 20:06:22		  buffers.color.whitelist_low_bg = default
+2017-12-07 20:06:22		  buffers.color.whitelist_low_fg = default
+2017-12-07 20:06:22		  buffers.color.whitelist_message_bg = default
+2017-12-07 20:06:22		  buffers.color.whitelist_message_fg = default
+2017-12-07 20:06:22		  buffers.color.whitelist_private_bg = default
+2017-12-07 20:06:22		  buffers.color.whitelist_private_fg = default
+2017-12-07 20:06:22		34 options (matching with "buffers.color.*")
+2017-12-07 20:07:11		Option changed: buffers.color.default_fg = 248  (default: default)
+2017-12-07 20:09:31		[color] (buffers.conf)
+2017-12-07 20:09:31		  buffers.color.current_bg = 248  (default: red)
+2017-12-07 20:09:31		  buffers.color.current_fg = 238  (default: lightcyan)
+2017-12-07 20:09:31		  buffers.color.default_bg = 238  (default: default)
+2017-12-07 20:09:31		  buffers.color.default_fg = 248  (default: default)
+2017-12-07 20:09:31		  buffers.color.hotlist_highlight_bg = default
+2017-12-07 20:09:31		  buffers.color.hotlist_highlight_fg = magenta
+2017-12-07 20:09:31		  buffers.color.hotlist_low_bg = 238  (default: default)
+2017-12-07 20:09:31		  buffers.color.hotlist_low_fg = white
+2017-12-07 20:09:31		  buffers.color.hotlist_message_bg = default
+2017-12-07 20:09:31		  buffers.color.hotlist_message_fg = yellow
+2017-12-07 20:09:31		  buffers.color.hotlist_private_bg = default
+2017-12-07 20:09:31		  buffers.color.hotlist_private_fg = lightgreen
+2017-12-07 20:09:31		  buffers.color.none_channel_bg = default
+2017-12-07 20:09:31		  buffers.color.none_channel_fg = default
+2017-12-07 20:09:31		  buffers.color.number = blue  (default: lightgreen)
+2017-12-07 20:09:31		  buffers.color.number_char = lightgreen
+2017-12-07 20:09:31		  buffers.color.prefix_bufname = default
+2017-12-07 20:09:31		  buffers.color.queries_default_bg = default
+2017-12-07 20:09:31		  buffers.color.queries_default_fg = default
+2017-12-07 20:09:31		  buffers.color.queries_highlight_bg = default
+2017-12-07 20:09:31		  buffers.color.queries_highlight_fg = default
+2017-12-07 20:09:31		  buffers.color.queries_message_bg = default
+2017-12-07 20:09:31		  buffers.color.queries_message_fg = default
+2017-12-07 20:09:31		  buffers.color.suffix_bufname = default
+2017-12-07 20:09:31		  buffers.color.whitelist_default_bg = default
+2017-12-07 20:09:31		  buffers.color.whitelist_default_fg = default
+2017-12-07 20:09:31		  buffers.color.whitelist_highlight_bg = default
+2017-12-07 20:09:31		  buffers.color.whitelist_highlight_fg = default
+2017-12-07 20:09:31		  buffers.color.whitelist_low_bg = default
+2017-12-07 20:09:31		  buffers.color.whitelist_low_fg = default
+2017-12-07 20:09:31		  buffers.color.whitelist_message_bg = default
+2017-12-07 20:09:31		  buffers.color.whitelist_message_fg = default
+2017-12-07 20:09:31		  buffers.color.whitelist_private_bg = default
+2017-12-07 20:09:31		  buffers.color.whitelist_private_fg = default
+2017-12-07 20:09:31		[look] (buffers.conf)
+2017-12-07 20:09:31		  buffers.look.core_to_front = off
+2017-12-07 20:09:31		  buffers.look.detach = 0
+2017-12-07 20:09:31		  buffers.look.detach_buffer_immediately = ""
+2017-12-07 20:09:31		  buffers.look.detach_buffer_immediately_level = 2
+2017-12-07 20:09:31		  buffers.look.detach_display_window_number = off
+2017-12-07 20:09:31		  buffers.look.detach_displayed_buffers = on
+2017-12-07 20:09:31		  buffers.look.detach_free_content = off
+2017-12-07 20:09:31		  buffers.look.detach_query = off
+2017-12-07 20:09:31		  buffers.look.hide_merged_buffers = none
+2017-12-07 20:09:31		  buffers.look.hotlist_counter = off
+2017-12-07 20:09:31		  buffers.look.immune_detach_buffers = ""
+2017-12-07 20:09:31		  buffers.look.indenting = off
+2017-12-07 20:09:31		  buffers.look.indenting_amount = 2
+2017-12-07 20:09:31		  buffers.look.indenting_number = on
+2017-12-07 20:09:31		  buffers.look.jump_prev_next_visited_buffer = off
+2017-12-07 20:09:31		  buffers.look.mark_inactive = off
+2017-12-07 20:09:31		  buffers.look.mouse_move_buffer = on
+2017-12-07 20:09:31		  buffers.look.mouse_wheel = on
+2017-12-07 20:09:31		  buffers.look.name_crop_suffix = "+"
+2017-12-07 20:09:31		  buffers.look.name_size_max = 0
+2017-12-07 20:09:31		  buffers.look.number_char = "."
+2017-12-07 20:09:31		  buffers.look.prefix = off
+2017-12-07 20:09:31		  buffers.look.prefix_bufname = ""
+2017-12-07 20:09:31		  buffers.look.prefix_empty = on
+2017-12-07 20:09:31		  buffers.look.prefix_for_query = ""
+2017-12-07 20:09:31		  buffers.look.short_names = on
+2017-12-07 20:09:31		  buffers.look.show_lag = off
+2017-12-07 20:09:31		  buffers.look.show_number = off  (default: on)
+2017-12-07 20:09:31		  buffers.look.sort = number
+2017-12-07 20:09:31		  buffers.look.suffix_bufname = ""
+2017-12-07 20:09:31		  buffers.look.toggle_bar = on
+2017-12-07 20:09:31		  buffers.look.whitelist_buffers = ""
+2017-12-07 20:09:31		66 options (matching with "buffers.*")
+2017-12-07 20:09:53	=!=	Error: unknown command "/clear" (type /help for help)
+2017-12-07 20:10:25		[color] (buffers.conf)
+2017-12-07 20:10:25		  buffers.color.current_bg = 248  (default: red)
+2017-12-07 20:10:25		  buffers.color.current_fg = 238  (default: lightcyan)
+2017-12-07 20:10:25		  buffers.color.default_bg = 238  (default: default)
+2017-12-07 20:10:25		  buffers.color.default_fg = 248  (default: default)
+2017-12-07 20:10:25		  buffers.color.hotlist_highlight_bg = default
+2017-12-07 20:10:25		  buffers.color.hotlist_highlight_fg = magenta
+2017-12-07 20:10:25		  buffers.color.hotlist_low_bg = 238  (default: default)
+2017-12-07 20:10:25		  buffers.color.hotlist_low_fg = white
+2017-12-07 20:10:25		  buffers.color.hotlist_message_bg = default
+2017-12-07 20:10:25		  buffers.color.hotlist_message_fg = yellow
+2017-12-07 20:10:25		  buffers.color.hotlist_private_bg = default
+2017-12-07 20:10:25		  buffers.color.hotlist_private_fg = lightgreen
+2017-12-07 20:10:25		  buffers.color.none_channel_bg = default
+2017-12-07 20:10:25		  buffers.color.none_channel_fg = default
+2017-12-07 20:10:25		  buffers.color.number = blue  (default: lightgreen)
+2017-12-07 20:10:25		  buffers.color.number_char = lightgreen
+2017-12-07 20:10:25		  buffers.color.prefix_bufname = default
+2017-12-07 20:10:25		  buffers.color.queries_default_bg = default
+2017-12-07 20:10:25		  buffers.color.queries_default_fg = default
+2017-12-07 20:10:25		  buffers.color.queries_highlight_bg = default
+2017-12-07 20:10:25		  buffers.color.queries_highlight_fg = default
+2017-12-07 20:10:25		  buffers.color.queries_message_bg = default
+2017-12-07 20:10:25		  buffers.color.queries_message_fg = default
+2017-12-07 20:10:25		  buffers.color.suffix_bufname = default
+2017-12-07 20:10:25		  buffers.color.whitelist_default_bg = default
+2017-12-07 20:10:25		  buffers.color.whitelist_default_fg = default
+2017-12-07 20:10:25		  buffers.color.whitelist_highlight_bg = default
+2017-12-07 20:10:25		  buffers.color.whitelist_highlight_fg = default
+2017-12-07 20:10:25		  buffers.color.whitelist_low_bg = default
+2017-12-07 20:10:25		  buffers.color.whitelist_low_fg = default
+2017-12-07 20:10:25		  buffers.color.whitelist_message_bg = default
+2017-12-07 20:10:25		  buffers.color.whitelist_message_fg = default
+2017-12-07 20:10:25		  buffers.color.whitelist_private_bg = default
+2017-12-07 20:10:25		  buffers.color.whitelist_private_fg = default
+2017-12-07 20:10:25		[look] (buffers.conf)
+2017-12-07 20:10:25		  buffers.look.core_to_front = off
+2017-12-07 20:10:25		  buffers.look.detach = 0
+2017-12-07 20:10:25		  buffers.look.detach_buffer_immediately = ""
+2017-12-07 20:10:25		  buffers.look.detach_buffer_immediately_level = 2
+2017-12-07 20:10:25		  buffers.look.detach_display_window_number = off
+2017-12-07 20:10:25		  buffers.look.detach_displayed_buffers = on
+2017-12-07 20:10:25		  buffers.look.detach_free_content = off
+2017-12-07 20:10:25		  buffers.look.detach_query = off
+2017-12-07 20:10:25		  buffers.look.hide_merged_buffers = none
+2017-12-07 20:10:25		  buffers.look.hotlist_counter = off
+2017-12-07 20:10:25		  buffers.look.immune_detach_buffers = ""
+2017-12-07 20:10:25		  buffers.look.indenting = off
+2017-12-07 20:10:25		  buffers.look.indenting_amount = 2
+2017-12-07 20:10:25		  buffers.look.indenting_number = on
+2017-12-07 20:10:25		  buffers.look.jump_prev_next_visited_buffer = off
+2017-12-07 20:10:25		  buffers.look.mark_inactive = off
+2017-12-07 20:10:25		  buffers.look.mouse_move_buffer = on
+2017-12-07 20:10:25		  buffers.look.mouse_wheel = on
+2017-12-07 20:10:25		  buffers.look.name_crop_suffix = "+"
+2017-12-07 20:10:25		  buffers.look.name_size_max = 0
+2017-12-07 20:10:25		  buffers.look.number_char = "."
+2017-12-07 20:10:25		  buffers.look.prefix = off
+2017-12-07 20:10:25		  buffers.look.prefix_bufname = ""
+2017-12-07 20:10:25		  buffers.look.prefix_empty = on
+2017-12-07 20:10:25		  buffers.look.prefix_for_query = ""
+2017-12-07 20:10:25		  buffers.look.short_names = on
+2017-12-07 20:10:25		  buffers.look.show_lag = off
+2017-12-07 20:10:25		  buffers.look.show_number = off  (default: on)
+2017-12-07 20:10:25		  buffers.look.sort = number
+2017-12-07 20:10:25		  buffers.look.suffix_bufname = ""
+2017-12-07 20:10:25		  buffers.look.toggle_bar = on
+2017-12-07 20:10:25		  buffers.look.whitelist_buffers = ""
+2017-12-07 20:10:25		66 options (matching with "buffers.*")
+2017-12-07 20:11:39		Option changed: weechat.bar.title.color_bg = 238  (default: blue)
+2017-12-07 20:12:01		Option changed: weechat.bar.status.color_bg = 238  (default: blue)
+2017-12-07 20:12:32		Option changed: weechat.color.chat_buffer = 238  (default: white)
+2017-12-07 20:12:58		Option changed: weechat.color.chat_delimiters = 233  (default: green)
+2017-12-07 20:13:33		Option changed: weechat.color.chat_channel = 250  (default: white)
+2017-12-07 20:14:17		Option changed: weechat.color.chat_prefix_suffix = 250  (default: green)
+2017-12-07 20:14:29		Option changed: weechat.color.chat_prefix_network = 250  (default: magenta)
+2017-12-07 20:16:50		Option changed: weechat.bar.nicklist.color_bg = 238  (default: default)
+2017-12-07 20:17:20		Option changed: weechat.bar.nicklist.conditions = "${nicklist}"
+2017-12-07 20:17:47		Option changed: weechat.bar.nicklist.separator = on
+2017-12-07 20:18:54	=!=	Error with command "/bar dek title" (help on command: /help bar)
+2017-12-07 20:19:04		Bar "title" deleted
+2017-12-07 20:19:55		Option changed: irc.look.server_buffer = independent  (default: merge_with_core)
+2017-12-07 20:19:55		[20:19]
+2017-12-07 20:21:28		Options saved to sec.conf
+2017-12-07 20:21:28		Options saved to weechat.conf
+2017-12-07 20:21:28		Options saved to plugins.conf
+2017-12-07 20:21:28		Options saved to charset.conf
+2017-12-07 20:21:28		Options saved to logger.conf
+2017-12-07 20:21:28		Options saved to exec.conf
+2017-12-07 20:21:28		Options saved to trigger.conf
+2017-12-07 20:21:28		Options saved to aspell.conf
+2017-12-07 20:21:28		Options saved to alias.conf
+2017-12-07 20:21:28		Options saved to xfer.conf
+2017-12-07 20:21:28		Options saved to irc.conf
+2017-12-07 20:21:28		Options saved to relay.conf
+2017-12-07 20:21:28		Options saved to buffers.conf
+2017-12-07 20:21:28		Options saved to iset.conf
+2017-12-07 20:21:28		Options saved to autosort.conf
+2017-12-07 20:21:28		Options saved to script.conf
+2017-12-07 20:22:23	=!=	Error: option "buffers.color_bg" not found
+2017-12-07 20:22:42		[color] (buffers.conf)
+2017-12-07 20:22:42		  buffers.color.hotlist_low_bg = 238  (default: default)
+2017-12-07 20:22:42		1 option (matching with "buffers.color.hotlist_low_bg")
+2017-12-07 20:23:25		URL server stopped
+2017-12-07 20:23:25		python: scripts unloaded
+2017-12-07 20:23:25		perl: scripts unloaded
+2017-12-07 20:23:49		perl scripts loaded: beep, buffers, colorize_lines, iset
+2017-12-07 20:23:49		python: stdout/stderr: Package python-xmpp (xmpppy) must be installed to use Jabber protocol.
+2017-12-07 20:23:49		[20:23]
+2017-12-07 20:23:49		python: stdout/stderr: Get xmpppy with your package manager, or at this URL: http://xmpppy.sourceforge.net/
+2017-12-07 20:23:49	=!=	python: function "register" not found (or failed) in file "/home/rjh/dotfiles/weechat/python/autoload/jabber.py"
+2017-12-07 20:23:50		URL server listening on ('127.0.1.1', 54645)
+2017-12-07 20:23:50		[vimode.py] Problematic keybindings detected:
+2017-12-07 20:23:50		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-07 20:23:50		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-07 20:23:50		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-07 20:23:50		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-07 20:23:50		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-07 20:23:50		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-07 20:23:50		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-07 20:23:50		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-07 20:23:50		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-07 20:23:50		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-07 20:23:50		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-07 20:23:50		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-07 20:23:50		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-07 20:23:50		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-07 20:23:50		[vimode.py] These keybindings may conflict with vimode.
+2017-12-07 20:23:50		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-07 20:23:50		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-07 20:23:50		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-07 20:23:50		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-07 20:23:50		script: 347 scripts for WeeChat 1.4
+2017-12-07 20:23:50		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-07 20:25:49		[color] (weechat.conf)
+2017-12-07 20:25:49		  weechat.color.chat = default
+2017-12-07 20:25:49		  weechat.color.chat_bg = 238  (default: default)
+2017-12-07 20:25:49		  weechat.color.chat_buffer = 238  (default: white)
+2017-12-07 20:25:49		  weechat.color.chat_channel = 250  (default: white)
+2017-12-07 20:25:49		  weechat.color.chat_day_change = cyan
+2017-12-07 20:25:49		  weechat.color.chat_delimiters = 233  (default: green)
+2017-12-07 20:25:49		  weechat.color.chat_highlight = yellow
+2017-12-07 20:25:49		  weechat.color.chat_highlight_bg = magenta
+2017-12-07 20:25:49		  weechat.color.chat_host = cyan
+2017-12-07 20:25:49		  weechat.color.chat_inactive_buffer = default
+2017-12-07 20:25:49		  weechat.color.chat_inactive_window = default
+2017-12-07 20:25:49		  weechat.color.chat_nick = lightcyan
+2017-12-07 20:25:49		  weechat.color.chat_nick_colors = "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue"
+2017-12-07 20:25:49		  weechat.color.chat_nick_offline = default
+2017-12-07 20:25:49		  weechat.color.chat_nick_offline_highlight = default
+2017-12-07 20:25:49		  weechat.color.chat_nick_offline_highlight_bg = blue
+2017-12-07 20:25:49		  weechat.color.chat_nick_other = cyan
+2017-12-07 20:25:49		  weechat.color.chat_nick_prefix = green
+2017-12-07 20:25:49		  weechat.color.chat_nick_self = white
+2017-12-07 20:25:49		  weechat.color.chat_nick_suffix = green
+2017-12-07 20:25:49		  weechat.color.chat_prefix_action = white
+2017-12-07 20:25:49		  weechat.color.chat_prefix_buffer = brown
+2017-12-07 20:25:49		  weechat.color.chat_prefix_buffer_inactive_buffer = default
+2017-12-07 20:25:49		  weechat.color.chat_prefix_error = yellow
+2017-12-07 20:25:49		  weechat.color.chat_prefix_join = lightgreen
+2017-12-07 20:25:49		  weechat.color.chat_prefix_more = lightmagenta
+2017-12-07 20:25:49		  weechat.color.chat_prefix_network = 250  (default: magenta)
+2017-12-07 20:25:49		  weechat.color.chat_prefix_quit = lightred
+2017-12-07 20:25:49		  weechat.color.chat_prefix_suffix = 250  (default: green)
+2017-12-07 20:25:49		  weechat.color.chat_read_marker = magenta
+2017-12-07 20:25:49		  weechat.color.chat_read_marker_bg = default
+2017-12-07 20:25:49		  weechat.color.chat_server = brown
+2017-12-07 20:25:49		  weechat.color.chat_tags = red
+2017-12-07 20:25:49		  weechat.color.chat_text_found = yellow
+2017-12-07 20:25:49		  weechat.color.chat_text_found_bg = lightmagenta
+2017-12-07 20:25:49		  weechat.color.chat_time = default
+2017-12-07 20:25:49		  weechat.color.chat_time_delimiters = brown
+2017-12-07 20:25:49		  weechat.color.chat_value = cyan
+2017-12-07 20:25:49		  weechat.color.chat_value_null = blue
+2017-12-07 20:25:49		39 options (matching with "weechat.color.chat*")
+2017-12-07 20:26:07		Option changed: weechat.color.chat = 238  (default: default)
+2017-12-07 20:26:14		Option changed: weechat.color.chat = default
+2017-12-07 20:26:39		Option changed: weechat.color.chat_inactive_buffer = 238  (default: default)
+2017-12-07 20:26:45		Option changed: weechat.color.chat_inactive_window = 238  (default: default)
+2017-12-07 20:27:39		Option changed: weechat.color.chat_nick = 213  (default: lightcyan)
+2017-12-07 20:27:56		Option changed: weechat.color.chat_nick = default  (default: lightcyan)
+2017-12-07 20:28:11	=!=	irc: already connected to server "freenode"!
+2017-12-07 20:28:22		[color] (weechat.conf)
+2017-12-07 20:28:22		  weechat.color.chat = default
+2017-12-07 20:28:22		  weechat.color.chat_bg = 238  (default: default)
+2017-12-07 20:28:22		  weechat.color.chat_buffer = 238  (default: white)
+2017-12-07 20:28:22		  weechat.color.chat_channel = 250  (default: white)
+2017-12-07 20:28:22		  weechat.color.chat_day_change = cyan
+2017-12-07 20:28:22		  weechat.color.chat_delimiters = 233  (default: green)
+2017-12-07 20:28:22		  weechat.color.chat_highlight = yellow
+2017-12-07 20:28:22		  weechat.color.chat_highlight_bg = magenta
+2017-12-07 20:28:22		  weechat.color.chat_host = cyan
+2017-12-07 20:28:22		  weechat.color.chat_inactive_buffer = 238  (default: default)
+2017-12-07 20:28:22		  weechat.color.chat_inactive_window = 238  (default: default)
+2017-12-07 20:28:22		  weechat.color.chat_nick = default  (default: lightcyan)
+2017-12-07 20:28:22		  weechat.color.chat_nick_colors = "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue"
+2017-12-07 20:28:22		  weechat.color.chat_nick_offline = default
+2017-12-07 20:28:22		  weechat.color.chat_nick_offline_highlight = default
+2017-12-07 20:28:22		  weechat.color.chat_nick_offline_highlight_bg = blue
+2017-12-07 20:28:22		  weechat.color.chat_nick_other = cyan
+2017-12-07 20:28:22		  weechat.color.chat_nick_prefix = green
+2017-12-07 20:28:22		  weechat.color.chat_nick_self = white
+2017-12-07 20:28:22		  weechat.color.chat_nick_suffix = green
+2017-12-07 20:28:22		  weechat.color.chat_prefix_action = white
+2017-12-07 20:28:22		  weechat.color.chat_prefix_buffer = brown
+2017-12-07 20:28:22		  weechat.color.chat_prefix_buffer_inactive_buffer = default
+2017-12-07 20:28:22		  weechat.color.chat_prefix_error = yellow
+2017-12-07 20:28:22		  weechat.color.chat_prefix_join = lightgreen
+2017-12-07 20:28:22		  weechat.color.chat_prefix_more = lightmagenta
+2017-12-07 20:28:22		  weechat.color.chat_prefix_network = 250  (default: magenta)
+2017-12-07 20:28:22		  weechat.color.chat_prefix_quit = lightred
+2017-12-07 20:28:22		  weechat.color.chat_prefix_suffix = 250  (default: green)
+2017-12-07 20:28:22		  weechat.color.chat_read_marker = magenta
+2017-12-07 20:28:22		  weechat.color.chat_read_marker_bg = default
+2017-12-07 20:28:22		  weechat.color.chat_server = brown
+2017-12-07 20:28:22		  weechat.color.chat_tags = red
+2017-12-07 20:28:22		  weechat.color.chat_text_found = yellow
+2017-12-07 20:28:22		  weechat.color.chat_text_found_bg = lightmagenta
+2017-12-07 20:28:22		  weechat.color.chat_time = default
+2017-12-07 20:28:22		  weechat.color.chat_time_delimiters = brown
+2017-12-07 20:28:22		  weechat.color.chat_value = cyan
+2017-12-07 20:28:22		  weechat.color.chat_value_null = blue
+2017-12-07 20:28:22		39 options (matching with "weechat.color.ch*")
+2017-12-07 20:28:46		Option changed: weechat.color.chat_nick = lightgreen  (default: lightcyan)
+2017-12-07 20:29:02		[color] (weechat.conf)
+2017-12-07 20:29:02		  weechat.color.chat_nick_colors = "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue"
+2017-12-07 20:29:02		1 option (matching with "weechat.color.chat_nick_colors")
+2017-12-07 20:29:38		Option changed: weechat.color.chat_nick_colors = "cyan,magneta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen"  (default: "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue")
+2017-12-07 20:30:11		Option changed: weechat.color.chat_read_marker_bg = 238  (default: default)
+2017-12-07 20:30:24		Mouse is disabled
+2017-12-07 20:30:29	=!=	Option "mouse" not found (tip: you can use wildcard "*" in option to see a sublist)
+2017-12-07 20:30:42		Mouse enabled
+2017-12-07 20:31:53		script: script "iset.pl" is already installed and up-to-date
+2017-12-07 20:33:13	perl	warning: Use of uninitialized value within @options_types in string eq at /home/rjh/dotfiles/weechat/perl/autoload/iset.pl line 1135.
+2017-12-07 20:33:13	perl	warning: Use of uninitialized value $value in string ne at /home/rjh/dotfiles/weechat/perl/autoload/iset.pl line 1137.
+2017-12-07 20:33:13	perl	warning: Use of uninitialized value in concatenation (.) or string at /home/rjh/dotfiles/weechat/perl/autoload/iset.pl line 1146.
+2017-12-07 20:33:13	perl	warning: Use of uninitialized value $value in concatenation (.) or string at /home/rjh/dotfiles/weechat/perl/autoload/iset.pl line 1146.
+2017-12-07 20:39:00		[20:33]
+2017-12-07 20:40:43		Option changed: weechat.bar.input.color_bg = 250  (default: default)
+2017-12-07 20:40:52		Option changed: weechat.bar.input.color_bg = 100  (default: default)
+2017-12-07 20:41:07		Option changed: weechat.bar.input.color_fg = 237  (default: default)
+2017-12-07 20:41:10		Option changed: weechat.bar.input.color_bg = 250  (default: default)
+2017-12-07 20:41:24		[bar] (weechat.conf)
+2017-12-07 20:41:24		  weechat.bar.input.color_bg = 250  (default: default)
+2017-12-07 20:41:24		  weechat.bar.input.color_delim = cyan
+2017-12-07 20:41:24		  weechat.bar.input.color_fg = 237  (default: default)
+2017-12-07 20:41:24		  weechat.bar.input.conditions = ""
+2017-12-07 20:41:24		  weechat.bar.input.filling_left_right = vertical
+2017-12-07 20:41:24		  weechat.bar.input.filling_top_bottom = horizontal
+2017-12-07 20:41:24		  weechat.bar.input.hidden = off
+2017-12-07 20:41:24		  weechat.bar.input.items = "[input_prompt]+(away),[input_search],[input_paste],input_text"
+2017-12-07 20:41:24		  weechat.bar.input.position = bottom
+2017-12-07 20:41:24		  weechat.bar.input.priority = 1000
+2017-12-07 20:41:24		  weechat.bar.input.separator = off
+2017-12-07 20:41:24		  weechat.bar.input.size = 1
+2017-12-07 20:41:24		  weechat.bar.input.size_max = 0
+2017-12-07 20:41:24		  weechat.bar.input.type = window
+2017-12-07 20:41:24		14 options (matching with "weechat.bar.input.*")
+2017-12-07 20:42:20		Option changed: weechat.bar.input.separator = on  (default: off)
+2017-12-07 20:42:33	=!=	You can not write text in this buffer
+2017-12-07 20:44:47		Option changed: weechat.bar.status.separator = on  (default: off)
+2017-12-07 20:44:51		Option changed: weechat.bar.status.separator = off
+2017-12-07 20:44:53		Option changed: weechat.bar.status.separator = on  (default: off)
+2017-12-07 20:48:02		Options saved to sec.conf
+2017-12-07 20:48:02		Options saved to weechat.conf
+2017-12-07 20:48:02		Options saved to plugins.conf
+2017-12-07 20:48:02		Options saved to charset.conf
+2017-12-07 20:48:02		Options saved to logger.conf
+2017-12-07 20:48:02		Options saved to exec.conf
+2017-12-07 20:48:02		Options saved to trigger.conf
+2017-12-07 20:48:02		Options saved to aspell.conf
+2017-12-07 20:48:02		Options saved to alias.conf
+2017-12-07 20:48:02		Options saved to xfer.conf
+2017-12-07 20:48
