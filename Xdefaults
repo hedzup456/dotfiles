@@ -1,0 +1,6 @@
+URxvt.termName: rxvt-256color
+URxvt.reverseVideo: True
+URxvt.font: xft:Hack:size=10.5
+URxvt.scrollBar: false
+URxvt.depth: 32
+#URxvt.foreground: 
