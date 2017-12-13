@@ -120,3 +120,447 @@
 2017-12-07 20:24:13	--	Channel #xroutine: 13 nicks (1 op, 0 voices, 12 normals)
 2017-12-07 20:24:14	--	Channel created on Sat, 28 Jul 2012 20:12:06
 2017-12-07 20:30:00		[20:24]
+2017-12-07 20:50:20	-->	C3D2_ (~C3D2@cpc87143-aztw31-2-0-cust107.18-1.cable.virginm.net) has joined #xroutine
+2017-12-07 20:50:20		[20:50]
+2017-12-07 20:50:20	--	Topic for #xroutine is "Come talk about all things technology! Programming! Linux! Open source projects! Arduino! Security! IoT like the raspberry pi! Arm devices! Your pet tech projects are at home at xroutine!"
+2017-12-07 20:50:20	--	Topic set by blowfist (~nik_89@unaffiliated/nniro) on Wed, 15 Feb 2017 03:59:19
+2017-12-07 20:50:20	--	Channel #xroutine: 14 nicks (1 op, 0 voices, 13 normals)
+2017-12-07 20:50:20	--	Channel created on Sat, 28 Jul 2012 20:12:06
+2017-12-07 20:50:33	--	irc: disconnected from server
+2017-12-08 11:48:15	-->	C3D2 (~C3D2@212.219.87.194) has joined #xroutine
+2017-12-08 11:48:15		[11:48]
+2017-12-08 11:48:15	--	Topic for #xroutine is "Come talk about all things technology! Programming! Linux! Open source projects! Arduino! Security! IoT like the raspberry pi! Arm devices! Your pet tech projects are at home at xroutine!"
+2017-12-08 11:48:15	--	Topic set by blowfist (~nik_89@unaffiliated/nniro) on Wed, 15 Feb 2017 03:59:19
+2017-12-08 11:48:15	--	Channel #xroutine: 19 nicks (1 op, 0 voices, 18 normals)
+2017-12-08 11:48:15	--	Channel created on Sat, 28 Jul 2012 20:12:06
+2017-12-08 11:48:18	MrBismuth	I'd try to give the money in honor of Dr. Richard Stallman and it changed it to Mrs.
+2017-12-08 11:48:27	FrozenFox	?
+2017-12-08 11:48:40	MrBismuth	like, the web form just changed in all these strange ways
+2017-12-08 11:48:53	MrBismuth	as if some ill javascript were exerting a bad influence via AJAX
+2017-12-08 11:49:07	C3D2	o/
+2017-12-08 11:50:08	--	irc: disconnected from server
+2017-12-08 14:33:02	-->	C3D2 (~C3D2@85.255.232.123) has joined #xroutine
+2017-12-08 14:33:02		[14:33]
+2017-12-08 14:33:02	--	Topic for #xroutine is "Come talk about all things technology! Programming! Linux! Open source projects! Arduino! Security! IoT like the raspberry pi! Arm devices! Your pet tech projects are at home at xroutine!"
+2017-12-08 14:33:02	--	Topic set by blowfist (~nik_89@unaffiliated/nniro) on Wed, 15 Feb 2017 03:59:19
+2017-12-08 14:33:02	--	Channel #xroutine: 19 nicks (1 op, 0 voices, 18 normals)
+2017-12-08 14:33:04	--	Channel created on Sat, 28 Jul 2012 20:12:06
+2017-12-08 14:33:49	--	irc: disconnected from server
+2017-12-08 14:34:09	-->	C3D2 (~C3D2@85.255.232.123) has joined #xroutine
+2017-12-08 14:34:09		[14:34]
+2017-12-08 14:34:09	--	Topic for #xroutine is "Come talk about all things technology! Programming! Linux! Open source projects! Arduino! Security! IoT like the raspberry pi! Arm devices! Your pet tech projects are at home at xroutine!"
+2017-12-08 14:34:09	--	Topic set by blowfist (~nik_89@unaffiliated/nniro) on Wed, 15 Feb 2017 03:59:19
+2017-12-08 14:34:09	--	Channel #xroutine: 19 nicks (1 op, 0 voices, 18 normals)
+2017-12-08 14:34:13	--	Channel created on Sat, 28 Jul 2012 20:12:06
+2017-12-08 14:40:00		[14:34]
+2017-12-08 14:41:54	C3D2	Is that just a message consisting of "14:34"?
+2017-12-08 14:47:00		[14:41]
+2017-12-08 14:57:22	wildfox[m]	C3D2:  huh?
+2017-12-08 15:01:00	C3D2	At 14:40:00 and 14:47:00 I'm apparently getting messages of [14:34] and [14:41] respectively
+2017-12-08 15:01:22	C3D2	Probably a bad config option in Weechat, I'll have to have a look
+2017-12-08 15:01:52	wildfox[m]	I normally use weechat and that doesn't make sense
+2017-12-08 15:02:34	C3D2	Especially as it's only in this channel
+2017-12-08 15:02:34		[15:02]
+2017-12-08 15:02:58	C3D2	Another one, 15:02:34 saying [15:02]
+2017-12-08 15:03:06	C3D2	At least the time is right in this one
+2017-12-08 15:03:35	wildfox[m]	Do you use a bouncer?
+2017-12-08 15:06:03	--	irc: disconnected from server
+2017-12-08 16:12:23	-->	C3D2 (~C3D2@cpc84741-aztw28-2-0-cust480.18-1.cable.virginm.net) has joined #xroutine
+2017-12-08 16:12:23		[16:12]
+2017-12-08 16:12:23	--	Topic for #xroutine is "Come talk about all things technology! Programming! Linux! Open source projects! Arduino! Security! IoT like the raspberry pi! Arm devices! Your pet tech projects are at home at xroutine!"
+2017-12-08 16:12:23	--	Topic set by blowfist (~nik_89@unaffiliated/nniro) on Wed, 15 Feb 2017 03:59:19
+2017-12-08 16:12:23	--	Channel #xroutine: 19 nicks (1 op, 0 voices, 18 normals)
+2017-12-08 16:12:27	--	Channel created on Sat, 28 Jul 2012 20:12:06
+2017-12-08 16:12:41	C3D2	Wildfox, no I don't use a bouncer
+2017-12-08 16:12:50	C3D2	Sorry for the delay, ended up getting off the bus
+2017-12-08 16:18:00		[16:12]
+2017-12-08 16:21:00	<--	geniack_ (5e65241b@gateway/web/freenode/ip.94.101.36.27) has quit (Quit: Page closed)
+2017-12-08 16:26:00		[16:21]
+2017-12-08 17:35:56	MrBismuth	holy shit
+2017-12-08 17:35:56		[17:35]
+2017-12-08 17:36:05	MrBismuth	something made half the apartment brown out
+2017-12-08 17:36:11	MrBismuth	sounded like a small explosion
+2017-12-08 17:36:17	MrBismuth	nobody stuck a fork in a light socket
+2017-12-08 17:36:22	MrBismuth	I don't wanna deal with that
+2017-12-08 17:42:00		[17:36]
+2017-12-08 18:09:29	-->	KanalMonster (~KanalMons@ip5b41a709.dynamic.kabel-deutschland.de) has joined #xroutine
+2017-12-08 18:09:29		[18:09]
+2017-12-08 18:39:04	MrBismuth	oh wow, I have no idea how I'd print a curta
+2017-12-08 18:39:04		[18:39]
+2017-12-08 18:39:14	MrBismuth	these parts are really something else
+2017-12-08 18:45:00		[18:39]
+2017-12-08 20:07:32	<--	KanalMonster (~KanalMons@ip5b41a709.dynamic.kabel-deutschland.de) has quit (Quit: Leaving)
+2017-12-08 20:07:32		[20:07]
+2017-12-08 20:14:30	<--	ChanServ (ChanServ@services.) has quit (shutting down)
+2017-12-08 20:20:00		[20:14]
+2017-12-08 20:21:14	-->	ChanServ (ChanServ@services.) has joined #xroutine
+2017-12-08 20:21:14	--	Mode #xroutine [+o ChanServ] by barjavel.freenode.net
+2017-12-08 20:27:00		[20:21]
+2017-12-08 20:53:54	--	irc: disconnected from server
+2017-12-08 20:53:54		[20:53]
+2017-12-08 20:55:01	-->	C3D2 (~C3D2@cpc84741-aztw28-2-0-cust480.18-1.cable.virginm.net) has joined #xroutine
+2017-12-08 20:55:01	--	Topic for #xroutine is "Come talk about all things technology! Programming! Linux! Open source projects! Arduino! Security! IoT like the raspberry pi! Arm devices! Your pet tech projects are at home at xroutine!"
+2017-12-08 20:55:01	--	Topic set by blowfist (~nik_89@unaffiliated/nniro) on Wed, 15 Feb 2017 03:59:19
+2017-12-08 20:55:01	--	Channel #xroutine: 18 nicks (1 op, 0 voices, 17 normals)
+2017-12-08 21:01:00		[20:55]
+2017-12-08 21:26:54	--	irc: disconnected from server
+2017-12-08 21:26:54		[21:26]
+2017-12-08 21:27:40	-->	C3D2 (~C3D2@cpc84741-aztw28-2-0-cust480.18-1.cable.virginm.net) has joined #xroutine
+2017-12-08 21:27:40	--	Topic for #xroutine is "Come talk about all things technology! Programming! Linux! Open source projects! Arduino! Security! IoT like the raspberry pi! Arm devices! Your pet tech projects are at home at xroutine!"
+2017-12-08 21:27:40	--	Topic set by blowfist (~nik_89@unaffiliated/nniro) on Wed, 15 Feb 2017 03:59:19
+2017-12-08 21:27:40	--	Channel #xroutine: 18 nicks (1 op, 0 voices, 17 normals)
+2017-12-08 21:27:45	--	Channel created on Sat, 28 Jul 2012 20:12:06
+2017-12-08 21:33:00		[21:27]
+2017-12-08 21:38:23	--	irc: disconnected from server
+2017-12-09 10:45:27	-->	C3D2 (~C3D2@cpc84741-aztw28-2-0-cust480.18-1.cable.virginm.net) has joined #xroutine
+2017-12-09 10:45:27		[10:45]
+2017-12-09 10:45:27	--	Topic for #xroutine is "Come talk about all things technology! Programming! Linux! Open source projects! Arduino! Security! IoT like the raspberry pi! Arm devices! Your pet tech projects are at home at xroutine!"
+2017-12-09 10:45:27	--	Topic set by blowfist (~nik_89@unaffiliated/nniro) on Wed, 15 Feb 2017 03:59:19
+2017-12-09 10:45:27	--	Channel #xroutine: 18 nicks (1 op, 0 voices, 17 normals)
+2017-12-09 10:45:31	--	Channel created on Sat, 28 Jul 2012 20:12:06
+2017-12-09 10:51:00		[10:45]
+2017-12-09 10:59:22	--	irc: disconnected from server
+2017-12-09 11:00:13	-->	C3D2 (~C3D2@cpc84741-aztw28-2-0-cust480.18-1.cable.virginm.net) has joined #xroutine
+2017-12-09 11:00:13		[11:00]
+2017-12-09 11:00:13	--	Topic for #xroutine is "Come talk about all things technology! Programming! Linux! Open source projects! Arduino! Security! IoT like the raspberry pi! Arm devices! Your pet tech projects are at home at xroutine!"
+2017-12-09 11:00:13	--	Topic set by blowfist (~nik_89@unaffiliated/nniro) on Wed, 15 Feb 2017 03:59:19
+2017-12-09 11:00:13	--	Channel #xroutine: 18 nicks (1 op, 0 voices, 17 normals)
+2017-12-09 11:00:18	--	Channel created on Sat, 28 Jul 2012 20:12:06
+2017-12-09 11:06:00		[11:00]
+2017-12-09 11:43:53	--	irc: disconnected from server
+2017-12-09 11:44:43	-->	C3D2 (~C3D2@cpc84741-aztw28-2-0-cust480.18-1.cable.virginm.net) has joined #xroutine
+2017-12-09 11:44:43		[11:44]
+2017-12-09 11:44:43	--	Topic for #xroutine is "Come talk about all things technology! Programming! Linux! Open source projects! Arduino! Security! IoT like the raspberry pi! Arm devices! Your pet tech projects are at home at xroutine!"
+2017-12-09 11:44:43	--	Topic set by blowfist (~nik_89@unaffiliated/nniro) on Wed, 15 Feb 2017 03:59:19
+2017-12-09 11:44:43	--	Channel #xroutine: 18 nicks (1 op, 0 voices, 17 normals)
+2017-12-09 11:44:47	--	Channel created on Sat, 28 Jul 2012 20:12:06
+2017-12-09 11:48:04		[C3D2 away: Real life gets in the way]
+2017-12-09 13:33:34		[C3D2 back: gone 01:45:30]
+2017-12-09 13:33:34		[13:33]
+2017-12-09 13:33:35	--	irc: disconnected from server
+2017-12-09 13:34:03	-->	C3D2 (~C3D2@cpc84741-aztw28-2-0-cust480.18-1.cable.virginm.net) has joined #xroutine
+2017-12-09 13:34:03	--	Topic for #xroutine is "Come talk about all things technology! Programming! Linux! Open source projects! Arduino! Security! IoT like the raspberry pi! Arm devices! Your pet tech projects are at home at xroutine!"
+2017-12-09 13:34:03	--	Topic set by blowfist (~nik_89@unaffiliated/nniro) on Wed, 15 Feb 2017 03:59:19
+2017-12-09 13:34:03	--	Channel #xroutine: 18 nicks (1 op, 0 voices, 17 normals)
+2017-12-09 13:34:08	--	Channel created on Sat, 28 Jul 2012 20:12:06
+2017-12-09 13:40:00		[13:34]
+2017-12-09 13:47:05	<--	C3D2 (~C3D2@cpc84741-aztw28-2-0-cust480.18-1.cable.virginm.net) has quit (Ping timeout: 248 seconds)
+2017-12-09 13:47:05	--	irc: disconnected from server
+2017-12-09 13:48:24	-->	C3D2 (~C3D2@cpc84741-aztw28-2-0-cust480.18-1.cable.virginm.net) has joined #xroutine
+2017-12-09 13:48:24	--	Topic for #xroutine is "Come talk about all things technology! Programming! Linux! Open source projects! Arduino! Security! IoT like the raspberry pi! Arm devices! Your pet tech projects are at home at xroutine!"
+2017-12-09 13:48:24	--	Topic set by blowfist (~nik_89@unaffiliated/nniro) on Wed, 15 Feb 2017 03:59:19
+2017-12-09 13:48:24	--	Channel #xroutine: 18 nicks (1 op, 0 voices, 17 normals)
+2017-12-09 13:48:24	--	Channel created on Sat, 28 Jul 2012 20:12:06
+2017-12-09 13:54:00		[13:48]
+2017-12-09 14:41:15	--	irc: disconnected from server
+2017-12-09 14:41:15		[14:41]
+2017-12-09 14:41:42	-->	C3D2 (~C3D2@cpc84741-aztw28-2-0-cust480.18-1.cable.virginm.net) has joined #xroutine
+2017-12-09 14:41:42	--	Topic for #xroutine is "Come talk about all things technology! Programming! Linux! Open source projects! Arduino! Security! IoT like the raspberry pi! Arm devices! Your pet tech projects are at home at xroutine!"
+2017-12-09 14:41:42	--	Topic set by blowfist (~nik_89@unaffiliated/nniro) on Wed, 15 Feb 2017 03:59:19
+2017-12-09 14:41:42	--	Channel #xroutine: 18 nicks (1 op, 0 voices, 17 normals)
+2017-12-09 14:41:47	--	Channel created on Sat, 28 Jul 2012 20:12:06
+2017-12-09 14:47:00		[14:41]
+2017-12-09 16:44:37	-->	KanalMonster (~KanalMons@ip5b41a709.dynamic.kabel-deutschland.de) has joined #xroutine
+2017-12-09 16:44:37		[16:44]
+2017-12-09 16:48:25	MrBismuth	any good CLI toool oughta be
+2017-12-09 16:48:40	MrBismuth	so, I mean, should I get into coin mining?
+2017-12-09 16:54:00		[16:48]
+2017-12-09 16:56:44	MrBismuth	might be able to subversively offload the burden of the electricity onto my Father
+2017-12-09 16:57:06	MrBismuth	rather do it to my Uncle but I doubt he'll let me run a headless remote host from his house
+2017-12-09 17:03:00		[16:57]
+2017-12-11 13:27:51	-->	C3D2 (~C3D2@cpc87143-aztw31-2-0-cust107.18-1.cable.virginm.net) has joined #xroutine
+2017-12-11 13:27:51		[13:27]
+2017-12-11 13:27:51	--	Topic for #xroutine is "Come talk about all things technology! Programming! Linux! Open source projects! Arduino! Security! IoT like the raspberry pi! Arm devices! Your pet tech projects are at home at xroutine!"
+2017-12-11 13:27:51	--	Topic set by blowfist (~nik_89@unaffiliated/nniro) on Wed, 15 Feb 2017 03:59:19
+2017-12-11 13:27:51	--	Channel #xroutine: 18 nicks (1 op, 0 voices, 17 normals)
+2017-12-11 13:27:55	--	Channel created on Sat, 28 Jul 2012 20:12:06
+2017-12-11 13:27:58	C3D2	o/
+2017-12-11 13:33:00		[13:27]
+2017-12-11 13:57:43	<--	FlibberTGibbet (~david@cust241-dsl93-89-129.idnet.net) has quit (Ping timeout: 240 seconds)
+2017-12-11 13:57:43		[13:57]
+2017-12-11 14:07:11	-->	FlibberTGibbet (~david@cust241-dsl93-89-129.idnet.net) has joined #xroutine
+2017-12-11 14:07:29	FlibberTGibbet	\o again
+2017-12-11 14:08:45	C3D2	How's it hanging?
+2017-12-11 14:14:00		[14:08]
+2017-12-11 14:27:42	FlibberTGibbet	not so bad, and you?
+2017-12-11 14:29:38	C3D2	Working from home today, so it's just a whole load of small pains in the arse!
+2017-12-11 14:29:38		[14:29]
+2017-12-11 14:30:00	C3D2	Ah well, what can you do (apart from go into the office)
+2017-12-11 14:30:30	FlibberTGibbet	my office is in the garage, so working from home is a 10 second trip... :)
+2017-12-11 14:31:03	C3D2	What is it you do?
+2017-12-11 14:32:28	FlibberTGibbet	mostly ship VDR data extractions at the moment. bit of web/publishing stuff and some light sysadmin duties.
+2017-12-11 14:32:37	FlibberTGibbet	and you?
+2017-12-11 14:33:31	C3D2	I'm stuck on helldesk
+2017-12-11 14:33:43	 *	FlibberTGibbet nods his head sympathetically
+2017-12-11 14:33:53	FlibberTGibbet	what sort of applications/OSes?
+2017-12-11 14:34:14	C3D2	Windows mostly, all sorts of applications
+2017-12-11 14:34:28	C3D2	It's for an msp, so it's basically "support it regardless"
+2017-12-11 14:34:51	FlibberTGibbet	ah, Windows. just gave me a pleasant morning watching updates, restarts and 'please wait' screens. mostly the latter...
+2017-12-11 14:35:01	C3D2	Of course!
+2017-12-11 14:35:31	FlibberTGibbet	i know the feeling. i'm 'accidentally the support' for a few major clients on nav software
+2017-12-11 14:35:56	C3D2	poor so
+2017-12-11 14:35:57	C3D2	sod
+2017-12-11 14:36:04	FlibberTGibbet	hopefully won't get woken at 2am to deal with an issue playing out live on a ship, but there's a first time for everything :)
+2017-12-11 14:36:24	FlibberTGibbet	mostly i'm just pointing them at a ticketing site, and it's very low traffic.
+2017-12-11 14:36:36	C3D2	Offer them a sextant and tell 'em to get on with it
+2017-12-11 14:37:06	FlibberTGibbet	lol. if only. think the oil and gas folks will  be after more from me :)
+2017-12-11 14:37:37	FlibberTGibbet	though tbh there's nothing in the support agreement to sugget 24/7/365 -- it's more about updates and edits.
+2017-12-11 14:37:49	FlibberTGibbet	s/sugget/suggest
+2017-12-11 14:38:02	C3D2	I mean if they're really pushy, a couple of paper charts can't be that hard to get a hold of
+2017-12-11 14:38:56	FlibberTGibbet	they usually have those as backups anyway -- just provided a few clients with printed sets of charts. but they do rather like the super-expensive dual head gps systems and the piloting software do behave like it says on the tin. so far, so good...
+2017-12-11 14:39:28	C3D2	Rewrite the tin!
+2017-12-11 14:39:38	FlibberTGibbet	lol! not a bad plan...
+2017-12-11 14:40:05	FlibberTGibbet	well chuffed to find my lost soldering iron in the attic yesterday while looking for the Fake Festive Tree
+2017-12-11 14:40:20	FlibberTGibbet	plus all sorts of other fun hand tools
+2017-12-11 14:40:44	C3D2	Soldering irons are always fun
+2017-12-11 14:40:50	C3D2	What else did you find?
+2017-12-11 14:41:11	FlibberTGibbet	true. at least this one saves trips to the hackspace 25 miles away just to lash together a simple microphone or whatever
+2017-12-11 14:41:27	C3D2	Exactly!
+2017-12-11 14:41:55	C3D2	If I'm honest, I should probably get myself a half-decent iron... I'm just lazy.
+2017-12-11 14:42:06	FlibberTGibbet	some micro-sized wood planes and marking tools, a wire detector, nice saws, chisels. forgot i had half of it :)
+2017-12-11 14:42:37	FlibberTGibbet	my iron is crap compared to the fancy temp-controlled jobs at the hackspace but it's good enough to solder wire x to component y
+2017-12-11 14:42:55	C3D2	Guess you got yourself a little treat, then.
+2017-12-11 14:43:03	FlibberTGibbet	yup
+2017-12-11 14:43:32	C3D2	Ditto, except it takes forever to heat up even a single degree, is heavy and unweildy, and could probably do with a new tip or four.
+2017-12-11 14:43:32	FlibberTGibbet	now to find somewhere to assemble stuff. ran out of room in our shoebox house ages ago
+2017-12-11 14:44:12	FlibberTGibbet	good point, haven't tested mine yet.
+2017-12-11 14:44:26	FlibberTGibbet	be back in a bit -- school run :/
+2017-12-11 14:44:31	C3D2	Have fun
+2017-12-11 14:50:00		[14:44]
+2017-12-11 15:14:26	geniack_	\o
+2017-12-11 15:14:26		[15:14]
+2017-12-11 15:15:45	C3D2	guten tag
+2017-12-11 15:21:00		[15:15]
+2017-12-11 16:08:41	pekka10	hi
+2017-12-11 16:08:41		[16:08]
+2017-12-11 16:08:54	C3D2	Hey there
+2017-12-11 16:09:42	pekka10	I just installed Crux on a 64GB EVO SD-card which I thought should be good shit
+2017-12-11 16:09:46	pekka10	but its slow
+2017-12-11 16:10:02	FlibberTGibbet	 much swapping?
+2017-12-11 16:10:08	pekka10	much slower than the 16GB card I've been using
+2017-12-11 16:10:17	pekka10	No swap enabled
+2017-12-11 16:10:21	C3D2	What class are the cards?
+2017-12-11 16:10:36	pekka10	chromebooks has 4GB ram
+2017-12-11 16:14:23	pekka10	I bought this because I had good review on I/O
+2017-12-11 16:17:51	pekka10	http://www.samsung.com/uk/memory-storage/evo-microsd-card-with-sd-adapter/MB-MP64DAEU/
+2017-12-11 16:17:53	--	Notice(xroutine): [X] 64GB Samsung SDXC EVO Memory Card with SD adaptor - Samsung UK
+2017-12-11 16:23:00		[16:17]
+2017-12-11 16:29:34	<--	geniack_ (5e65241b@gateway/web/freenode/ip.94.101.36.27) has quit (Quit: Page closed)
+2017-12-11 16:32:22	<--	FlibberTGibbet (~david@cust241-dsl93-89-129.idnet.net) has quit (Ping timeout: 248 seconds)
+2017-12-11 16:38:00		[16:32]
+2017-12-11 16:59:28	-->	FlibberTGibbet (~david@cust241-dsl93-89-129.idnet.net) has joined #xroutine
+2017-12-11 16:59:28		[16:59]
+2017-12-11 18:16:56	--	irc: disconnected from server
+2017-12-12 09:24:59	-->	C3D2 (~C3D2@cpc87143-aztw31-2-0-cust107.18-1.cable.virginm.net) has joined #xroutine
+2017-12-12 09:24:59		[09:24]
+2017-12-12 09:24:59	--	Topic for #xroutine is "Come talk about all things technology! Programming! Linux! Open source projects! Arduino! Security! IoT like the raspberry pi! Arm devices! Your pet tech projects are at home at xroutine!"
+2017-12-12 09:24:59	--	Topic set by blowfist (~nik_89@unaffiliated/nniro) on Wed, 15 Feb 2017 03:59:19
+2017-12-12 09:24:59	--	Channel #xroutine: 19 nicks (1 op, 0 voices, 18 normals)
+2017-12-12 09:25:03	--	Channel created on Sat, 28 Jul 2012 20:12:06
+2017-12-12 09:25:15	C3D2	Morn' all
+2017-12-12 09:31:00		[09:25]
+2017-12-12 11:19:43	d3r1ck	C3D2: Hey!
+2017-12-12 11:19:43		[11:19]
+2017-12-12 11:19:47	d3r1ck	Good morning
+2017-12-12 11:25:00		[11:19]
+2017-12-12 11:32:34	C3D2	How's it hanging?
+2017-12-12 11:38:00		[11:32]
+2017-12-12 11:39:54	d3r1ck	C3D2: Cool and you?
+2017-12-12 11:45:00		[11:39]
+2017-12-12 12:25:13	C3D2	Can't complain, though work is busy enough
+2017-12-12 12:25:13		[12:25]
+2017-12-12 12:27:52	d3r1ck	:)
+2017-12-12 12:28:33	C3D2	Getting that lovely lunch break now though, it's wonderful
+2017-12-12 12:31:36	d3r1ck	:D
+2017-12-12 12:37:00		[12:31]
+2017-12-12 14:36:03	pekka10	I time to geek
+2017-12-12 14:36:03		[14:36]
+2017-12-12 16:27:25		[C3D2 away: Going home]
+2017-12-12 16:27:25		[16:27]
+2017-12-12 16:27:30	--	irc: disconnected from server
+2017-12-12 18:28:19	-->	C3D2 (~C3D2@cpc87143-aztw31-2-0-cust107.18-1.cable.virginm.net) has joined #xroutine
+2017-12-12 18:28:19		[18:28]
+2017-12-12 18:28:19	--	Topic for #xroutine is "Come talk about all things technology! Programming! Linux! Open source projects! Arduino! Security! IoT like the raspberry pi! Arm devices! Your pet tech projects are at home at xroutine!"
+2017-12-12 18:28:19	--	Topic set by blowfist (~nik_89@unaffiliated/nniro) on Wed, 15 Feb 2017 03:59:19
+2017-12-12 18:28:19	--	Channel #xroutine: 19 nicks (1 op, 0 voices, 18 normals)
+2017-12-12 18:28:24	--	Channel created on Sat, 28 Jul 2012 20:12:06
+2017-12-12 18:28:28	d3r1ck	You can check by doing a /whois on my handle :)
+2017-12-12 18:28:42	C3D2	Well that traffic was horrific
+2017-12-12 18:29:02	d3r1ck	C3D2: Traffic?
+2017-12-12 18:29:15	pekka10	d3r1ck: nice
+2017-12-12 18:29:41	d3r1ck	pekka10: But you can read more about Github's Linguist tool right?
+2017-12-12 18:29:49	C3D2	d3r1ck: At 16:27 I left as I was going home (from the office)
+2017-12-12 18:29:53	d3r1ck	To know how it works, so you can hack it on your own when it's time
+2017-12-12 18:29:57	pekka10	d3r1ck: I see the days burning around on IRC as root is over.. ;)
+2017-12-12 18:30:14	d3r1ck	pekka10: Yeah! Thanks to you all and many more
+2017-12-12 18:30:22	d3r1ck	Your boy is manning up pekka10 :D
+2017-12-12 18:30:48	C3D2	What'd I miss?
+2017-12-12 18:31:05	pekka10	C3D2: planting rootkit on d3r1ck server?
+2017-12-12 18:31:11	d3r1ck	C3D2: Just a little discussion I was having with pekka10 about Github :)
+2017-12-12 18:31:16	C3D2	Fair enough
+2017-12-12 18:31:21	C3D2	To either or
+2017-12-12 18:31:29	d3r1ck	C3D2: :D, I don't want that
+2017-12-12 18:31:32	d3r1ck	pekka10: rootkit?
+2017-12-12 18:32:01	d3r1ck	https://en.wikipedia.org/wiki/Rootkit
+2017-12-12 18:32:04	--	Notice(xroutine): [X] Rootkit - Wikipedia
+2017-12-12 18:33:46	pekka10	if you use root user uncriticly, then rootkits can happen..
+2017-12-12 18:34:38	d3r1ck	pekka10: No mroe root user
+2017-12-12 18:35:14	d3r1ck	I'm using a ZNC plus a secure connection (protected by a powerful SSL) and also, a cloak
+2017-12-12 18:35:35	d3r1ck	Also, i've got passwords of different levels so it will be hard to catch me :D
+2017-12-12 18:35:44	C3D2	i'm running as root on my prod server
+2017-12-12 18:35:48	C3D2	am i doing it right
+2017-12-12 18:36:32	pekka10	I just had to check..
+2017-12-12 18:36:40	d3r1ck	pekka10: check me or C3D2
+2017-12-12 18:36:45	d3r1ck	I see C3D2 here: ~C3D2@cpc87143-aztw31-2-0-cust107.18-1.cable.virginm.net
+2017-12-12 18:42:00		[18:36]
+2017-12-12 18:43:56	d3r1ck	pekka10: this is me on Github
+2017-12-12 18:43:58	d3r1ck	https://github.com/ch3nkula
+2017-12-12 18:44:02	--	Notice(xroutine): [X] ch3nkula (Derick N. Alangi) · GitHub
+2017-12-12 18:44:34	pekka10	yea, I saw your site some time ago
+2017-12-12 18:44:47	d3r1ck	pekka10: Which site please?
+2017-12-12 18:44:57	d3r1ck	I'm usually very curious :)
+2017-12-12 18:45:26	pekka10	I'm impressed by your frequency: 7,971 contributions in the last year
+2017-12-12 18:45:38	d3r1ck	:)
+2017-12-12 18:45:43	d3r1ck	Got a long term project in my mind
+2017-12-12 18:45:45	d3r1ck	https://github.com/ch3nkula/gosql-analyzer
+2017-12-12 18:45:48	--	Notice(xroutine): [X] GitHub - ch3nkula/gosql-analyzer: Go tool for analyzing SQL Queries to improve on Database Performance in various DBMS.
+2017-12-12 18:45:54	pekka10	you sure Wikipedia can run without you?
+2017-12-12 18:45:58	d3r1ck	Haven't been active on the project recently but will resume soon
+2017-12-12 18:46:25	d3r1ck	pekka10: Of course, I'm a drop of water in an ocean when it comes to Wikipedia
+2017-12-12 18:46:30	d3r1ck	Why do you say so? pekka10
+2017-12-12 18:46:32	pekka10	yea, I see Go is starting to be used everywhere
+2017-12-12 18:46:44	d3r1ck	pekka10: Go is revolutionary :D
+2017-12-12 18:47:04	d3r1ck	pekka10: We can work on that project if you want. Together
+2017-12-12 18:47:35	d3r1ck	pekka10: currently working on the architectural design here: https://github.com/ch3nkula/gosql-analyzer/tree/architecture-design
+2017-12-12 18:47:36	xlambda	http://tinyurl.com/y8zpq5h4
+2017-12-12 18:47:36	pekka10	yea, and I see Go is starting to get supported, meaning I assume it will get easier to compile Go apps next time
+2017-12-12 18:47:39	--	Notice(xroutine): [X] GitHub - ch3nkula/gosql-analyzer at architecture-design
+2017-12-12 18:47:42	--	Notice(xroutine): [X] GitHub - ch3nkula/gosql-analyzer at architecture-design
+2017-12-12 18:47:59	d3r1ck	You are correct on that pekka10
+2017-12-12 18:48:04	d3r1ck	Here is a prototype: https://github.com/ch3nkula/gosql-analyzer/tree/nws-prototype
+2017-12-12 18:48:04	xlambda	http://tinyurl.com/y9qqfvbh
+2017-12-12 18:48:05	pekka10	I need to learn python first
+2017-12-12 18:48:07	--	Notice(xroutine): [X] GitHub - ch3nkula/gosql-analyzer at nws-prototype
+2017-12-12 18:48:11	--	Notice(xroutine): [X] GitHub - ch3nkula/gosql-analyzer at nws-prototype
+2017-12-12 18:48:16	d3r1ck	pekka10: Ohh python is my Mother language :)
+2017-12-12 18:48:35	d3r1ck	It's a very important piece of language in our world today!
+2017-12-12 18:48:49	d3r1ck	If you can speak python, you will easily adapt in many places
+2017-12-12 18:48:52	pekka10	yea, and I see python is used everywhere
+2017-12-12 18:49:23	pekka10	even Libre Office allow python to be used for making macros
+2017-12-12 18:49:39	d3r1ck	:)
+2017-12-12 18:49:43	d3r1ck	Check out this: https://spectrum.ieee.org/computing/software/the-2017-top-programming-languages
+2017-12-12 18:49:44	xlambda	http://tinyurl.com/ybbtr6qy
+2017-12-12 18:49:45	--	Notice(xroutine): [X] error
+2017-12-12 18:49:50	blowfist	d3r1ck: ttssss  ttsk tttsssss tsk tsk tsssk!
+2017-12-12 18:50:09	d3r1ck	blowfist: Hey! :)
+2017-12-12 18:50:35	d3r1ck	Hope you are doing great?
+2017-12-12 18:50:47	blowfist	I'm ok and you?
+2017-12-12 18:51:33	d3r1ck	A little free today to discuss with my xroutine pals :)
+2017-12-12 18:52:26	blowfist	just don't talk in your python mother language though please
+2017-12-12 18:52:47	blowfist	;P
+2017-12-12 18:52:52	d3r1ck	Do I even know how to speak python very well? :D
+2017-12-12 18:53:12	d3r1ck	When it comes to python, I'm mostly good at things related to AI, ML, NN etc...
+2017-12-12 18:53:20	d3r1ck	Flying drones, SDC etc
+2017-12-12 18:53:30	blowfist	13:51 < d3r1ck> pekka10: Ohh python is my Mother language :)
+2017-12-12 18:53:37	d3r1ck	Things like scripting servers, web applications, not really good at that.
+2017-12-12 18:53:46	d3r1ck	blowfist: yeah! :D
+2017-12-12 18:54:21	d3r1ck	blowfist: So what's up?
+2017-12-12 18:55:16	blowfist	I'm having "fun" trying to write a python program to create a graph in matplotlib
+2017-12-12 18:55:29	blowfist	it's for my work and I'm not really having fun
+2017-12-12 18:56:13	d3r1ck	I can help you do that
+2017-12-12 18:56:21	d3r1ck	If you permit me :D
+2017-12-12 18:56:41	d3r1ck	So where are you stuck sir?
+2017-12-12 18:57:46	d3r1ck	blowfist: So will you be using Jupyter Notebook? To develop the code?
+2017-12-12 18:57:46		[18:57]
+2017-12-12 18:57:55	d3r1ck	That will be the fastest way out :)
+2017-12-12 18:58:19	blowfist	I'm not stuck, it's just very boring work
+2017-12-12 18:58:31	d3r1ck	Ohhh okay!
+2017-12-12 19:00:52	blowfist	I just use vim
+2017-12-12 19:03:26	d3r1ck	blowfist: The graphs will be created on VIM? Or exported to an image or something?
+2017-12-12 19:03:56	d3r1ck	You could have a look at what jupyter notebook can offer
+2017-12-12 19:05:15	blowfist	what is that?
+2017-12-12 19:05:23	blowfist	it's exported to an image
+2017-12-12 19:06:30	d3r1ck	Jupyter notebook is a web-based notebook environment for interactive computing.
+2017-12-12 19:06:56	d3r1ck	https://github.com/jupyter/notebook
+2017-12-12 19:06:59	--	Notice(xroutine): [X] GitHub - jupyter/notebook: Jupyter Interactive Notebook
+2017-12-12 19:07:02	d3r1ck	http://jupyter.org/
+2017-12-12 19:07:03	xlambda	Title: Project Jupyter | Home
+2017-12-12 19:07:04	--	Notice(xroutine): [X] Project Jupyter | Home
+2017-12-12 19:07:09	d3r1ck	http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html
+2017-12-12 19:07:10	xlambda	Title: 1. What is the Jupyter Notebook? — Jupyter/IPython Notebook Quick Start Gui..., http://tinyurl.com/y9dsnuez
+2017-12-12 19:07:12	--	Notice(xroutine): [X] 1. What is the Jupyter Notebook?  Jupyter/IPython Notebook Quick Start Guide 0.1 documentation
+2017-12-12 19:07:52	d3r1ck	blowfist: So you can install conda and create a python (2 or 3) venv and then leverage the power of jupyter notebook
+2017-12-12 19:08:19	d3r1ck	Writing python code into the notebook to use resources in the venv and do magic :)
+2017-12-12 19:08:39	d3r1ck	Like using matplotlib to create graphs etc..
+2017-12-12 19:08:52	pekka10	d3r1ck: blowfist dont know abuot GUI. blowfist use console login only
+2017-12-12 19:09:03	d3r1ck	Ohhh, blowfist sorry about that.
+2017-12-12 19:09:07	d3r1ck	pekka10: Okay! I didn't know :D
+2017-12-12 19:10:32	pekka10	when blowfist need the figures, he use a Dot Matrix printer like this: https://www.youtube.com/watch?v=VXbP7OkQ8LQ
+2017-12-12 19:10:35	--	Notice(xroutine): [X] Imperial March on Dot Matrix Printer - YouTube
+2017-12-12 19:12:52	blowfist	yeah TTY only usually, and certainly not cloud ressources ^^
+2017-12-12 19:12:52		[19:12]
+2017-12-12 19:13:04	pekka10	this is how we had fun in the 80-ties :DDD https://www.youtube.com/watch?v=pX4tBIwhOqY
+2017-12-12 19:13:07	--	Notice(xroutine): [X] Toccata and Fugue in DOT minor - Bach on a DOT MATRIX PRINTER - YouTube
+2017-12-12 19:15:03	pekka10	I guess, if blowfist did enter the 21-century, and tried Jupyter/IPython, then maybe d3r1ck could have helped with some native Python speaking..
+2017-12-12 19:15:05	d3r1ck	pekka10: you were existing in the 80s?
+2017-12-12 19:16:03	pekka10	yea, and I had a CBM64, and I did play music like this on the 1456 5 inch floppy drive..
+2017-12-12 19:16:05	d3r1ck	pekka10: :D
+2017-12-12 19:16:24	blowfist	5 inch floppy drive ahah
+2017-12-12 19:16:45	blowfist	these were like 128KB ;P
+2017-12-12 19:16:48	pekka10	yea, it was for the cool guys, all the rest had tape
+2017-12-12 19:18:01	blowfist	I was born in the 80s ^^
+2017-12-12 19:18:13	d3r1ck	:D :D :D
+2017-12-12 19:18:52	pekka10	it was the 1541
+2017-12-12 19:23:21	blowfist	still the viking period
+2017-12-12 19:25:00	pekka10	I had my first real computing experience on a DEC, running a real Unix
+2017-12-12 19:28:18	d3r1ck	Wow, I should increase my level of respect here
+2017-12-12 19:28:18		[19:28]
+2017-12-12 19:28:31	d3r1ck	I was born in the late 90s
+2017-12-12 19:28:47	d3r1ck	*1990s
+2017-12-12 19:29:16	d3r1ck	If pekka10 existed in the 1880s, then I need to start checking out myself around here :D
+2017-12-12 19:31:42	blowfist	rofl
+2017-12-12 19:31:59		[C3D2 away: Feeding time at the zoo]
+2017-12-12 19:32:03	blowfist	you just got a lot older all of a sudden pekka10 ;P
+2017-12-12 19:32:53	pekka10	blowfist: I'm ancient, I'm super-human
+2017-12-12 19:33:28	blowfist	yeah and you chat with us from valhalla
+2017-12-12 19:38:56	d3r1ck	:D
+2017-12-12 19:44:00		[19:38]
+2017-12-12 19:45:04	pekka10	blowfist: I remeber these BBS where you could download text-files with 1337
+2017-12-12 19:51:00		[19:45]
+2017-12-12 19:53:57		[C3D2 back: gone 00:21:58]
+2017-12-12 19:56:27	blowfist	that was way before my time ;P
+2017-12-12 20:02:00		[19:56]
+2017-12-12 20:20:29	gischy	pekka10
+2017-12-12 20:20:29		[20:20]
+2017-12-12 20:20:36	gischy	pekka10: you there?
+2017-12-12 20:20:38	pekka10	yea
+2017-12-12 20:20:41	gischy	nice
+2017-12-12 20:20:48	gischy	can we teamspeak in 10 mins?
+2017-12-12 20:20:51	pekka10	what's up?
+2017-12-12 20:20:54	gischy	:-D
+2017-12-12 20:20:55	pekka10	yea
+2017-12-12 20:20:57	pekka10	or
+2017-12-12 20:21:11	pekka10	let me se if I have TS
+2017-12-12 20:21:43	gischy	its xroutine.de
+2017-12-12 20:21:47	gischy	but im afk for 10 mins
+2017-12-12 20:21:49	gischy	brb
+2017-12-12 20:27:00		[20:21]
+2017-12-12 20:31:50	<--	xlambda (~xlambda@unaffiliated/nniro) has quit (Ping timeout: 248 seconds)
+2017-12-12 20:32:24	<--	d3r1ck (derick@wikimedia/Alangi-Derick) has quit (Ping timeout: 248 seconds)
+2017-12-12 20:32:39	<--	Garubis[m] (garubismat@gateway/shell/matrix.org/x-msmtynvzvnrggtdr) has quit (Ping timeout: 248 seconds)
+2017-12-12 20:32:56	-->	xlambda (~xlambda@unaffiliated/nniro) has joined #xroutine
+2017-12-12 20:37:20	-->	d3r1ck (derick@wikimedia/Alangi-Derick) has joined #xroutine
+2017-12-12 20:37:44	-->	Garubis[m] (garubismat@gateway/shell/matrix.org/x-gruoxnypamcmngsv) has joined #xroutine
+2017-12-12 20:43:00		[20:37]
+2017-12-12 20:47:06	--	irc: disconnected from server
+2017-12-13 11:31:08	-->	C3D2 (~C3D2@cpc87143-aztw31-2-0-cust107.18-1.cable.virginm.net) has joined #xroutine
+2017-12-13 11:31:08		[11:31]
+2017-12-13 11:31:08	--	Topic for #xroutine is "Come talk about all things technology! Programming! Linux! Open source projects! Arduino! Security! IoT like the raspberry pi! Arm devices! Your pet tech projects are at home at xroutine!"
+2017-12-13 11:31:08	--	Topic set by blowfist (~nik_89@unaffiliated/nniro) on Wed, 15 Feb 2017 03:59:19
+2017-12-13 11:31:08	--	Channel #xroutine: 19 nicks (1 op, 0 voices, 18 normals)
+2017-12-13 11:31:12	--	Channel created on Sat, 28 Jul 2012 20:12:06
+2017-12-13 11:37:00		[11:31]
+2017-12-13 12:31:23	<--	FlibberTGibbet (~david@cust241-dsl93-89-129.idnet.net) has quit (Ping timeout: 260 seconds)
+2017-12-13 12:31:23		[12:31]
+2017-12-13 12:33:49	-->	FlibberTGibbet (~david@cust241-dsl93-89-129.idnet.net) has joined #xroutine
+2017-12-13 12:39:00		[12:33]

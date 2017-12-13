@@ -1907,4 +1907,1177 @@
 2017-12-07 20:48:02		Options saved to aspell.conf
 2017-12-07 20:48:02		Options saved to alias.conf
 2017-12-07 20:48:02		Options saved to xfer.conf
-2017-12-07 20:48
+2017-12-07 20:482017-12-07 20:49:48	=!=	Warning: /home/rjh/.weechat/aspell.conf, line 7: unknown option for section "color": suggestions = default
+2017-12-07 20:49:48	=!=	Warning: /home/rjh/.weechat/irc.conf, line 30: unknown option for section "look": item_away_message = on
+2017-12-07 20:49:48	=!=	Warning: /home/rjh/.weechat/irc.conf, line 39: unknown option for section "look": nick_color_force = ""
+2017-12-07 20:49:48	=!=	Warning: /home/rjh/.weechat/irc.conf, line 40: unknown option for section "look": nick_color_hash = sum
+2017-12-07 20:49:48	=!=	Warning: /home/rjh/.weechat/irc.conf, line 41: unknown option for section "look": nick_color_stop_chars = "_|["
+2017-12-07 20:49:48	=!=	Warning: /home/rjh/.weechat/irc.conf, line 68: unknown option for section "color": item_away = yellow
+2017-12-07 20:49:48	=!=	Warning: /home/rjh/.weechat/irc.conf, line 122: unknown option for section "server_default": default_msg_kick = ""
+2017-12-07 20:49:48	=!=	Warning: /home/rjh/.weechat/irc.conf, line 123: unknown option for section "server_default": default_msg_part = "WeeChat %v"
+2017-12-07 20:49:48	=!=	Warning: /home/rjh/.weechat/irc.conf, line 124: unknown option for section "server_default": default_msg_quit = "WeeChat %v"
+2017-12-07 20:49:48	=!=	irc: error creating server option "freenode.default_msg_kick"
+2017-12-07 20:49:48	=!=	Warning: /home/rjh/.weechat/irc.conf, line 183: invalid value for option: freenode.default_msg_kick
+2017-12-07 20:49:48	=!=	irc: error creating server option "freenode.default_msg_part"
+2017-12-07 20:49:48	=!=	Warning: /home/rjh/.weechat/irc.conf, line 184: invalid value for option: freenode.default_msg_part
+2017-12-07 20:49:48	=!=	irc: error creating server option "freenode.default_msg_quit"
+2017-12-07 20:49:48	=!=	Warning: /home/rjh/.weechat/irc.conf, line 185: invalid value for option: freenode.default_msg_quit
+2017-12-07 20:49:48		URL server listening on ('127.0.1.1', 36883)
+2017-12-07 20:49:48		python: stdout/stderr: Package python-xmpp (xmpppy) must be installed to use Jabber protocol.
+2017-12-07 20:49:48		[20:49]
+2017-12-07 20:49:48		python: stdout/stderr: Get xmpppy with your package manager, or at this URL: http://xmpppy.sourceforge.net/
+2017-12-07 20:49:48	=!=	python: function "register" not found (or failed) in file "/home/rjh/dotfiles/weechat/python/autoload/jabber.py"
+2017-12-07 20:49:48		[vimode.py] Problematic keybindings detected:
+2017-12-07 20:49:48		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-07 20:49:48		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-07 20:49:48		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-07 20:49:48		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-07 20:49:48		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-07 20:49:48		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-07 20:49:48		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-07 20:49:48		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-07 20:49:48		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-07 20:49:48		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-07 20:49:48		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-07 20:49:48		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-07 20:49:48		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-07 20:49:48		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-07 20:49:48		[vimode.py] These keybindings may conflict with vimode.
+2017-12-07 20:49:48		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-07 20:49:48		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-07 20:49:48		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-07 20:49:48		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-07 20:49:48		perl scripts loaded: beep, buffers, colorize_lines, iset
+2017-12-07 20:49:48	=!=	Warning: /home/rjh/.weechat/script.conf, line 50: unknown option for section "scripts": url_force_https = on
+2017-12-07 20:49:48		script: 351 scripts for WeeChat 1.9-dev
+2017-12-07 20:49:48		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-07 20:50:33		fifo: pipe closed
+2017-12-07 20:50:33		perl: scripts unloaded
+2017-12-07 20:50:33		URL server stopped
+2017-12-07 20:50:33		python: scripts unloaded
+2017-12-08 11:45:18		URL server listening on ('127.0.1.1', 47830)
+2017-12-08 11:45:18		python: stdout/stderr: Package python-xmpp (xmpppy) must be installed to use Jabber protocol.
+2017-12-08 11:45:18		[11:45]
+2017-12-08 11:45:18		python: stdout/stderr: Get xmpppy with your package manager, or at this URL: http://xmpppy.sourceforge.net/
+2017-12-08 11:45:18	=!=	python: function "register" not found (or failed) in file "/home/rjh/dotfiles/weechat/python/autoload/jabber.py"
+2017-12-08 11:45:18		[vimode.py] Problematic keybindings detected:
+2017-12-08 11:45:18		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-08 11:45:18		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-08 11:45:18		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-08 11:45:18		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-08 11:45:18		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-08 11:45:18		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-08 11:45:18		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-08 11:45:18		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-08 11:45:18		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-08 11:45:18		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-08 11:45:18		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-08 11:45:18		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-08 11:45:18		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-08 11:45:18		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-08 11:45:18		[vimode.py] These keybindings may conflict with vimode.
+2017-12-08 11:45:18		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-08 11:45:18		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-08 11:45:18		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-08 11:45:18		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-08 11:45:18		perl scripts loaded: beep, buffers, colorize_lines, iset
+2017-12-08 11:45:18		script: downloading list of scripts...
+2017-12-08 11:45:18		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-08 11:45:18	=!=	script: list of scripts is empty (repository file is broken, or download has failed)
+2017-12-08 11:48:05	=!=	irc: command "join" must be executed on connected irc server
+2017-12-08 11:50:07		fifo: pipe closed
+2017-12-08 11:50:07		perl: scripts unloaded
+2017-12-08 11:50:07		URL server stopped
+2017-12-08 11:50:08		python: scripts unloaded
+2017-12-08 14:30:37		URL server listening on ('127.0.1.1', 47786)
+2017-12-08 14:30:37		python: stdout/stderr: Package python-xmpp (xmpppy) must be installed to use Jabber protocol.
+2017-12-08 14:30:37		[14:30]
+2017-12-08 14:30:37		python: stdout/stderr: Get xmpppy with your package manager, or at this URL: http://xmpppy.sourceforge.net/
+2017-12-08 14:30:37	=!=	python: function "register" not found (or failed) in file "/home/rjh/dotfiles/weechat/python/autoload/jabber.py"
+2017-12-08 14:30:38		[vimode.py] Problematic keybindings detected:
+2017-12-08 14:30:38		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-08 14:30:38		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-08 14:30:38		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-08 14:30:38		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-08 14:30:38		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-08 14:30:38		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-08 14:30:38		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-08 14:30:38		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-08 14:30:38		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-08 14:30:38		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-08 14:30:38		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-08 14:30:38		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-08 14:30:38		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-08 14:30:38		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-08 14:30:38		[vimode.py] These keybindings may conflict with vimode.
+2017-12-08 14:30:38		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-08 14:30:38		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-08 14:30:38		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-08 14:30:38		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-08 14:30:38		perl scripts loaded: beep, buffers, colorize_lines, iset
+2017-12-08 14:30:38	=!=	script: list of scripts is empty (repository file is broken, or download has failed)
+2017-12-08 14:30:38		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-08 14:31:39		Option changed: irc.server.freenode.autoconnect = on  (default if null: off)
+2017-12-08 14:32:31		Option changed: irc.server.freenode.autojoin = ""##sailing,##linux,##xroutine"  (default if null: "")
+2017-12-08 14:32:35		Option changed: irc.server.freenode.autojoin = ""##sailing,##linux,#xroutine"  (default if null: "")
+2017-12-08 14:32:39		fifo: pipe closed
+2017-12-08 14:32:39		perl: scripts unloaded
+2017-12-08 14:32:39		URL server stopped
+2017-12-08 14:32:39		python: scripts unloaded
+2017-12-08 14:32:47		URL server listening on ('127.0.1.1', 50377)
+2017-12-08 14:32:47		python: stdout/stderr: Package python-xmpp (xmpppy) must be installed to use Jabber protocol.
+2017-12-08 14:32:47		[14:32]
+2017-12-08 14:32:47		python: stdout/stderr: Get xmpppy with your package manager, or at this URL: http://xmpppy.sourceforge.net/
+2017-12-08 14:32:47	=!=	python: function "register" not found (or failed) in file "/home/rjh/dotfiles/weechat/python/autoload/jabber.py"
+2017-12-08 14:32:47		[vimode.py] Problematic keybindings detected:
+2017-12-08 14:32:47		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-08 14:32:47		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-08 14:32:47		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-08 14:32:47		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-08 14:32:47		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-08 14:32:47		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-08 14:32:47		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-08 14:32:47		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-08 14:32:47		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-08 14:32:47		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-08 14:32:47		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-08 14:32:47		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-08 14:32:47		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-08 14:32:47		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-08 14:32:47		[vimode.py] These keybindings may conflict with vimode.
+2017-12-08 14:32:47		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-08 14:32:47		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-08 14:32:47		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-08 14:32:47		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-08 14:32:47		perl scripts loaded: beep, buffers, colorize_lines, iset
+2017-12-08 14:32:47	=!=	script: list of scripts is empty (repository file is broken, or download has failed)
+2017-12-08 14:32:47		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-08 14:33:46		Option changed: irc.server.freenode.autojoin = "##linux,##sailing,#xroutine"  (default if null: "")
+2017-12-08 14:33:49		fifo: pipe closed
+2017-12-08 14:33:49		perl: scripts unloaded
+2017-12-08 14:33:49		URL server stopped
+2017-12-08 14:33:49		python: scripts unloaded
+2017-12-08 14:33:55		URL server listening on ('127.0.1.1', 60109)
+2017-12-08 14:33:55		python: stdout/stderr: Package python-xmpp (xmpppy) must be installed to use Jabber protocol.
+2017-12-08 14:33:55		[14:33]
+2017-12-08 14:33:55		python: stdout/stderr: Get xmpppy with your package manager, or at this URL: http://xmpppy.sourceforge.net/
+2017-12-08 14:33:55	=!=	python: function "register" not found (or failed) in file "/home/rjh/dotfiles/weechat/python/autoload/jabber.py"
+2017-12-08 14:33:55		[vimode.py] Problematic keybindings detected:
+2017-12-08 14:33:55		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-08 14:33:55		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-08 14:33:55		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-08 14:33:55		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-08 14:33:55		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-08 14:33:55		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-08 14:33:55		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-08 14:33:55		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-08 14:33:55		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-08 14:33:55		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-08 14:33:55		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-08 14:33:55		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-08 14:33:55		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-08 14:33:55		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-08 14:33:55		[vimode.py] These keybindings may conflict with vimode.
+2017-12-08 14:33:55		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-08 14:33:55		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-08 14:33:55		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-08 14:33:55		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-08 14:33:55		perl scripts loaded: beep, buffers, colorize_lines, iset
+2017-12-08 14:33:55	=!=	script: list of scripts is empty (repository file is broken, or download has failed)
+2017-12-08 14:33:55		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-08 14:35:41		Option changed: buffers.color.current_bg = 38  (default: red)
+2017-12-08 14:35:46		[color] (buffers.conf)
+2017-12-08 14:35:46		  buffers.color.current_bg = 38  (default: red)
+2017-12-08 14:35:46		  buffers.color.current_fg = 238  (default: lightcyan)
+2017-12-08 14:35:46		  buffers.color.default_bg = 238  (default: default)
+2017-12-08 14:35:46		  buffers.color.default_fg = 248  (default: default)
+2017-12-08 14:35:46		  buffers.color.hotlist_highlight_bg = default
+2017-12-08 14:35:46		  buffers.color.hotlist_highlight_fg = magenta
+2017-12-08 14:35:46		  buffers.color.hotlist_low_bg = 238  (default: default)
+2017-12-08 14:35:46		  buffers.color.hotlist_low_fg = white
+2017-12-08 14:35:46		  buffers.color.hotlist_message_bg = default
+2017-12-08 14:35:46		  buffers.color.hotlist_message_fg = yellow
+2017-12-08 14:35:46		  buffers.color.hotlist_private_bg = default
+2017-12-08 14:35:46		  buffers.color.hotlist_private_fg = lightgreen
+2017-12-08 14:35:46		  buffers.color.none_channel_bg = default
+2017-12-08 14:35:46		  buffers.color.none_channel_fg = default
+2017-12-08 14:35:46		  buffers.color.number = blue  (default: lightgreen)
+2017-12-08 14:35:46		  buffers.color.number_char = lightgreen
+2017-12-08 14:35:46		  buffers.color.prefix_bufname = default
+2017-12-08 14:35:46		  buffers.color.queries_default_bg = default
+2017-12-08 14:35:46		  buffers.color.queries_default_fg = default
+2017-12-08 14:35:46		  buffers.color.queries_highlight_bg = default
+2017-12-08 14:35:46		  buffers.color.queries_highlight_fg = default
+2017-12-08 14:35:46		  buffers.color.queries_message_bg = default
+2017-12-08 14:35:46		  buffers.color.queries_message_fg = default
+2017-12-08 14:35:46		  buffers.color.suffix_bufname = default
+2017-12-08 14:35:46		  buffers.color.whitelist_default_bg = default
+2017-12-08 14:35:46		  buffers.color.whitelist_default_fg = default
+2017-12-08 14:35:46		  buffers.color.whitelist_highlight_bg = default
+2017-12-08 14:35:46		  buffers.color.whitelist_highlight_fg = default
+2017-12-08 14:35:46		  buffers.color.whitelist_low_bg = default
+2017-12-08 14:35:46		  buffers.color.whitelist_low_fg = default
+2017-12-08 14:35:46		  buffers.color.whitelist_message_bg = default
+2017-12-08 14:35:46		  buffers.color.whitelist_message_fg = default
+2017-12-08 14:35:46		  buffers.color.whitelist_private_bg = default
+2017-12-08 14:35:46		  buffers.color.whitelist_private_fg = default
+2017-12-08 14:35:46		[look] (buffers.conf)
+2017-12-08 14:35:46		  buffers.look.core_to_front = off
+2017-12-08 14:35:46		  buffers.look.detach = 0
+2017-12-08 14:35:46		  buffers.look.detach_buffer_immediately = ""
+2017-12-08 14:35:46		  buffers.look.detach_buffer_immediately_level = 2
+2017-12-08 14:35:46		  buffers.look.detach_display_window_number = off
+2017-12-08 14:35:46		  buffers.look.detach_displayed_buffers = on
+2017-12-08 14:35:46		  buffers.look.detach_free_content = off
+2017-12-08 14:35:46		  buffers.look.detach_query = off
+2017-12-08 14:35:46		  buffers.look.hide_merged_buffers = none
+2017-12-08 14:35:46		  buffers.look.hotlist_counter = off
+2017-12-08 14:35:46		  buffers.look.immune_detach_buffers = ""
+2017-12-08 14:35:46		  buffers.look.indenting = off
+2017-12-08 14:35:46		  buffers.look.indenting_amount = 2
+2017-12-08 14:35:46		  buffers.look.indenting_number = on
+2017-12-08 14:35:46		  buffers.look.jump_prev_next_visited_buffer = off
+2017-12-08 14:35:46		  buffers.look.mark_inactive = off
+2017-12-08 14:35:46		  buffers.look.mouse_move_buffer = on
+2017-12-08 14:35:46		  buffers.look.mouse_wheel = on
+2017-12-08 14:35:46		  buffers.look.name_crop_suffix = "+"
+2017-12-08 14:35:46		  buffers.look.name_size_max = 0
+2017-12-08 14:35:46		  buffers.look.number_char = "."
+2017-12-08 14:35:46		  buffers.look.prefix = off
+2017-12-08 14:35:46		  buffers.look.prefix_bufname = ""
+2017-12-08 14:35:46		  buffers.look.prefix_empty = on
+2017-12-08 14:35:46		  buffers.look.prefix_for_query = ""
+2017-12-08 14:35:46		  buffers.look.short_names = on
+2017-12-08 14:35:46		  buffers.look.show_lag = off
+2017-12-08 14:35:46		  buffers.look.show_number = off  (default: on)
+2017-12-08 14:35:46		  buffers.look.sort = number
+2017-12-08 14:35:46		  buffers.look.suffix_bufname = ""
+2017-12-08 14:35:46		  buffers.look.toggle_bar = on
+2017-12-08 14:35:46		  buffers.look.whitelist_buffers = ""
+2017-12-08 14:35:46		66 options (matching with "buffers.*")
+2017-12-08 14:37:53		Option changed: buffers.look.indenting = on  (default: off)
+2017-12-08 14:38:13		Buffers list:
+2017-12-08 14:38:13		  [1] core.weechat (notify: all)
+2017-12-08 14:38:13		  [2] irc.server.freenode (notify: all)
+2017-12-08 14:38:13		  [3] irc.freenode.##linux (notify: all)
+2017-12-08 14:38:13		  [4] irc.freenode.##sailing (notify: all)
+2017-12-08 14:38:13		  [5] irc.freenode.#xroutine (notify: all)
+2017-12-08 14:39:53	=!=	You can not write text in this buffer
+2017-12-08 14:39:55		[core]
+2017-12-08 14:39:55		  away     buffer   command  debug    filter   history  key      mouse    plugin   proxy    reload   save     set      upgrade  version  window 
+2017-12-08 14:39:55		  bar      color    cursor   eval     help     input    layout   mute     print    quit     repeat   secure   unset    uptime   wait   
+2017-12-08 14:39:55		[logger]
+2017-12-08 14:39:55		  logger
+2017-12-08 14:39:55		[relay]
+2017-12-08 14:39:55		  relay
+2017-12-08 14:39:55		[trigger]
+2017-12-08 14:39:55		  trigger
+2017-12-08 14:39:55		[buflist]
+2017-12-08 14:39:55		  buflist
+2017-12-08 14:39:55		[guile]
+2017-12-08 14:39:55		  guile
+2017-12-08 14:39:55		[alias]
+2017-12-08 14:39:55		  AAWAY    AME      ANICK    BYE      CHAT     CLOSE    IG       K        LEAVE    MSGBUF   N        REDRAW   SIGNOFF  UB       V        WC       WII    
+2017-12-08 14:39:55		  alias    AMSG     BEEP     C        CL       EXIT     J        KB       M        MUB      Q        SAY      T        UMODE    W        WI       WW     
+2017-12-08 14:39:55		[irc]
+2017-12-08 14:39:55		  admin       connect     devoice     invite      links       motd        op          quiet       sajoin      service     time        users       whois     
+2017-12-08 14:39:55		  allchan     ctcp        die         ison        list        msg         oper        quote       samode      servlist    topic       version     whowas    
+2017-12-08 14:39:55		  allpv       cycle       disconnect  join        lusers      names       part        reconnect   sanick      squery      trace       voice     
+2017-12-08 14:39:55		  allserv     dcc         halfop      kick        map         nick        ping        rehash      sapart      squit       unban       wallchops 
+2017-12-08 14:39:55		  ban         dehalfop    ignore      kickban     me          notice      pong        remove      saquit      stats       unquiet     wallops   
+2017-12-08 14:39:55		  cap         deop        info        kill        mode        notify      query       restart     server      summon      userhost    who       
+2017-12-08 14:39:55		[python]
+2017-12-08 14:39:55		  autosort  go  python  shell  urlserver  vimode
+2017-12-08 14:39:55		[tcl]
+2017-12-08 14:39:55		  tcl
+2017-12-08 14:39:55		[perl]
+2017-12-08 14:39:55		  buffers_detach  buffers_whitelist  iset  perl
+2017-12-08 14:39:55		[charset]
+2017-12-08 14:39:55		  charset
+2017-12-08 14:39:55		[script]
+2017-12-08 14:39:55		  script
+2017-12-08 14:39:55		[javascript]
+2017-12-08 14:39:55		  javascript
+2017-12-08 14:39:55		[exec]
+2017-12-08 14:39:55		  exec
+2017-12-08 14:39:55		[ruby]
+2017-12-08 14:39:55		  ruby
+2017-12-08 14:39:55		[fifo]
+2017-12-08 14:39:55		  fifo
+2017-12-08 14:39:55		[xfer]
+2017-12-08 14:39:55		  me  xfer
+2017-12-08 14:39:55		[lua]
+2017-12-08 14:39:55		  lua
+2017-12-08 14:39:55		[aspell]
+2017-12-08 14:39:55		  aspell
+2017-12-08 14:40:28		List of bars:
+2017-12-08 14:40:28		  input: window (conditions: -), bottom, filling: horizontal(top/bottom)/vertical(left/right), height: 1
+2017-12-08 14:40:28		    priority: 1000, fg: 237, bg: 250, items: [input_prompt]+(away),[input_search],[input_paste],input_text, with separator
+2017-12-08 14:40:28		  status: window (conditions: -), bottom, filling: horizontal(top/bottom)/vertical(left/right), height: 1
+2017-12-08 14:40:28		    priority: 500, fg: default, bg: 238, items: [time],[buffer_last_number],[buffer_plugin],buffer_number+:+buffer_name+(buffer_modes)+{buffer_nicklist_count}+buffer_zoom+buffer_filter,scroll,[lag],[hotlist],completion, with separator
+2017-12-08 14:40:28		  nicklist: window (conditions: ${nicklist}), right, filling: columns_vertical(top/bottom)/vertical(left/right), width: auto
+2017-12-08 14:40:28		    priority: 200, fg: default, bg: 238, items: buffer_nicklist, with separator
+2017-12-08 14:40:28		  vi_line_numbers: (hidden) window (conditions: -), left, filling: vertical(top/bottom)/vertical(left/right), width: auto
+2017-12-08 14:40:28		    priority: 0, fg: default, bg: default, items: line_numbers
+2017-12-08 14:40:28		  vi_cmd: (hidden) root (conditions: -), bottom, filling: vertical(top/bottom)/vertical(left/right), height: auto
+2017-12-08 14:40:28		    priority: 0, fg: default, bg: default, items: cmd_text
+2017-12-08 14:40:28		  isetbar: (hidden) window (conditions: -), top, filling: horizontal(top/bottom)/vertical(left/right), height: 3
+2017-12-08 14:40:28		    priority: 0, fg: default, bg: default, items: isetbar_help, with separator
+2017-12-08 14:40:28		  buflist: root (conditions: -), left, filling: columns_vertical(top/bottom)/vertical(left/right), width: auto
+2017-12-08 14:40:28		    priority: 0, fg: default, bg: default, items: buflist, with separator
+2017-12-08 14:40:28		  buffers: root (conditions: -), left, filling: columns_vertical(top/bottom)/vertical(left/right), width: auto
+2017-12-08 14:40:28		    priority: 0, fg: default, bg: 238, items: buffers, with separator
+2017-12-08 14:40:28		  activetitle: window (conditions: -), top, filling: horizontal(top/bottom)/vertical(left/right), height: 1
+2017-12-08 14:40:28		    priority: 0, fg: default, bg: 238, items: buffer_title
+2017-12-08 14:41:16		Bar "buffers" deleted
+2017-12-08 14:47:00		[14:41]
+2017-12-08 15:01:58	=!=	Error: unknown command "/h4xx0r" (type /help for help)
+2017-12-08 15:06:03		fifo: pipe closed
+2017-12-08 15:06:03		[15:06]
+2017-12-08 15:06:03	=!=	Error: unknown bar "buffers"
+2017-12-08 15:06:03		perl: scripts unloaded
+2017-12-08 15:06:03		URL server stopped
+2017-12-08 15:06:03		python: scripts unloaded
+2017-12-08 15:07:35		URL server listening on ('127.0.1.1', 53341)
+2017-12-08 15:07:35		python: stdout/stderr: Package python-xmpp (xmpppy) must be installed to use Jabber protocol.
+2017-12-08 15:07:35		[15:07]
+2017-12-08 15:07:35		python: stdout/stderr: Get xmpppy with your package manager, or at this URL: http://xmpppy.sourceforge.net/
+2017-12-08 15:07:35	=!=	python: function "register" not found (or failed) in file "/home/rjh/dotfiles/weechat/python/autoload/jabber.py"
+2017-12-08 15:07:36		[vimode.py] Problematic keybindings detected:
+2017-12-08 15:07:36		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-08 15:07:36		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-08 15:07:36		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-08 15:07:36		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-08 15:07:36		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-08 15:07:36		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-08 15:07:36		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-08 15:07:36		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-08 15:07:36		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-08 15:07:36		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-08 15:07:36		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-08 15:07:36		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-08 15:07:36		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-08 15:07:36		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-08 15:07:36		[vimode.py] These keybindings may conflict with vimode.
+2017-12-08 15:07:36		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-08 15:07:36		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-08 15:07:36		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-08 15:07:36		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-08 15:07:36		perl scripts loaded: beep, buffers, colorize_lines, iset
+2017-12-08 15:07:36	=!=	script: list of scripts is empty (repository file is broken, or download has failed)
+2017-12-08 15:07:36		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-08 15:07:46		Bar "buffers" deleted
+2017-12-08 15:07:50		fifo: pipe closed
+2017-12-08 15:07:50	=!=	Error: unknown bar "buffers"
+2017-12-08 15:07:50		perl: scripts unloaded
+2017-12-08 15:07:50		URL server stopped
+2017-12-08 15:07:50		python: scripts unloaded
+2017-12-08 16:09:37		URL server listening on ('127.0.1.1', 35329)
+2017-12-08 16:09:37		python: stdout/stderr: Package python-xmpp (xmpppy) must be installed to use Jabber protocol.
+2017-12-08 16:09:37		[16:09]
+2017-12-08 16:09:37		python: stdout/stderr: Get xmpppy with your package manager, or at this URL: http://xmpppy.sourceforge.net/
+2017-12-08 16:09:37	=!=	python: function "register" not found (or failed) in file "/home/rjh/dotfiles/weechat/python/autoload/jabber.py"
+2017-12-08 16:09:37		[vimode.py] Problematic keybindings detected:
+2017-12-08 16:09:37		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-08 16:09:37		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-08 16:09:37		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-08 16:09:37		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-08 16:09:37		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-08 16:09:37		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-08 16:09:37		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-08 16:09:37		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-08 16:09:37		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-08 16:09:37		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-08 16:09:37		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-08 16:09:37		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-08 16:09:37		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-08 16:09:37		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-08 16:09:37		[vimode.py] These keybindings may conflict with vimode.
+2017-12-08 16:09:37		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-08 16:09:37		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-08 16:09:37		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-08 16:09:37		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-08 16:09:37		perl scripts loaded: beep, buffers, colorize_lines, iset
+2017-12-08 16:09:37	=!=	script: list of scripts is empty (repository file is broken, or download has failed)
+2017-12-08 16:09:37		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-08 16:09:45		Bar "buffers" deleted
+2017-12-08 16:12:20	=!=	irc: already connected to server "freenode"!
+2017-12-08 16:16:30		[bar] (weechat.conf)
+2017-12-08 16:16:30		  weechat.bar.activetitle.color_bg = 238
+2017-12-08 16:16:30		  weechat.bar.activetitle.color_delim = default
+2017-12-08 16:16:30		  weechat.bar.activetitle.color_fg = default
+2017-12-08 16:16:30		  weechat.bar.activetitle.conditions = ""
+2017-12-08 16:16:30		  weechat.bar.activetitle.filling_left_right = vertical
+2017-12-08 16:16:30		  weechat.bar.activetitle.filling_top_bottom = horizontal
+2017-12-08 16:16:30		  weechat.bar.activetitle.hidden = off
+2017-12-08 16:16:30		  weechat.bar.activetitle.items = "buffer_title"  (default: "")
+2017-12-08 16:16:30		  weechat.bar.activetitle.position = top
+2017-12-08 16:16:30		  weechat.bar.activetitle.priority = 0
+2017-12-08 16:16:30		  weechat.bar.activetitle.separator = off
+2017-12-08 16:16:30		  weechat.bar.activetitle.size = 1
+2017-12-08 16:16:30		  weechat.bar.activetitle.size_max = 0
+2017-12-08 16:16:30		  weechat.bar.activetitle.type = window
+2017-12-08 16:16:30		  weechat.bar.buflist.color_bg = default
+2017-12-08 16:16:30		  weechat.bar.buflist.color_delim = default
+2017-12-08 16:16:30		  weechat.bar.buflist.color_fg = default
+2017-12-08 16:16:30		  weechat.bar.buflist.conditions = ""
+2017-12-08 16:16:30		  weechat.bar.buflist.filling_left_right = vertical
+2017-12-08 16:16:30		  weechat.bar.buflist.filling_top_bottom = columns_vertical
+2017-12-08 16:16:30		  weechat.bar.buflist.hidden = off
+2017-12-08 16:16:30		  weechat.bar.buflist.items = "buflist"  (default: "")
+2017-12-08 16:16:30		  weechat.bar.buflist.position = left
+2017-12-08 16:16:30		  weechat.bar.buflist.priority = 0
+2017-12-08 16:16:30		  weechat.bar.buflist.separator = on
+2017-12-08 16:16:30		  weechat.bar.buflist.size = 0
+2017-12-08 16:16:30		  weechat.bar.buflist.size_max = 0
+2017-12-08 16:16:30		  weechat.bar.buflist.type = root
+2017-12-08 16:16:30		  weechat.bar.input.color_bg = 250
+2017-12-08 16:16:30		  weechat.bar.input.color_delim = cyan
+2017-12-08 16:16:30		  weechat.bar.input.color_fg = 237
+2017-12-08 16:16:30		  weechat.bar.input.conditions = ""
+2017-12-08 16:16:30		  weechat.bar.input.filling_left_right = vertical
+2017-12-08 16:16:30		  weechat.bar.input.filling_top_bottom = horizontal
+2017-12-08 16:16:30		  weechat.bar.input.hidden = off
+2017-12-08 16:16:30		  weechat.bar.input.items = "[input_prompt]+(away),[input_search],[input_paste],input_text"
+2017-12-08 16:16:30		  weechat.bar.input.position = bottom
+2017-12-08 16:16:30		  weechat.bar.input.priority = 1000
+2017-12-08 16:16:30		  weechat.bar.input.separator = on
+2017-12-08 16:16:30		  weechat.bar.input.size = 1
+2017-12-08 16:16:30		  weechat.bar.input.size_max = 0
+2017-12-08 16:16:30		  weechat.bar.input.type = window
+2017-12-08 16:16:30		  weechat.bar.isetbar.color_bg = default
+2017-12-08 16:16:30		  weechat.bar.isetbar.color_delim = cyan
+2017-12-08 16:16:30		  weechat.bar.isetbar.color_fg = default
+2017-12-08 16:16:30		  weechat.bar.isetbar.conditions = ""
+2017-12-08 16:16:30		  weechat.bar.isetbar.filling_left_right = vertical
+2017-12-08 16:16:30		  weechat.bar.isetbar.filling_top_bottom = horizontal
+2017-12-08 16:16:30		  weechat.bar.isetbar.hidden = on
+2017-12-08 16:16:30		  weechat.bar.isetbar.items = "isetbar_help"  (default: "")
+2017-12-08 16:16:30		  weechat.bar.isetbar.position = top
+2017-12-08 16:16:30		  weechat.bar.isetbar.priority = 0
+2017-12-08 16:16:30		  weechat.bar.isetbar.separator = on
+2017-12-08 16:16:30		  weechat.bar.isetbar.size = 3
+2017-12-08 16:16:30		  weechat.bar.isetbar.size_max = 3
+2017-12-08 16:16:30		  weechat.bar.isetbar.type = window
+2017-12-08 16:16:30		  weechat.bar.nicklist.color_bg = 238
+2017-12-08 16:16:30		  weechat.bar.nicklist.color_delim = cyan
+2017-12-08 16:16:30		  weechat.bar.nicklist.color_fg = default
+2017-12-08 16:16:30		  weechat.bar.nicklist.conditions = "${nicklist}"
+2017-12-08 16:16:30		  weechat.bar.nicklist.filling_left_right = vertical
+2017-12-08 16:16:30		  weechat.bar.nicklist.filling_top_bottom = columns_vertical
+2017-12-08 16:16:30		  weechat.bar.nicklist.hidden = off
+2017-12-08 16:16:30		  weechat.bar.nicklist.items = "buffer_nicklist"
+2017-12-08 16:16:30		  weechat.bar.nicklist.position = right
+2017-12-08 16:16:30		  weechat.bar.nicklist.priority = 200
+2017-12-08 16:16:30		  weechat.bar.nicklist.separator = on
+2017-12-08 16:16:30		  weechat.bar.nicklist.size = 0
+2017-12-08 16:16:30		  weechat.bar.nicklist.size_max = 0
+2017-12-08 16:16:30		  weechat.bar.nicklist.type = window
+2017-12-08 16:16:30		  weechat.bar.status.color_bg = 238
+2017-12-08 16:16:30		  weechat.bar.status.color_delim = cyan
+2017-12-08 16:16:30		  weechat.bar.status.color_fg = default
+2017-12-08 16:16:30		  weechat.bar.status.conditions = ""
+2017-12-08 16:16:30		  weechat.bar.status.filling_left_right = vertical
+2017-12-08 16:16:30		  weechat.bar.status.filling_top_bottom = horizontal
+2017-12-08 16:16:30		  weechat.bar.status.hidden = off
+2017-12-08 16:16:30		  weechat.bar.status.items = "[time],[buffer_last_number],[buffer_plugin],buffer_number+:+buffer_name+(buffer_modes)+{buffer_nicklist_count}+buffer_zoom+buffer_filter,scroll,[lag],[hotlist],completion"
+2017-12-08 16:16:30		  weechat.bar.status.position = bottom
+2017-12-08 16:16:30		  weechat.bar.status.priority = 500
+2017-12-08 16:16:30		  weechat.bar.status.separator = on
+2017-12-08 16:16:30		  weechat.bar.status.size = 1
+2017-12-08 16:16:30		  weechat.bar.status.size_max = 0
+2017-12-08 16:16:30		  weechat.bar.status.type = window
+2017-12-08 16:16:30		  weechat.bar.vi_cmd.color_bg = default
+2017-12-08 16:16:30		  weechat.bar.vi_cmd.color_delim = default
+2017-12-08 16:16:30		  weechat.bar.vi_cmd.color_fg = default
+2017-12-08 16:16:30		  weechat.bar.vi_cmd.conditions = ""
+2017-12-08 16:16:30		  weechat.bar.vi_cmd.filling_left_right = vertical
+2017-12-08 16:16:30		  weechat.bar.vi_cmd.filling_top_bottom = vertical
+2017-12-08 16:16:30		  weechat.bar.vi_cmd.hidden = on
+2017-12-08 16:16:30		  weechat.bar.vi_cmd.items = "cmd_text"  (default: "")
+2017-12-08 16:16:30		  weechat.bar.vi_cmd.position = bottom
+2017-12-08 16:16:30		  weechat.bar.vi_cmd.priority = 0
+2017-12-08 16:16:30		  weechat.bar.vi_cmd.separator = off
+2017-12-08 16:16:30		  weechat.bar.vi_cmd.size = 0
+2017-12-08 16:16:30		  weechat.bar.vi_cmd.size_max = 0
+2017-12-08 16:16:30		  weechat.bar.vi_cmd.type = root
+2017-12-08 16:16:30		  weechat.bar.vi_line_numbers.color_bg = default
+2017-12-08 16:16:30		  weechat.bar.vi_line_numbers.color_delim = default
+2017-12-08 16:16:30		  weechat.bar.vi_line_numbers.color_fg = default
+2017-12-08 16:16:30		  weechat.bar.vi_line_numbers.conditions = ""
+2017-12-08 16:16:30		  weechat.bar.vi_line_numbers.filling_left_right = vertical
+2017-12-08 16:16:30		  weechat.bar.vi_line_numbers.filling_top_bottom = vertical
+2017-12-08 16:16:30		  weechat.bar.vi_line_numbers.hidden = on
+2017-12-08 16:16:30		  weechat.bar.vi_line_numbers.items = "line_numbers"  (default: "")
+2017-12-08 16:16:30		  weechat.bar.vi_line_numbers.position = left
+2017-12-08 16:16:30		  weechat.bar.vi_line_numbers.priority = 0
+2017-12-08 16:16:30		  weechat.bar.vi_line_numbers.separator = off
+2017-12-08 16:16:30		  weechat.bar.vi_line_numbers.size = 0
+2017-12-08 16:16:30		  weechat.bar.vi_line_numbers.size_max = 0
+2017-12-08 16:16:30		  weechat.bar.vi_line_numbers.type = window
+2017-12-08 16:16:30		112 options (matching with "weechat.bar.*")
+2017-12-08 16:17:04		[bar] (weechat.conf)
+2017-12-08 16:17:04		  weechat.bar.status.color_bg = 238
+2017-12-08 16:17:04		1 option (matching with "weechat.bar.status.color_bg")
+2017-12-08 16:17:14		Option changed: weechat.bar.status.color_bg = 31  (default: 238)
+2017-12-08 16:17:20		Option changed: weechat.bar.status.color_bg = 238
+2017-12-08 16:18:03		[color] (weechat.conf)
+2017-12-08 16:18:03		  weechat.color.bar_more = lightmagenta
+2017-12-08 16:18:03		  weechat.color.chat = default
+2017-12-08 16:18:03		  weechat.color.chat_bg = 238  (default: default)
+2017-12-08 16:18:03		  weechat.color.chat_buffer = 238  (default: white)
+2017-12-08 16:18:03		  weechat.color.chat_channel = 250  (default: white)
+2017-12-08 16:18:03		  weechat.color.chat_day_change = cyan
+2017-12-08 16:18:03		  weechat.color.chat_delimiters = 233  (default: green)
+2017-12-08 16:18:03		  weechat.color.chat_highlight = yellow
+2017-12-08 16:18:03		  weechat.color.chat_highlight_bg = magenta
+2017-12-08 16:18:03		  weechat.color.chat_host = cyan
+2017-12-08 16:18:03		  weechat.color.chat_inactive_buffer = 238  (default: default)
+2017-12-08 16:18:03		  weechat.color.chat_inactive_window = 238  (default: default)
+2017-12-08 16:18:03		  weechat.color.chat_nick = lightgreen  (default: lightcyan)
+2017-12-08 16:18:03		  weechat.color.chat_nick_colors = "cyan,magneta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen"  (default: "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue")
+2017-12-08 16:18:03		  weechat.color.chat_nick_offline = default
+2017-12-08 16:18:03		  weechat.color.chat_nick_offline_highlight = default
+2017-12-08 16:18:03		  weechat.color.chat_nick_offline_highlight_bg = blue
+2017-12-08 16:18:03		  weechat.color.chat_nick_other = cyan
+2017-12-08 16:18:03		  weechat.color.chat_nick_prefix = green
+2017-12-08 16:18:03		  weechat.color.chat_nick_self = white
+2017-12-08 16:18:03		  weechat.color.chat_nick_suffix = green
+2017-12-08 16:18:03		  weechat.color.chat_prefix_action = white
+2017-12-08 16:18:03		  weechat.color.chat_prefix_buffer = brown
+2017-12-08 16:18:03		  weechat.color.chat_prefix_buffer_inactive_buffer = default
+2017-12-08 16:18:03		  weechat.color.chat_prefix_error = yellow
+2017-12-08 16:18:03		  weechat.color.chat_prefix_join = lightgreen
+2017-12-08 16:18:03		  weechat.color.chat_prefix_more = lightmagenta
+2017-12-08 16:18:03		  weechat.color.chat_prefix_network = 250  (default: magenta)
+2017-12-08 16:18:03		  weechat.color.chat_prefix_quit = lightred
+2017-12-08 16:18:03		  weechat.color.chat_prefix_suffix = 250  (default: green)
+2017-12-08 16:18:03		  weechat.color.chat_read_marker = magenta
+2017-12-08 16:18:03		  weechat.color.chat_read_marker_bg = 238  (default: default)
+2017-12-08 16:18:03		  weechat.color.chat_server = brown
+2017-12-08 16:18:03		  weechat.color.chat_tags = red
+2017-12-08 16:18:03		  weechat.color.chat_text_found = yellow
+2017-12-08 16:18:03		  weechat.color.chat_text_found_bg = lightmagenta
+2017-12-08 16:18:03		  weechat.color.chat_time = default
+2017-12-08 16:18:03		  weechat.color.chat_time_delimiters = brown
+2017-12-08 16:18:03		  weechat.color.chat_value = cyan
+2017-12-08 16:18:03		  weechat.color.chat_value_null = blue
+2017-12-08 16:18:03		  weechat.color.emphasized = yellow
+2017-12-08 16:18:03		  weechat.color.emphasized_bg = magenta
+2017-12-08 16:18:03		  weechat.color.input_actions = lightgreen
+2017-12-08 16:18:03		  weechat.color.input_text_not_found = red
+2017-12-08 16:18:03		  weechat.color.item_away = yellow
+2017-12-08 16:18:03		  weechat.color.nicklist_away = cyan
+2017-12-08 16:18:03		  weechat.color.nicklist_group = green
+2017-12-08 16:18:03		  weechat.color.separator = blue
+2017-12-08 16:18:03		  weechat.color.status_count_highlight = magenta
+2017-12-08 16:18:03		  weechat.color.status_count_msg = brown
+2017-12-08 16:18:03		  weechat.color.status_count_other = default
+2017-12-08 16:18:03		  weechat.color.status_count_private = green
+2017-12-08 16:18:03		  weechat.color.status_data_highlight = lightmagenta
+2017-12-08 16:18:03		  weechat.color.status_data_msg = yellow
+2017-12-08 16:18:03		  weechat.color.status_data_other = default
+2017-12-08 16:18:03		  weechat.color.status_data_private = lightgreen
+2017-12-08 16:18:03		  weechat.color.status_filter = green
+2017-12-08 16:18:03		  weechat.color.status_more = yellow
+2017-12-08 16:18:03		  weechat.color.status_mouse = green
+2017-12-08 16:18:03		  weechat.color.status_name = white
+2017-12-08 16:18:03		  weechat.color.status_name_ssl = lightgreen
+2017-12-08 16:18:03		  weechat.color.status_nicklist_count = default
+2017-12-08 16:18:03		  weechat.color.status_number = yellow
+2017-12-08 16:18:03		  weechat.color.status_time = default
+2017-12-08 16:18:03		64 options (matching with "weechat.color.*")
+2017-12-08 16:19:08		[color] (weechat.conf)
+2017-12-08 16:19:08		  weechat.color.chat_nick_colors = "cyan,magneta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen"  (default: "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue")
+2017-12-08 16:19:08		1 option (matching with "weechat.color.chat_nick_colors")
+2017-12-08 16:25:00		[16:19]
+2017-12-08 21:38:23		fifo: pipe closed
+2017-12-08 21:38:23		[21:38]
+2017-12-08 21:38:23	=!=	Error: unknown bar "buffers"
+2017-12-08 21:38:23		perl: scripts unloaded
+2017-12-08 21:38:23		URL server stopped
+2017-12-08 21:38:23		python: scripts unloaded
+2017-12-09 10:44:12		URL server listening on ('127.0.1.1', 47388)
+2017-12-09 10:44:12		python: stdout/stderr: Package python-xmpp (xmpppy) must be installed to use Jabber protocol.
+2017-12-09 10:44:12		[10:44]
+2017-12-09 10:44:12		python: stdout/stderr: Get xmpppy with your package manager, or at this URL: http://xmpppy.sourceforge.net/
+2017-12-09 10:44:12	=!=	python: function "register" not found (or failed) in file "/home/rjh/dotfiles/weechat/python/autoload/jabber.py"
+2017-12-09 10:44:12		[vimode.py] Problematic keybindings detected:
+2017-12-09 10:44:12		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-09 10:44:12		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-09 10:44:12		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-09 10:44:12		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-09 10:44:12		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-09 10:44:12		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-09 10:44:12		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-09 10:44:12		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-09 10:44:12		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-09 10:44:12		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-09 10:44:12		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-09 10:44:12		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-09 10:44:12		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-09 10:44:12		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-09 10:44:12		[vimode.py] These keybindings may conflict with vimode.
+2017-12-09 10:44:12		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-09 10:44:12		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-09 10:44:12		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-09 10:44:12		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-09 10:44:12		perl scripts loaded: beep, buffers, colorize_lines, iset
+2017-12-09 10:44:12	=!=	script: list of scripts is empty (repository file is broken, or download has failed)
+2017-12-09 10:44:12		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-09 10:44:22		Bar "buflist" deleted
+2017-12-09 10:44:26		fifo: pipe closed
+2017-12-09 10:44:26		perl: scripts unloaded
+2017-12-09 10:44:26		URL server stopped
+2017-12-09 10:44:26		python: scripts unloaded
+2017-12-09 10:45:08		URL server listening on ('127.0.1.1', 45766)
+2017-12-09 10:45:08		python: stdout/stderr: Package python-xmpp (xmpppy) must be installed to use Jabber protocol.
+2017-12-09 10:45:08		[10:45]
+2017-12-09 10:45:08		python: stdout/stderr: Get xmpppy with your package manager, or at this URL: http://xmpppy.sourceforge.net/
+2017-12-09 10:45:08	=!=	python: function "register" not found (or failed) in file "/home/rjh/dotfiles/weechat/python/autoload/jabber.py"
+2017-12-09 10:45:08		[vimode.py] Problematic keybindings detected:
+2017-12-09 10:45:08		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-09 10:45:08		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-09 10:45:08		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-09 10:45:08		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-09 10:45:08		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-09 10:45:08		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-09 10:45:08		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-09 10:45:08		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-09 10:45:08		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-09 10:45:08		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-09 10:45:08		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-09 10:45:08		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-09 10:45:08		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-09 10:45:08		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-09 10:45:08		[vimode.py] These keybindings may conflict with vimode.
+2017-12-09 10:45:08		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-09 10:45:08		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-09 10:45:08		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-09 10:45:08		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-09 10:45:08		perl scripts loaded: beep, buffers, colorize_lines, iset
+2017-12-09 10:45:08	=!=	script: list of scripts is empty (repository file is broken, or download has failed)
+2017-12-09 10:45:08		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-09 10:47:30	=!=	script: list of scripts is empty (repository file is broken, or download has failed)
+2017-12-09 10:47:30		script: script "buffers.pl" not found
+2017-12-09 10:47:40		Bar "buffers" deleted
+2017-12-09 10:47:54	=!=	script: list of scripts is empty (repository file is broken, or download has failed)
+2017-12-09 10:49:44		Option changed: irc.server_default.msg_part = "Back soon, probably"  (default: "WeeChat ${info:version}")
+2017-12-09 10:50:07		Option changed: irc.server_default.msg_quit = "Back soon, probably"  (default: "WeeChat ${info:version}")
+2017-12-09 10:55:30		Plugins loaded:
+2017-12-09 10:55:30		  logger: Log buffers to files
+2017-12-09 10:55:30		  relay: Relay WeeChat data to remote application (irc/weechat protocols)
+2017-12-09 10:55:30		  trigger: Text replacement and command execution on events triggered by WeeChat/plugins
+2017-12-09 10:55:30		  buflist: Buffers list
+2017-12-09 10:55:30		  guile: Support of scheme scripts (with Guile)
+2017-12-09 10:55:30		  alias: Alias commands
+2017-12-09 10:55:30		  irc: IRC (Internet Relay Chat) protocol
+2017-12-09 10:55:30		  python: Support of python scripts
+2017-12-09 10:55:30		  tcl: Support of tcl scripts
+2017-12-09 10:55:30		  perl: Support of perl scripts
+2017-12-09 10:55:30		  charset: Charset conversions
+2017-12-09 10:55:30		  script: Scripts manager
+2017-12-09 10:55:30		  javascript: Support of javascript scripts
+2017-12-09 10:55:30		  exec: Execution of external commands in WeeChat
+2017-12-09 10:55:30		  ruby: Support of ruby scripts
+2017-12-09 10:55:30		  fifo: FIFO pipe for remote control
+2017-12-09 10:55:30		  xfer: DCC file transfer and direct chat
+2017-12-09 10:55:30		  lua: Support of lua scripts
+2017-12-09 10:55:30		  aspell: Spell checker for input (with Aspell)
+2017-12-09 10:57:02	=!=	script: list of scripts is empty (repository file is broken, or download has failed)
+2017-12-09 10:57:02		Scripts loaded:
+2017-12-09 10:57:02		  ?     beep.pl 1.1 (Beep (terminal bell) and/or run command on highlight/private message or new DCC)
+2017-12-09 10:57:02		  ?     buffers.pl 5.6 (Sidebar with list of buffers)
+2017-12-09 10:57:02		  ?     colorize_lines.pl 3.4 (Colorize users' text in chat area with their nick color, including highlights)
+2017-12-09 10:57:02		  ?     iset.pl 4.3 (Interactive Set for configuration options)
+2017-12-09 10:57:02		  ?     autosort.py 3.3 (Flexible automatic (or manual) buffer sorting based on eval expressions.)
+2017-12-09 10:57:02		  ?     go.py 2.5 (Quick jump to buffers)
+2017-12-09 10:57:02		  ?     ichatts.py 1.0 (iChat-style timestamps)
+2017-12-09 10:57:02		  ?     shell.py 0.8 (Run shell commands in WeeChat)
+2017-12-09 10:57:02		  ?     urlserver.py 2.2 (Shorten URLs with own HTTP server)
+2017-12-09 10:57:02		  ?     vimode.py 0.5 (Add vi/vim-like modes and keybindings to WeeChat.)
+2017-12-09 10:57:02		  ?     ws_replace.py 0.1 (Remove leading and trailing whitespace before sending)
+2017-12-09 10:57:29	=!=	script: list of scripts is empty (repository file is broken, or download has failed)
+2017-12-09 10:57:29		script: script "beep.pl" not found
+2017-12-09 10:57:52		script: downloading list of scripts...
+2017-12-09 10:57:53		script: 351 scripts for WeeChat 1.9-dev
+2017-12-09 10:57:59		script: downloading list of scripts...
+2017-12-09 10:58:00		script: 351 scripts for WeeChat 1.9-dev
+2017-12-09 10:58:02		perl: unloading script "beep"
+2017-12-09 10:58:02		perl: script removed: /home/rjh/dotfiles/weechat/perl/autoload/beep.pl
+2017-12-09 10:58:02		perl: script removed: /home/rjh/dotfiles/weechat/perl/beep.pl
+2017-12-09 10:58:13		Scripts loaded:
+2017-12-09 10:58:13		 * ia   buffers.pl 5.6 (Sidebar with list of buffers)
+2017-12-09 10:58:13		   ia   colorize_lines.pl 3.4 (Colorize users' text in chat area with their nick color, including highlights)
+2017-12-09 10:58:13		 * ia   iset.pl 4.3 (Interactive Set for configuration options)
+2017-12-09 10:58:13		   ia   autosort.py 3.3 (Flexible automatic (or manual) buffer sorting based on eval expressions.)
+2017-12-09 10:58:13		   ia   go.py 2.5 (Quick jump to buffers)
+2017-12-09 10:58:13		   ia   ichatts.py 1.0 (iChat-style timestamps)
+2017-12-09 10:58:13		   ia   shell.py 0.8 (Run shell commands in WeeChat)
+2017-12-09 10:58:13		 * ia   urlserver.py 2.2 (Shorten URLs with own HTTP server)
+2017-12-09 10:58:13		   ia   vimode.py 0.5 (Add vi/vim-like modes and keybindings to WeeChat.)
+2017-12-09 10:58:13		   ia   ws_replace.py 0.1 (Remove leading and trailing whitespace before sending)
+2017-12-09 10:58:35		perl: unloading script "buffers"
+2017-12-09 10:58:35	=!=	Error: unknown bar "buffers"
+2017-12-09 10:58:35		perl: script "buffers" unloaded
+2017-12-09 10:58:47		Scripts loaded:
+2017-12-09 10:58:47		   ia   colorize_lines.pl 3.4 (Colorize users' text in chat area with their nick color, including highlights)
+2017-12-09 10:58:47		 * ia   iset.pl 4.3 (Interactive Set for configuration options)
+2017-12-09 10:58:47		   ia   autosort.py 3.3 (Flexible automatic (or manual) buffer sorting based on eval expressions.)
+2017-12-09 10:58:47		   ia   go.py 2.5 (Quick jump to buffers)
+2017-12-09 10:58:47		   ia   ichatts.py 1.0 (iChat-style timestamps)
+2017-12-09 10:58:47		   ia   shell.py 0.8 (Run shell commands in WeeChat)
+2017-12-09 10:58:47		 * ia   urlserver.py 2.2 (Shorten URLs with own HTTP server)
+2017-12-09 10:58:47		   ia   vimode.py 0.5 (Add vi/vim-like modes and keybindings to WeeChat.)
+2017-12-09 10:58:47		   ia   ws_replace.py 0.1 (Remove leading and trailing whitespace before sending)
+2017-12-09 10:59:22		fifo: pipe closed
+2017-12-09 10:59:22		perl: scripts unloaded
+2017-12-09 10:59:22		URL server stopped
+2017-12-09 10:59:22		python: scripts unloaded
+2017-12-09 10:59:57		URL server listening on ('127.0.1.1', 58436)
+2017-12-09 10:59:57		python: stdout/stderr: Package python-xmpp (xmpppy) must be installed to use Jabber protocol.
+2017-12-09 10:59:57		[10:59]
+2017-12-09 10:59:57		python: stdout/stderr: Get xmpppy with your package manager, or at this URL: http://xmpppy.sourceforge.net/
+2017-12-09 10:59:57	=!=	python: function "register" not found (or failed) in file "/home/rjh/dotfiles/weechat/python/autoload/jabber.py"
+2017-12-09 10:59:57		[vimode.py] Problematic keybindings detected:
+2017-12-09 10:59:57		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-09 10:59:57		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-09 10:59:57		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-09 10:59:57		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-09 10:59:57		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-09 10:59:57		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-09 10:59:57		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-09 10:59:57		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-09 10:59:57		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-09 10:59:57		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-09 10:59:57		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-09 10:59:57		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-09 10:59:57		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-09 10:59:57		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-09 10:59:57		[vimode.py] These keybindings may conflict with vimode.
+2017-12-09 10:59:57		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-09 10:59:57		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-09 10:59:57		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-09 10:59:57		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-09 10:59:57		perl scripts loaded: buffers, colorize_lines, iset
+2017-12-09 10:59:57		script: 351 scripts for WeeChat 1.9-dev
+2017-12-09 10:59:57		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-09 11:00:35		Scripts loaded:
+2017-12-09 11:00:35		 * ia   buffers.pl 5.6 (Sidebar with list of buffers)
+2017-12-09 11:00:35		   ia   colorize_lines.pl 3.4 (Colorize users' text in chat area with their nick color, including highlights)
+2017-12-09 11:00:35		 * ia   iset.pl 4.3 (Interactive Set for configuration options)
+2017-12-09 11:00:35		   ia   autosort.py 3.3 (Flexible automatic (or manual) buffer sorting based on eval expressions.)
+2017-12-09 11:00:35		   ia   go.py 2.5 (Quick jump to buffers)
+2017-12-09 11:00:35		   ia   ichatts.py 1.0 (iChat-style timestamps)
+2017-12-09 11:00:35		   ia   shell.py 0.8 (Run shell commands in WeeChat)
+2017-12-09 11:00:35		 * ia   urlserver.py 2.2 (Shorten URLs with own HTTP server)
+2017-12-09 11:00:35		   ia   vimode.py 0.5 (Add vi/vim-like modes and keybindings to WeeChat.)
+2017-12-09 11:00:35		   ia   ws_replace.py 0.1 (Remove leading and trailing whitespace before sending)
+2017-12-09 11:00:55		perl: unloading script "buffers"
+2017-12-09 11:00:55		perl: script removed: /home/rjh/dotfiles/weechat/perl/autoload/buffers.pl
+2017-12-09 11:00:55		perl: script removed: /home/rjh/dotfiles/weechat/perl/buffers.pl
+2017-12-09 11:06:00		[11:00]
+2017-12-09 11:43:53		fifo: pipe closed
+2017-12-09 11:43:53		[11:43]
+2017-12-09 11:43:53		perl: scripts unloaded
+2017-12-09 11:43:53		URL server stopped
+2017-12-09 11:43:53		python: scripts unloaded
+2017-12-09 11:44:26		URL server listening on ('127.0.1.1', 42455)
+2017-12-09 11:44:26		python: stdout/stderr: Package python-xmpp (xmpppy) must be installed to use Jabber protocol.
+2017-12-09 11:44:26		[11:44]
+2017-12-09 11:44:26		python: stdout/stderr: Get xmpppy with your package manager, or at this URL: http://xmpppy.sourceforge.net/
+2017-12-09 11:44:26	=!=	python: function "register" not found (or failed) in file "/home/rjh/dotfiles/weechat/python/autoload/jabber.py"
+2017-12-09 11:44:26		[vimode.py] Problematic keybindings detected:
+2017-12-09 11:44:26		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-09 11:44:26		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-09 11:44:26		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-09 11:44:26		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-09 11:44:26		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-09 11:44:26		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-09 11:44:26		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-09 11:44:26		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-09 11:44:26		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-09 11:44:26		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-09 11:44:26		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-09 11:44:26		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-09 11:44:26		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-09 11:44:26		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-09 11:44:26		[vimode.py] These keybindings may conflict with vimode.
+2017-12-09 11:44:26		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-09 11:44:26		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-09 11:44:26		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-09 11:44:26		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-09 11:44:26		perl scripts loaded: colorize_lines, iset
+2017-12-09 11:44:26		script: 351 scripts for WeeChat 1.9-dev
+2017-12-09 11:44:26		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-11 13:27:33		URL server listening on ('127.0.1.1', 36861)
+2017-12-11 13:27:33		python: stdout/stderr: Package python-xmpp (xmpppy) must be installed to use Jabber protocol.
+2017-12-11 13:27:33		[13:27]
+2017-12-11 13:27:33		python: stdout/stderr: Get xmpppy with your package manager, or at this URL: http://xmpppy.sourceforge.net/
+2017-12-11 13:27:33	=!=	python: function "register" not found (or failed) in file "/home/rjh/dotfiles/weechat/python/autoload/jabber.py"
+2017-12-11 13:27:33		[vimode.py] Problematic keybindings detected:
+2017-12-11 13:27:33		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-11 13:27:33		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-11 13:27:33		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-11 13:27:33		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-11 13:27:33		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-11 13:27:33		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-11 13:27:33		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-11 13:27:33		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-11 13:27:33		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-11 13:27:33		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-11 13:27:33		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-11 13:27:33		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-11 13:27:33		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-11 13:27:33		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-11 13:27:33		[vimode.py] These keybindings may conflict with vimode.
+2017-12-11 13:27:33		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-11 13:27:33		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-11 13:27:33		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-11 13:27:33		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-11 13:27:33		perl scripts loaded: colorize_lines, iset
+2017-12-11 13:27:33		script: downloading list of scripts...
+2017-12-11 13:27:33		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-11 13:27:34		script: 351 scripts for WeeChat 1.9-dev
+2017-12-11 13:33:00		[13:27]
+2017-12-11 15:20:53		python: script removed: /home/rjh/dotfiles/weechat/python/autoload/jabber.py
+2017-12-11 15:20:53		[15:20]
+2017-12-11 15:20:53		python: script removed: /home/rjh/dotfiles/weechat/python/jabber.py
+2017-12-11 15:54:12		[bar] (weechat.conf)
+2017-12-11 15:54:12		[15:54]
+2017-12-11 15:54:12		  weechat.bar.activetitle.color_bg = 238
+2017-12-11 15:54:12		  weechat.bar.activetitle.color_delim = default
+2017-12-11 15:54:12		  weechat.bar.activetitle.color_fg = default
+2017-12-11 15:54:12		  weechat.bar.activetitle.conditions = ""
+2017-12-11 15:54:12		  weechat.bar.activetitle.filling_left_right = vertical
+2017-12-11 15:54:12		  weechat.bar.activetitle.filling_top_bottom = horizontal
+2017-12-11 15:54:12		  weechat.bar.activetitle.hidden = off
+2017-12-11 15:54:12		  weechat.bar.activetitle.items = "buffer_title"  (default: "")
+2017-12-11 15:54:12		  weechat.bar.activetitle.position = top
+2017-12-11 15:54:12		  weechat.bar.activetitle.priority = 0
+2017-12-11 15:54:12		  weechat.bar.activetitle.separator = off
+2017-12-11 15:54:12		  weechat.bar.activetitle.size = 1
+2017-12-11 15:54:12		  weechat.bar.activetitle.size_max = 0
+2017-12-11 15:54:12		  weechat.bar.activetitle.type = window
+2017-12-11 15:54:12		  weechat.bar.buffers.color_bg = default
+2017-12-11 15:54:12		  weechat.bar.buffers.color_delim = default
+2017-12-11 15:54:12		  weechat.bar.buffers.color_fg = default
+2017-12-11 15:54:12		  weechat.bar.buffers.conditions = ""
+2017-12-11 15:54:12		  weechat.bar.buffers.filling_left_right = vertical
+2017-12-11 15:54:12		  weechat.bar.buffers.filling_top_bottom = columns_vertical
+2017-12-11 15:54:12		  weechat.bar.buffers.hidden = on
+2017-12-11 15:54:12		  weechat.bar.buffers.items = "buffers"  (default: "")
+2017-12-11 15:54:12		  weechat.bar.buffers.position = left
+2017-12-11 15:54:12		  weechat.bar.buffers.priority = 0
+2017-12-11 15:54:12		  weechat.bar.buffers.separator = on
+2017-12-11 15:54:12		  weechat.bar.buffers.size = 0
+2017-12-11 15:54:12		  weechat.bar.buffers.size_max = 0
+2017-12-11 15:54:12		  weechat.bar.buffers.type = root
+2017-12-11 15:54:12		  weechat.bar.buflist.color_bg = default
+2017-12-11 15:54:12		  weechat.bar.buflist.color_delim = default
+2017-12-11 15:54:12		  weechat.bar.buflist.color_fg = default
+2017-12-11 15:54:12		  weechat.bar.buflist.conditions = ""
+2017-12-11 15:54:12		  weechat.bar.buflist.filling_left_right = vertical
+2017-12-11 15:54:12		  weechat.bar.buflist.filling_top_bottom = columns_vertical
+2017-12-11 15:54:12		  weechat.bar.buflist.hidden = off
+2017-12-11 15:54:12		  weechat.bar.buflist.items = "buflist"  (default: "")
+2017-12-11 15:54:12		  weechat.bar.buflist.position = left
+2017-12-11 15:54:12		  weechat.bar.buflist.priority = 0
+2017-12-11 15:54:12		  weechat.bar.buflist.separator = on
+2017-12-11 15:54:12		  weechat.bar.buflist.size = 0
+2017-12-11 15:54:12		  weechat.bar.buflist.size_max = 0
+2017-12-11 15:54:12		  weechat.bar.buflist.type = root
+2017-12-11 15:54:12		  weechat.bar.input.color_bg = 250
+2017-12-11 15:54:12		  weechat.bar.input.color_delim = cyan
+2017-12-11 15:54:12		  weechat.bar.input.color_fg = 237
+2017-12-11 15:54:12		  weechat.bar.input.conditions = ""
+2017-12-11 15:54:12		  weechat.bar.input.filling_left_right = vertical
+2017-12-11 15:54:12		  weechat.bar.input.filling_top_bottom = horizontal
+2017-12-11 15:54:12		  weechat.bar.input.hidden = off
+2017-12-11 15:54:12		  weechat.bar.input.items = "[input_prompt]+(away),[input_search],[input_paste],input_text"
+2017-12-11 15:54:12		  weechat.bar.input.position = bottom
+2017-12-11 15:54:12		  weechat.bar.input.priority = 1000
+2017-12-11 15:54:12		  weechat.bar.input.separator = on
+2017-12-11 15:54:12		  weechat.bar.input.size = 1
+2017-12-11 15:54:12		  weechat.bar.input.size_max = 0
+2017-12-11 15:54:12		  weechat.bar.input.type = window
+2017-12-11 15:54:12		  weechat.bar.isetbar.color_bg = default
+2017-12-11 15:54:12		  weechat.bar.isetbar.color_delim = cyan
+2017-12-11 15:54:12		  weechat.bar.isetbar.color_fg = default
+2017-12-11 15:54:12		  weechat.bar.isetbar.conditions = ""
+2017-12-11 15:54:12		  weechat.bar.isetbar.filling_left_right = vertical
+2017-12-11 15:54:12		  weechat.bar.isetbar.filling_top_bottom = horizontal
+2017-12-11 15:54:12		  weechat.bar.isetbar.hidden = on
+2017-12-11 15:54:12		  weechat.bar.isetbar.items = "isetbar_help"  (default: "")
+2017-12-11 15:54:12		  weechat.bar.isetbar.position = top
+2017-12-11 15:54:12		  weechat.bar.isetbar.priority = 0
+2017-12-11 15:54:12		  weechat.bar.isetbar.separator = on
+2017-12-11 15:54:12		  weechat.bar.isetbar.size = 3
+2017-12-11 15:54:12		  weechat.bar.isetbar.size_max = 3
+2017-12-11 15:54:12		  weechat.bar.isetbar.type = window
+2017-12-11 15:54:12		  weechat.bar.nicklist.color_bg = 238
+2017-12-11 15:54:12		  weechat.bar.nicklist.color_delim = cyan
+2017-12-11 15:54:12		  weechat.bar.nicklist.color_fg = default
+2017-12-11 15:54:12		  weechat.bar.nicklist.conditions = "${nicklist}"
+2017-12-11 15:54:12		  weechat.bar.nicklist.filling_left_right = vertical
+2017-12-11 15:54:12		  weechat.bar.nicklist.filling_top_bottom = columns_vertical
+2017-12-11 15:54:12		  weechat.bar.nicklist.hidden = off
+2017-12-11 15:54:12		  weechat.bar.nicklist.items = "buffer_nicklist"
+2017-12-11 15:54:12		  weechat.bar.nicklist.position = right
+2017-12-11 15:54:12		  weechat.bar.nicklist.priority = 200
+2017-12-11 15:54:12		  weechat.bar.nicklist.separator = on
+2017-12-11 15:54:12		  weechat.bar.nicklist.size = 0
+2017-12-11 15:54:12		  weechat.bar.nicklist.size_max = 0
+2017-12-11 15:54:12		  weechat.bar.nicklist.type = window
+2017-12-11 15:54:12		  weechat.bar.status.color_bg = 238
+2017-12-11 15:54:12		  weechat.bar.status.color_delim = cyan
+2017-12-11 15:54:12		  weechat.bar.status.color_fg = default
+2017-12-11 15:54:12		  weechat.bar.status.conditions = ""
+2017-12-11 15:54:12		  weechat.bar.status.filling_left_right = vertical
+2017-12-11 15:54:12		  weechat.bar.status.filling_top_bottom = horizontal
+2017-12-11 15:54:12		  weechat.bar.status.hidden = off
+2017-12-11 15:54:12		  weechat.bar.status.items = "[time],[buffer_last_number],[buffer_plugin],buffer_number+:+buffer_name+(buffer_modes)+{buffer_nicklist_count}+buffer_zoom+buffer_filter,scroll,[lag],[hotlist],completion"
+2017-12-11 15:54:12		  weechat.bar.status.position = bottom
+2017-12-11 15:54:12		  weechat.bar.status.priority = 500
+2017-12-11 15:54:12		  weechat.bar.status.separator = on
+2017-12-11 15:54:12		  weechat.bar.status.size = 1
+2017-12-11 15:54:12		  weechat.bar.status.size_max = 0
+2017-12-11 15:54:12		  weechat.bar.status.type = window
+2017-12-11 15:54:12		  weechat.bar.vi_cmd.color_bg = default
+2017-12-11 15:54:12		  weechat.bar.vi_cmd.color_delim = default
+2017-12-11 15:54:12		  weechat.bar.vi_cmd.color_fg = default
+2017-12-11 15:54:12		  weechat.bar.vi_cmd.conditions = ""
+2017-12-11 15:54:12		  weechat.bar.vi_cmd.filling_left_right = vertical
+2017-12-11 15:54:12		  weechat.bar.vi_cmd.filling_top_bottom = vertical
+2017-12-11 15:54:12		  weechat.bar.vi_cmd.hidden = on
+2017-12-11 15:54:12		  weechat.bar.vi_cmd.items = "cmd_text"  (default: "")
+2017-12-11 15:54:12		  weechat.bar.vi_cmd.position = bottom
+2017-12-11 15:54:12		  weechat.bar.vi_cmd.priority = 0
+2017-12-11 15:54:12		  weechat.bar.vi_cmd.separator = off
+2017-12-11 15:54:12		  weechat.bar.vi_cmd.size = 0
+2017-12-11 15:54:12		  weechat.bar.vi_cmd.size_max = 0
+2017-12-11 15:54:12		  weechat.bar.vi_cmd.type = root
+2017-12-11 15:54:12		  weechat.bar.vi_line_numbers.color_bg = default
+2017-12-11 15:54:12		  weechat.bar.vi_line_numbers.color_delim = default
+2017-12-11 15:54:12		  weechat.bar.vi_line_numbers.color_fg = default
+2017-12-11 15:54:12		  weechat.bar.vi_line_numbers.conditions = ""
+2017-12-11 15:54:12		  weechat.bar.vi_line_numbers.filling_left_right = vertical
+2017-12-11 15:54:12		  weechat.bar.vi_line_numbers.filling_top_bottom = vertical
+2017-12-11 15:54:12		  weechat.bar.vi_line_numbers.hidden = on
+2017-12-11 15:54:12		  weechat.bar.vi_line_numbers.items = "line_numbers"  (default: "")
+2017-12-11 15:54:12		  weechat.bar.vi_line_numbers.position = left
+2017-12-11 15:54:12		  weechat.bar.vi_line_numbers.priority = 0
+2017-12-11 15:54:12		  weechat.bar.vi_line_numbers.separator = off
+2017-12-11 15:54:12		  weechat.bar.vi_line_numbers.size = 0
+2017-12-11 15:54:12		  weechat.bar.vi_line_numbers.size_max = 0
+2017-12-11 15:54:12		  weechat.bar.vi_line_numbers.type = window
+2017-12-11 15:54:12		126 options (matching with "weechat.bar.*")
+2017-12-11 15:54:36		[bar] (weechat.conf)
+2017-12-11 15:54:36		  weechat.bar.status.color_bg = 238
+2017-12-11 15:54:36		  weechat.bar.status.color_delim = cyan
+2017-12-11 15:54:36		  weechat.bar.status.color_fg = default
+2017-12-11 15:54:36		  weechat.bar.status.conditions = ""
+2017-12-11 15:54:36		  weechat.bar.status.filling_left_right = vertical
+2017-12-11 15:54:36		  weechat.bar.status.filling_top_bottom = horizontal
+2017-12-11 15:54:36		  weechat.bar.status.hidden = off
+2017-12-11 15:54:36		  weechat.bar.status.items = "[time],[buffer_last_number],[buffer_plugin],buffer_number+:+buffer_name+(buffer_modes)+{buffer_nicklist_count}+buffer_zoom+buffer_filter,scroll,[lag],[hotlist],completion"
+2017-12-11 15:54:36		  weechat.bar.status.position = bottom
+2017-12-11 15:54:36		  weechat.bar.status.priority = 500
+2017-12-11 15:54:36		  weechat.bar.status.separator = on
+2017-12-11 15:54:36		  weechat.bar.status.size = 1
+2017-12-11 15:54:36		  weechat.bar.status.size_max = 0
+2017-12-11 15:54:36		  weechat.bar.status.type = window
+2017-12-11 15:54:36		14 options (matching with "weechat.bar.status.*")
+2017-12-11 15:54:42		[bar] (weechat.conf)
+2017-12-11 15:54:42		  weechat.bar.status.color_bg = 238
+2017-12-11 15:54:42		  weechat.bar.status.color_delim = cyan
+2017-12-11 15:54:42		  weechat.bar.status.color_fg = default
+2017-12-11 15:54:42		  weechat.bar.status.conditions = ""
+2017-12-11 15:54:42		  weechat.bar.status.filling_left_right = vertical
+2017-12-11 15:54:42		  weechat.bar.status.filling_top_bottom = horizontal
+2017-12-11 15:54:42		  weechat.bar.status.hidden = off
+2017-12-11 15:54:42		  weechat.bar.status.items = "[time],[buffer_last_number],[buffer_plugin],buffer_number+:+buffer_name+(buffer_modes)+{buffer_nicklist_count}+buffer_zoom+buffer_filter,scroll,[lag],[hotlist],completion"
+2017-12-11 15:54:42		  weechat.bar.status.position = bottom
+2017-12-11 15:54:42		  weechat.bar.status.priority = 500
+2017-12-11 15:54:42		  weechat.bar.status.separator = on
+2017-12-11 15:54:42		  weechat.bar.status.size = 1
+2017-12-11 15:54:42		  weechat.bar.status.size_max = 0
+2017-12-11 15:54:42		  weechat.bar.status.type = window
+2017-12-11 15:54:42		14 options (matching with "weechat.bar.status.*")
+2017-12-11 15:56:31		[look] (weechat.conf)
+2017-12-11 15:56:31		  weechat.look.hotlist_add_conditions = "${away} || ${buffer.num_displayed} == 0"
+2017-12-11 15:56:31		  weechat.look.hotlist_buffer_separator = ", "
+2017-12-11 15:56:31		  weechat.look.hotlist_count_max = 2
+2017-12-11 15:56:31		  weechat.look.hotlist_count_min_msg = 2
+2017-12-11 15:56:31		  weechat.look.hotlist_names_count = 3
+2017-12-11 15:56:31		  weechat.look.hotlist_names_length = 0
+2017-12-11 15:56:31		  weechat.look.hotlist_names_level = 12
+2017-12-11 15:56:31		  weechat.look.hotlist_names_merged_buffers = off
+2017-12-11 15:56:31		  weechat.look.hotlist_prefix = "H: "
+2017-12-11 15:56:31		  weechat.look.hotlist_remove = merged
+2017-12-11 15:56:31		  weechat.look.hotlist_short_names = on
+2017-12-11 15:56:31		  weechat.look.hotlist_sort = group_time_asc
+2017-12-11 15:56:31		  weechat.look.hotlist_suffix = ""
+2017-12-11 15:56:31		  weechat.look.hotlist_unique_numbers = on
+2017-12-11 15:56:31		14 options (matching with "weechat.look.hotlist*")
+2017-12-11 15:57:51		[look] (weechat.conf)
+2017-12-11 15:57:51		  weechat.look.hotlist_add_conditions = "${away} || ${buffer.num_displayed} == 0"
+2017-12-11 15:57:51		  weechat.look.hotlist_buffer_separator = ", "
+2017-12-11 15:57:51		  weechat.look.hotlist_count_max = 2
+2017-12-11 15:57:51		  weechat.look.hotlist_count_min_msg = 2
+2017-12-11 15:57:51		  weechat.look.hotlist_names_count = 3
+2017-12-11 15:57:51		  weechat.look.hotlist_names_length = 0
+2017-12-11 15:57:51		  weechat.look.hotlist_names_level = 12
+2017-12-11 15:57:51		  weechat.look.hotlist_names_merged_buffers = off
+2017-12-11 15:57:51		  weechat.look.hotlist_prefix = "H: "
+2017-12-11 15:57:51		  weechat.look.hotlist_remove = merged
+2017-12-11 15:57:51		  weechat.look.hotlist_short_names = on
+2017-12-11 15:57:51		  weechat.look.hotlist_sort = group_time_asc
+2017-12-11 15:57:51		  weechat.look.hotlist_suffix = ""
+2017-12-11 15:57:51		  weechat.look.hotlist_unique_numbers = on
+2017-12-11 15:57:51		14 options (matching with "weechat.look.hot*")
+2017-12-11 15:59:03		Option changed: weechat.look.hotlist_prefix = "Alerts: "  (default: "H: ")
+2017-12-11 15:59:56		Option changed: weechat.look.hotlist_short_names = off  (default: on)
+2017-12-11 16:00:05		[look] (weechat.conf)
+2017-12-11 16:00:05		  weechat.look.hotlist_add_conditions = "${away} || ${buffer.num_displayed} == 0"
+2017-12-11 16:00:05		  weechat.look.hotlist_buffer_separator = ", "
+2017-12-11 16:00:05		  weechat.look.hotlist_count_max = 2
+2017-12-11 16:00:05		  weechat.look.hotlist_count_min_msg = 2
+2017-12-11 16:00:05		  weechat.look.hotlist_names_count = 3
+2017-12-11 16:00:05		  weechat.look.hotlist_names_length = 0
+2017-12-11 16:00:05		  weechat.look.hotlist_names_level = 12
+2017-12-11 16:00:05		  weechat.look.hotlist_names_merged_buffers = off
+2017-12-11 16:00:05		  weechat.look.hotlist_prefix = "Alerts: "  (default: "H: ")
+2017-12-11 16:00:05		  weechat.look.hotlist_remove = merged
+2017-12-11 16:00:05		  weechat.look.hotlist_short_names = off  (default: on)
+2017-12-11 16:00:05		  weechat.look.hotlist_sort = group_time_asc
+2017-12-11 16:00:05		  weechat.look.hotlist_suffix = ""
+2017-12-11 16:00:05		  weechat.look.hotlist_unique_numbers = on
+2017-12-11 16:00:05		14 options (matching with "weechat.look.hot*")
+2017-12-11 16:02:05		Option changed: weechat.color.status_count_highlight = 239  (default: magenta)
+2017-12-11 16:02:17		[color] (weechat.conf)
+2017-12-11 16:02:17		  weechat.color.status_count_highlight = 239  (default: magenta)
+2017-12-11 16:02:17		  weechat.color.status_count_msg = brown
+2017-12-11 16:02:17		  weechat.color.status_count_other = default
+2017-12-11 16:02:17		  weechat.color.status_count_private = green
+2017-12-11 16:02:17		4 options (matching with "weechat.color.status_count_*")
+2017-12-11 16:02:35	=!=	Error: failed to set option "weechat.color.status_count_msg"
+2017-12-11 16:02:43	=!=	Error: failed to set option "weechat.color.status_count_msg"
+2017-12-11 16:07:12		[format] (buflist.conf)
+2017-12-11 16:07:12		  buflist.format.hotlist = " ${color:green}(${hotlist}${color:green})"
+2017-12-11 16:07:12		  buflist.format.hotlist_highlight = "${color:magenta}"
+2017-12-11 16:07:12		  buflist.format.hotlist_low = "${color:white}"
+2017-12-11 16:07:12		  buflist.format.hotlist_message = "${color:brown}"
+2017-12-11 16:07:12		  buflist.format.hotlist_none = "${color:default}"
+2017-12-11 16:07:12		  buflist.format.hotlist_private = "${color:green}"
+2017-12-11 16:07:12		  buflist.format.hotlist_separator = "${color:default},"
+2017-12-11 16:07:12		7 options (matching with "buflist.format.hotlist*")
+2017-12-11 16:08:21		[format] (buflist.conf)
+2017-12-11 16:08:21		  buflist.format.buffer = "${format_number}${indent}${format_nick_prefix}${color_hotlist}${name}"
+2017-12-11 16:08:21		  buflist.format.buffer_current = "${color:,blue}${format_buffer}"
+2017-12-11 16:08:21		  buflist.format.hotlist = " ${color:green}(${hotlist}${color:green})"
+2017-12-11 16:08:21		  buflist.format.hotlist_highlight = "${color:magenta}"
+2017-12-11 16:08:21		  buflist.format.hotlist_low = "${color:white}"
+2017-12-11 16:08:21		  buflist.format.hotlist_message = "${color:brown}"
+2017-12-11 16:08:21		  buflist.format.hotlist_none = "${color:default}"
+2017-12-11 16:08:21		  buflist.format.hotlist_private = "${color:green}"
+2017-12-11 16:08:21		  buflist.format.hotlist_separator = "${color:default},"
+2017-12-11 16:08:21		  buflist.format.indent = "  "
+2017-12-11 16:08:21		  buflist.format.lag = " ${color:green}[${color:brown}${lag}${color:green}]"
+2017-12-11 16:08:21		  buflist.format.nick_prefix = "${color_nick_prefix}${nick_prefix}"
+2017-12-11 16:08:21		  buflist.format.number = "${color:green}${number}${if:${number_displayed}?.: }"
+2017-12-11 16:08:21		13 options (matching with "buflist.format.*")
+2017-12-11 16:14:00		[16:08]
+2017-12-11 18:16:56		fifo: pipe closed
+2017-12-11 18:16:56		[18:16]
+2017-12-11 18:16:56		perl: scripts unloaded
+2017-12-11 18:16:56		URL server stopped
+2017-12-11 18:16:56		python: scripts unloaded
+2017-12-12 09:24:44		URL server listening on ('127.0.1.1', 53153)
+2017-12-12 09:24:44		[vimode.py] Problematic keybindings detected:
+2017-12-12 09:24:44		[09:24]
+2017-12-12 09:24:44		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-12 09:24:44		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-12 09:24:44		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-12 09:24:44		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-12 09:24:44		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-12 09:24:44		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-12 09:24:44		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-12 09:24:44		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-12 09:24:44		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-12 09:24:44		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-12 09:24:44		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-12 09:24:44		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-12 09:24:44		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-12 09:24:44		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-12 09:24:44		[vimode.py] These keybindings may conflict with vimode.
+2017-12-12 09:24:44		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-12 09:24:44		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-12 09:24:44		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-12 09:24:44		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-12 09:24:44		perl scripts loaded: colorize_lines, iset
+2017-12-12 09:24:44		script: 351 scripts for WeeChat 1.9-dev
+2017-12-12 09:24:44		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-12 16:27:30		fifo: pipe closed
+2017-12-12 16:27:30		[16:27]
+2017-12-12 16:27:30		perl: scripts unloaded
+2017-12-12 16:27:30		URL server stopped
+2017-12-12 16:27:30		python: scripts unloaded
+2017-12-12 18:28:04		URL server listening on ('127.0.1.1', 41323)
+2017-12-12 18:28:04		[vimode.py] Problematic keybindings detected:
+2017-12-12 18:28:04		[18:28]
+2017-12-12 18:28:04		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-12 18:28:04		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-12 18:28:04		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-12 18:28:04		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-12 18:28:04		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-12 18:28:04		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-12 18:28:04		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-12 18:28:04		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-12 18:28:04		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-12 18:28:04		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-12 18:28:04		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-12 18:28:04		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-12 18:28:04		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-12 18:28:04		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-12 18:28:04		[vimode.py] These keybindings may conflict with vimode.
+2017-12-12 18:28:04		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-12 18:28:04		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-12 18:28:04		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-12 18:28:04		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-12 18:28:04		perl scripts loaded: colorize_lines, iset
+2017-12-12 18:28:04		script: downloading list of scripts...
+2017-12-12 18:28:04		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-12 18:28:07		script: 351 scripts for WeeChat 1.9-dev
+2017-12-12 18:34:00		[18:28]
+2017-12-12 20:47:06		fifo: pipe closed
+2017-12-12 20:47:06		[20:47]
+2017-12-12 20:47:06		perl: scripts unloaded
+2017-12-12 20:47:06		URL server stopped
+2017-12-12 20:47:06		python: scripts unloaded
+2017-12-13 11:30:53		URL server listening on ('127.0.1.1', 45068)
+2017-12-13 11:30:54		[vimode.py] Problematic keybindings detected:
+2017-12-13 11:30:54		[11:30]
+2017-12-13 11:30:54		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-13 11:30:54		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-13 11:30:54		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-13 11:30:54		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-13 11:30:54		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-13 11:30:54		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-13 11:30:54		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-13 11:30:54		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-13 11:30:54		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-13 11:30:54		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-13 11:30:54		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-13 11:30:54		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-13 11:30:54		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-13 11:30:54		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-13 11:30:54		[vimode.py] These keybindings may conflict with vimode.
+2017-12-13 11:30:54		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-13 11:30:54		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-13 11:30:54		[vimode.py] tmux/screen users, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ.md#esc-key-not-being-detected-instantly
+2017-12-13 11:30:54		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-13 11:30:54		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-13 11:30:54		perl scripts loaded: colorize_lines, iset
+2017-12-13 11:30:54		script: 351 scripts for WeeChat 1.9-dev
+2017-12-13 11:30:54		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer

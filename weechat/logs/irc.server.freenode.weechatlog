@@ -863,3 +863,1731 @@
 2017-12-07 20:24:07	--	End of /MOTD command.
 2017-12-07 20:24:07	--	User mode [+i] by C3D2
 2017-12-07 20:30:00		[20:24]
+2017-12-07 20:50:02	--	irc: connecting to server chat.freenode.net/6667...
+2017-12-07 20:50:02		[20:50]
+2017-12-07 20:50:02	--	irc: connected to chat.freenode.net/6667 (64.86.243.181)
+2017-12-07 20:50:02	--	karatkievich.freenode.net: *** Looking up your hostname...
+2017-12-07 20:50:02	--	karatkievich.freenode.net: *** Checking Ident
+2017-12-07 20:50:02	--	karatkievich.freenode.net: *** Found your hostname
+2017-12-07 20:50:11	--	karatkievich.freenode.net: *** No Ident response
+2017-12-07 20:50:11	--	irc: client capability, server supports: account-notify extended-join identify-msg multi-prefix sasl
+2017-12-07 20:50:11	--	irc: client capability, requesting: sasl
+2017-12-07 20:50:11	--	irc: nickname "C3D2" is already in use, trying nickname "C3D2_"
+2017-12-07 20:50:11	--	irc: client capability, enabled: sasl
+2017-12-07 20:50:13	--	You are now logged in as C3D2. (C3D2_!C3D2@cpc87143-aztw31-2-0-cust107.18-1.cable.virginm.net)
+2017-12-07 20:50:13	--	SASL authentication successful
+2017-12-07 20:50:14	--	Welcome to the freenode Internet Relay Chat Network C3D2_
+2017-12-07 20:50:14	--	Your host is karatkievich.freenode.net[64.86.243.181/6667], running version ircd-seven-1.1.4
+2017-12-07 20:50:14	--	This server was created Sun Jan 8 2017 at 22:54:39 EST
+2017-12-07 20:50:14	--	karatkievich.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2017-12-07 20:50:14	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2017-12-07 20:50:14	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 CPRIVMSG CNOTICE ETRACE :are supported by this server
+2017-12-07 20:50:14	--	KNOCK SAFELIST ELIST=CTU WHOX :are supported by this server
+2017-12-07 20:50:14	--	There are 122 users and 75336 invisible on 35 servers
+2017-12-07 20:50:14	--	36 :IRC Operators online
+2017-12-07 20:50:14	--	84 :unknown connection(s)
+2017-12-07 20:50:14	--	56299 :channels formed
+2017-12-07 20:50:14	--	I have 4185 clients and 1 servers
+2017-12-07 20:50:14	--	4185 12000 :Current local users 4185, max 12000
+2017-12-07 20:50:14	--	75458 94860 :Current global users 75458, max 94860
+2017-12-07 20:50:14	--	Highest connection count: 12001 (12000 clients) (479001 connections received)
+2017-12-07 20:50:14	--	- karatkievich.freenode.net Message of the Day -
+2017-12-07 20:50:14	--	- Welcome to karatkievich.freenode.net. Thanks to
+2017-12-07 20:50:14	--	- http://www.tatacommunications.com/ for sponsoring
+2017-12-07 20:50:14	--	- this server!
+2017-12-07 20:50:14	--	-
+2017-12-07 20:50:14	--	- KARATKIEVICH, ULADZIMIR (1930-1984) was a Belarusian
+2017-12-07 20:50:14	--	- romantic writer. After his first published work was a poem
+2017-12-07 20:50:14	--	- in 1951, he followed up with novels, short stories, plays,
+2017-12-07 20:50:14	--	- essays, articles and screenplays. His probably most popular
+2017-12-07 20:50:14	--	- work is the novel 'King Stakh's Wild Hunt' (1964). Most his
+2017-12-07 20:50:14	--	- novels are about Belarus's past.  He won many national
+2017-12-07 20:50:14	--	- literary awards and influenced the Belarusian literature's
+2017-12-07 20:50:14	--	- development of historical themes.
+2017-12-07 20:50:14	--	-
+2017-12-07 20:50:14	--	-
+2017-12-07 20:50:14	--	- Welcome to freenode - supporting the free and open source
+2017-12-07 20:50:14	--	- software communities since 1998.
+2017-12-07 20:50:14	--	-
+2017-12-07 20:50:14	--	- By connecting to freenode you indicate that you have read and
+2017-12-07 20:50:14	--	- accept our policies and guidelines as set out on https://freenode.net
+2017-12-07 20:50:14	--	-
+2017-12-07 20:50:14	--	- In the event that you observe behaviour that contravenes our policies,
+2017-12-07 20:50:14	--	- please notify a volunteer staff member via private message, or send us an
+2017-12-07 20:50:14	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2017-12-07 20:50:14	--	- situation within a reasonable period of time, and we may request further
+2017-12-07 20:50:14	--	- information or, as appropriate, involve other parties such as channel operators
+2017-12-07 20:50:14	--	- Group Contacts representing an on-topic group.
+2017-12-07 20:50:14	--	-
+2017-12-07 20:50:14	--	- freenode runs an open proxy scanner.
+2017-12-07 20:50:14	--	-
+2017-12-07 20:50:14	--	- If you are looking for assistance, you will be able to find a list of
+2017-12-07 20:50:14	--	- volunteer staff using the '/who freenode/staff/*' command, and you may
+2017-12-07 20:50:14	--	- message any of us at any time. Please note that freenode predominantly
+2017-12-07 20:50:14	--	- provides assistance via private message, and while we have a network
+2017-12-07 20:50:14	--	- channel the primary venue for support requests is via private message to
+2017-12-07 20:50:14	--	- a member of the volunteer staff team.
+2017-12-07 20:50:14	--	-
+2017-12-07 20:50:14	--	- From time to time, volunteer staff may send server-wide notices relating to
+2017-12-07 20:50:14	--	- the project, or the communities that we host. The majority of such notices
+2017-12-07 20:50:14	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2017-12-07 20:50:14	--	- do not miss them. Important messages relating to the freenode project, including
+2017-12-07 20:50:14	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2017-12-07 20:50:14	--	- global notices.
+2017-12-07 20:50:14	--	-
+2017-12-07 20:50:14	--	- Representing an on-topic project? Don't forget to register, more information
+2017-12-07 20:50:14	--	- can be found on the https://freenode.net website under "Group Registration".
+2017-12-07 20:50:14	--	-
+2017-12-07 20:50:14	--	- freenode organises an annual conference, and we would like to extend our
+2017-12-07 20:50:14	--	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+2017-12-07 20:50:14	--	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+2017-12-07 20:50:14	--	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+2017-12-07 20:50:14	--	-
+2017-12-07 20:50:14	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2017-12-07 20:50:14	--	- network going for close to two decades.
+2017-12-07 20:50:14	--	-
+2017-12-07 20:50:14	--	- freenode #live returns to Bristol, UK on November 3rd-4th 2018, keep an eye
+2017-12-07 20:50:14	--	- on the https://freenode.live website for our call for volunteers and call for
+2017-12-07 20:50:14	--	- participation. If you are interested in sponsoring next year's event, please
+2017-12-07 20:50:14	--	- send us an e-mail to sponsor@freenode.live
+2017-12-07 20:50:14	--	-
+2017-12-07 20:50:14	--	- Thank you for using freenode!
+2017-12-07 20:50:14	--	-
+2017-12-07 20:50:14	--	-
+2017-12-07 20:50:14	--	End of /MOTD command.
+2017-12-07 20:50:14	--	User mode [+i] by C3D2_
+2017-12-07 20:50:33	--	irc: disconnected from server
+2017-12-08 11:47:54	--	irc: connecting to server chat.freenode.net/6667...
+2017-12-08 11:47:54		[11:47]
+2017-12-08 11:47:59	--	irc: connected to chat.freenode.net/6667 (195.154.200.232)
+2017-12-08 11:47:59	--	barjavel.freenode.net: *** Looking up your hostname...
+2017-12-08 11:47:59	--	barjavel.freenode.net: *** Checking Ident
+2017-12-08 11:47:59	--	barjavel.freenode.net: *** Couldn't look up your hostname
+2017-12-08 11:48:06	--	barjavel.freenode.net: *** No Ident response
+2017-12-08 11:48:06	--	irc: client capability, server supports: account-notify extended-join identify-msg multi-prefix sasl
+2017-12-08 11:48:06	--	irc: client capability, requesting: sasl
+2017-12-08 11:48:06	--	irc: client capability, enabled: sasl
+2017-12-08 11:48:07	--	You are now logged in as C3D2. (C3D2!C3D2@212.219.87.194)
+2017-12-08 11:48:07	--	SASL authentication successful
+2017-12-08 11:48:08	--	Welcome to the freenode Internet Relay Chat Network C3D2
+2017-12-08 11:48:08	--	Your host is barjavel.freenode.net[195.154.200.232/6667], running version ircd-seven-1.1.4
+2017-12-08 11:48:08	--	This server was created Sat Jan 7 2017 at 03:00:47 CET
+2017-12-08 11:48:08	--	barjavel.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2017-12-08 11:48:08	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2017-12-08 11:48:08	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU WHOX :are supported by this server
+2017-12-08 11:48:08	--	ETRACE CPRIVMSG CNOTICE KNOCK :are supported by this server
+2017-12-08 11:48:08	--	There are 120 users and 91724 invisible on 35 servers
+2017-12-08 11:48:08	--	35 :IRC Operators online
+2017-12-08 11:48:08	--	61 :unknown connection(s)
+2017-12-08 11:48:08	--	56632 :channels formed
+2017-12-08 11:48:08	--	I have 4899 clients and 1 servers
+2017-12-08 11:48:08	--	4899 7620 :Current local users 4899, max 7620
+2017-12-08 11:48:08	--	91844 97718 :Current global users 91844, max 97718
+2017-12-08 11:48:08	--	Highest connection count: 7621 (7620 clients) (3318747 connections received)
+2017-12-08 11:48:08	--	- barjavel.freenode.net Message of the Day -
+2017-12-08 11:48:08	--	- Welcome to barjavel.freenode.net in Paris, FR, EU.
+2017-12-08 11:48:08	--	- Thanks to Bearstech (www.bearstech.com) for sponsoring
+2017-12-08 11:48:08	--	- this server!
+2017-12-08 11:48:08	--	-
+2017-12-08 11:48:08	--	- BARJAVEL, RENE [1911-1985].  Born in Nyons, he was a
+2017-12-08 11:48:08	--	- science-fiction author, a journalist and a critic. He is
+2017-12-08 11:48:08	--	- credited with having written the first novel to introduce
+2017-12-08 11:48:08	--	- the Grandfather Paradox in time travel, in his 1943 work
+2017-12-08 11:48:08	--	- 'Le Voyageur imprudent'.
+2017-12-08 11:48:08	--	-
+2017-12-08 11:48:08	--	- Welcome to freenode - supporting the free and open source
+2017-12-08 11:48:08	--	- software communities since 1998.
+2017-12-08 11:48:08	--	-
+2017-12-08 11:48:08	--	- By connecting to freenode you indicate that you have read and
+2017-12-08 11:48:08	--	- accept our policies and guidelines as set out on https://freenode.net
+2017-12-08 11:48:08	--	-
+2017-12-08 11:48:08	--	- In the event that you observe behaviour that contravenes our policies,
+2017-12-08 11:48:08	--	- please notify a volunteer staff member via private message, or send us an
+2017-12-08 11:48:08	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2017-12-08 11:48:08	--	- situation within a reasonable period of time, and we may request further
+2017-12-08 11:48:08	--	- information or, as appropriate, involve other parties such as channel operators
+2017-12-08 11:48:08	--	- Group Contacts representing an on-topic group.
+2017-12-08 11:48:08	--	-
+2017-12-08 11:48:08	--	- freenode runs an open proxy scanner.
+2017-12-08 11:48:08	--	-
+2017-12-08 11:48:08	--	- If you are looking for assistance, you will be able to find a list of
+2017-12-08 11:48:08	--	- volunteer staff using the '/who freenode/staff/*' command, and you may
+2017-12-08 11:48:08	--	- message any of us at any time. Please note that freenode predominantly
+2017-12-08 11:48:08	--	- provides assistance via private message, and while we have a network
+2017-12-08 11:48:08	--	- channel the primary venue for support requests is via private message to
+2017-12-08 11:48:08	--	- a member of the volunteer staff team.
+2017-12-08 11:48:08	--	-
+2017-12-08 11:48:08	--	- From time to time, volunteer staff may send server-wide notices relating to
+2017-12-08 11:48:08	--	- the project, or the communities that we host. The majority of such notices
+2017-12-08 11:48:08	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2017-12-08 11:48:08	--	- do not miss them. Important messages relating to the freenode project, including
+2017-12-08 11:48:08	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2017-12-08 11:48:08	--	- global notices.
+2017-12-08 11:48:08	--	-
+2017-12-08 11:48:08	--	- Representing an on-topic project? Don't forget to register, more information
+2017-12-08 11:48:08	--	- can be found on the https://freenode.net website under "Group Registration".
+2017-12-08 11:48:08	--	-
+2017-12-08 11:48:08	--	- freenode organises an annual conference, and we would like to extend our
+2017-12-08 11:48:08	--	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+2017-12-08 11:48:08	--	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+2017-12-08 11:48:08	--	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+2017-12-08 11:48:08	--	-
+2017-12-08 11:48:08	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2017-12-08 11:48:08	--	- network going for close to two decades.
+2017-12-08 11:48:08	--	-
+2017-12-08 11:48:08	--	- freenode #live returns to Bristol, UK on November 3rd-4th 2018, keep an eye
+2017-12-08 11:48:08	--	- on the https://freenode.live website for our call for volunteers and call for
+2017-12-08 11:48:08	--	- participation. If you are interested in sponsoring next year's event, please
+2017-12-08 11:48:08	--	- send us an e-mail to sponsor@freenode.live
+2017-12-08 11:48:08	--	-
+2017-12-08 11:48:08	--	- Thank you for using freenode!
+2017-12-08 11:48:08	--	-
+2017-12-08 11:48:08	--	-
+2017-12-08 11:48:08	--	End of /MOTD command.
+2017-12-08 11:48:08	--	User mode [+i] by C3D2
+2017-12-08 11:50:08	--	irc: disconnected from server
+2017-12-08 14:32:47	--	irc: connecting to server chat.freenode.net/6667...
+2017-12-08 14:32:47		[14:32]
+2017-12-08 14:32:47	--	irc: connected to chat.freenode.net/6667 (185.30.166.38)
+2017-12-08 14:32:47	--	orwell.freenode.net: *** Looking up your hostname...
+2017-12-08 14:32:47	--	orwell.freenode.net: *** Checking Ident
+2017-12-08 14:32:47	--	orwell.freenode.net: *** Couldn't look up your hostname
+2017-12-08 14:32:55	--	orwell.freenode.net: *** No Ident response
+2017-12-08 14:32:55	--	irc: client capability, server supports: account-notify extended-join identify-msg multi-prefix sasl
+2017-12-08 14:32:55	--	irc: client capability, requesting: sasl
+2017-12-08 14:32:55	--	irc: client capability, enabled: sasl
+2017-12-08 14:32:55	--	You are now logged in as C3D2. (C3D2!C3D2@85.255.232.123)
+2017-12-08 14:32:55	--	SASL authentication successful
+2017-12-08 14:32:56	--	Welcome to the freenode Internet Relay Chat Network C3D2
+2017-12-08 14:32:56	--	Your host is orwell.freenode.net[185.30.166.38/6667], running version ircd-seven-1.1.4
+2017-12-08 14:32:56	--	This server was created Sat Jan 7 2017 at 12:04:42 EST
+2017-12-08 14:32:56	--	orwell.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2017-12-08 14:32:56	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2017-12-08 14:32:56	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 KNOCK CPRIVMSG CNOTICE :are supported by this server
+2017-12-08 14:32:56	--	SAFELIST ELIST=CTU ETRACE WHOX :are supported by this server
+2017-12-08 14:32:56	--	There are 122 users and 92627 invisible on 35 servers
+2017-12-08 14:32:56	--	35 :IRC Operators online
+2017-12-08 14:32:56	--	71 :unknown connection(s)
+2017-12-08 14:32:56	--	56697 :channels formed
+2017-12-08 14:32:56	--	I have 5067 clients and 1 servers
+2017-12-08 14:32:56	--	5067 6943 :Current local users 5067, max 6943
+2017-12-08 14:32:56	--	92749 97718 :Current global users 92749, max 97718
+2017-12-08 14:32:56	--	Highest connection count: 6944 (6943 clients) (4037185 connections received)
+2017-12-08 14:32:56	--	- orwell.freenode.net Message of the Day -
+2017-12-08 14:32:56	--	- Welcome to orwell.freenode.net in Amsterdam, NL.
+2017-12-08 14:32:56	--	- Thanks to http://www.hyperfilter.com/ for sponsoring
+2017-12-08 14:32:56	--	- this server!
+2017-12-08 14:32:56	--	-
+2017-12-08 14:32:56	--	- ORWELL, GEORGE [1903 - 1950] Born in India, his mother
+2017-12-08 14:32:56	--	- moved him to England when he was one year old, and it
+2017-12-08 14:32:56	--	- was in England where he was educated and spent most of
+2017-12-08 14:32:56	--	- his life.  Orwell is perhaps best known for his novels
+2017-12-08 14:32:56	--	- Nineteen Eighty-Four and Animal Farm.
+2017-12-08 14:32:56	--	-
+2017-12-08 14:32:56	--	-
+2017-12-08 14:32:56	--	- Welcome to freenode - supporting the free and open source
+2017-12-08 14:32:56	--	- software communities since 1998.
+2017-12-08 14:32:56	--	-
+2017-12-08 14:32:56	--	- By connecting to freenode you indicate that you have read and
+2017-12-08 14:32:56	--	- accept our policies and guidelines as set out on https://freenode.net
+2017-12-08 14:32:56	--	-
+2017-12-08 14:32:56	--	- In the event that you observe behaviour that contravenes our policies,
+2017-12-08 14:32:56	--	- please notify a volunteer staff member via private message, or send us an
+2017-12-08 14:32:56	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2017-12-08 14:32:56	--	- situation within a reasonable period of time, and we may request further
+2017-12-08 14:32:56	--	- information or, as appropriate, involve other parties such as channel operators
+2017-12-08 14:32:56	--	- Group Contacts representing an on-topic group.
+2017-12-08 14:32:56	--	-
+2017-12-08 14:32:56	--	- freenode runs an open proxy scanner.
+2017-12-08 14:32:56	--	-
+2017-12-08 14:32:56	--	- If you are looking for assistance, you will be able to find a list of
+2017-12-08 14:32:56	--	- volunteer staff using the '/who freenode/staff/*' command, and you may
+2017-12-08 14:32:56	--	- message any of us at any time. Please note that freenode predominantly
+2017-12-08 14:32:56	--	- provides assistance via private message, and while we have a network
+2017-12-08 14:32:56	--	- channel the primary venue for support requests is via private message to
+2017-12-08 14:32:56	--	- a member of the volunteer staff team.
+2017-12-08 14:32:56	--	-
+2017-12-08 14:32:56	--	- From time to time, volunteer staff may send server-wide notices relating to
+2017-12-08 14:32:56	--	- the project, or the communities that we host. The majority of such notices
+2017-12-08 14:32:56	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2017-12-08 14:32:56	--	- do not miss them. Important messages relating to the freenode project, including
+2017-12-08 14:32:56	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2017-12-08 14:32:56	--	- global notices.
+2017-12-08 14:32:56	--	-
+2017-12-08 14:32:56	--	- Representing an on-topic project? Don't forget to register, more information
+2017-12-08 14:32:56	--	- can be found on the https://freenode.net website under "Group Registration".
+2017-12-08 14:32:56	--	-
+2017-12-08 14:32:56	--	- freenode organises an annual conference, and we would like to extend our
+2017-12-08 14:32:56	--	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+2017-12-08 14:32:56	--	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+2017-12-08 14:32:56	--	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+2017-12-08 14:32:56	--	-
+2017-12-08 14:32:56	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2017-12-08 14:32:56	--	- network going for close to two decades.
+2017-12-08 14:32:56	--	-
+2017-12-08 14:32:56	--	- freenode #live returns to Bristol, UK on November 3rd-4th 2018, keep an eye
+2017-12-08 14:32:56	--	- on the https://freenode.live website for our call for volunteers and call for
+2017-12-08 14:32:56	--	- participation. If you are interested in sponsoring next year's event, please
+2017-12-08 14:32:56	--	- send us an e-mail to sponsor@freenode.live
+2017-12-08 14:32:56	--	-
+2017-12-08 14:32:56	--	- Thank you for using freenode!
+2017-12-08 14:32:56	--	-
+2017-12-08 14:32:56	--	-
+2017-12-08 14:32:56	--	End of /MOTD command.
+2017-12-08 14:32:56	--	User mode [+i] by C3D2
+2017-12-08 14:33:02	--	"##sailing: No such channel
+2017-12-08 14:33:49	--	irc: disconnected from server
+2017-12-08 14:33:55	--	irc: connecting to server chat.freenode.net/6667...
+2017-12-08 14:33:55		[14:33]
+2017-12-08 14:33:55	--	irc: connected to chat.freenode.net/6667 (185.30.166.37)
+2017-12-08 14:33:55	--	verne.freenode.net: *** Looking up your hostname...
+2017-12-08 14:33:55	--	verne.freenode.net: *** Checking Ident
+2017-12-08 14:33:55	--	verne.freenode.net: *** Couldn't look up your hostname
+2017-12-08 14:34:01	--	verne.freenode.net: *** No Ident response
+2017-12-08 14:34:01	--	irc: client capability, server supports: account-notify extended-join identify-msg multi-prefix sasl
+2017-12-08 14:34:01	--	irc: client capability, requesting: sasl
+2017-12-08 14:34:01	--	irc: client capability, enabled: sasl
+2017-12-08 14:34:02	--	You are now logged in as C3D2. (C3D2!C3D2@85.255.232.123)
+2017-12-08 14:34:02	--	SASL authentication successful
+2017-12-08 14:34:03	--	Welcome to the freenode Internet Relay Chat Network C3D2
+2017-12-08 14:34:03	--	Your host is verne.freenode.net[185.30.166.37/6667], running version ircd-seven-1.1.4
+2017-12-08 14:34:03	--	This server was created Sat Jan 7 2017 at 11:53:54 EST
+2017-12-08 14:34:03	--	verne.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2017-12-08 14:34:03	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2017-12-08 14:34:03	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 ETRACE WHOX KNOCK :are supported by this server
+2017-12-08 14:34:03	--	SAFELIST ELIST=CTU CPRIVMSG CNOTICE :are supported by this server
+2017-12-08 14:34:03	--	There are 122 users and 92635 invisible on 35 servers
+2017-12-08 14:34:03	--	35 :IRC Operators online
+2017-12-08 14:34:03	--	64 :unknown connection(s)
+2017-12-08 14:34:03	--	56703 :channels formed
+2017-12-08 14:34:03	--	I have 5089 clients and 2 servers
+2017-12-08 14:34:03	--	5089 7978 :Current local users 5089, max 7978
+2017-12-08 14:34:03	--	92757 97718 :Current global users 92757, max 97718
+2017-12-08 14:34:03	--	Highest connection count: 7980 (7978 clients) (3813900 connections received)
+2017-12-08 14:34:03	--	- verne.freenode.net Message of the Day -
+2017-12-08 14:34:03	--	- Welcome to verne.freenode.net in Amsterdam, NL.
+2017-12-08 14:34:03	--	- Thanks to http://www.hyperfilter.com/ for sponsoring
+2017-12-08 14:34:03	--	- this server!
+2017-12-08 14:34:03	--	-
+2017-12-08 14:34:03	--	-
+2017-12-08 14:34:03	--	- VERNE, Jules (1828-1905). Born in Nantes, France, Verne was
+2017-12-08 14:34:03	--	- a pioneering french author known for novels such as Twenty
+2017-12-08 14:34:03	--	- Thousand Leagues Under the Sea, A Journey to the Center of the
+2017-12-08 14:34:03	--	- Earth, and Around the World in Eighty Days. Often lauded as the
+2017-12-08 14:34:03	--	- Father of science fiction, Verne wrote about concepts such as
+2017-12-08 14:34:03	--	- space travel, skyscrapers, and worldwide communications
+2017-12-08 14:34:03	--	- networks long before these ideas became popularised or realised.
+2017-12-08 14:34:03	--	-
+2017-12-08 14:34:03	--	- Welcome to freenode - supporting the free and open source
+2017-12-08 14:34:03	--	- software communities since 1998.
+2017-12-08 14:34:03	--	-
+2017-12-08 14:34:03	--	- By connecting to freenode you indicate that you have read and
+2017-12-08 14:34:03	--	- accept our policies and guidelines as set out on https://freenode.net
+2017-12-08 14:34:03	--	-
+2017-12-08 14:34:03	--	- In the event that you observe behaviour that contravenes our policies,
+2017-12-08 14:34:03	--	- please notify a volunteer staff member via private message, or send us an
+2017-12-08 14:34:03	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2017-12-08 14:34:03	--	- situation within a reasonable period of time, and we may request further
+2017-12-08 14:34:03	--	- information or, as appropriate, involve other parties such as channel operators
+2017-12-08 14:34:03	--	- Group Contacts representing an on-topic group.
+2017-12-08 14:34:03	--	-
+2017-12-08 14:34:03	--	- freenode runs an open proxy scanner.
+2017-12-08 14:34:03	--	-
+2017-12-08 14:34:03	--	- If you are looking for assistance, you will be able to find a list of
+2017-12-08 14:34:03	--	- volunteer staff using the '/who freenode/staff/*' command, and you may
+2017-12-08 14:34:03	--	- message any of us at any time. Please note that freenode predominantly
+2017-12-08 14:34:03	--	- provides assistance via private message, and while we have a network
+2017-12-08 14:34:03	--	- channel the primary venue for support requests is via private message to
+2017-12-08 14:34:03	--	- a member of the volunteer staff team.
+2017-12-08 14:34:03	--	-
+2017-12-08 14:34:03	--	- From time to time, volunteer staff may send server-wide notices relating to
+2017-12-08 14:34:03	--	- the project, or the communities that we host. The majority of such notices
+2017-12-08 14:34:03	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2017-12-08 14:34:03	--	- do not miss them. Important messages relating to the freenode project, including
+2017-12-08 14:34:03	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2017-12-08 14:34:03	--	- global notices.
+2017-12-08 14:34:03	--	-
+2017-12-08 14:34:03	--	- Representing an on-topic project? Don't forget to register, more information
+2017-12-08 14:34:03	--	- can be found on the https://freenode.net website under "Group Registration".
+2017-12-08 14:34:03	--	-
+2017-12-08 14:34:03	--	- freenode organises an annual conference, and we would like to extend our
+2017-12-08 14:34:03	--	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+2017-12-08 14:34:03	--	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+2017-12-08 14:34:03	--	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+2017-12-08 14:34:03	--	-
+2017-12-08 14:34:03	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2017-12-08 14:34:03	--	- network going for close to two decades.
+2017-12-08 14:34:03	--	-
+2017-12-08 14:34:03	--	- freenode #live returns to Bristol, UK on November 3rd-4th 2018, keep an eye
+2017-12-08 14:34:03	--	- on the https://freenode.live website for our call for volunteers and call for
+2017-12-08 14:34:03	--	- participation. If you are interested in sponsoring next year's event, please
+2017-12-08 14:34:03	--	- send us an e-mail to sponsor@freenode.live
+2017-12-08 14:34:03	--	-
+2017-12-08 14:34:03	--	- Thank you for using freenode!
+2017-12-08 14:34:03	--	-
+2017-12-08 14:34:03	--	-
+2017-12-08 14:34:03	--	End of /MOTD command.
+2017-12-08 14:34:03	--	User mode [+i] by C3D2
+2017-12-08 14:40:00		[14:34]
+2017-12-08 15:06:03	--	irc: disconnected from server
+2017-12-08 15:07:36	--	irc: connecting to server chat.freenode.net/6667...
+2017-12-08 15:07:36		[15:07]
+2017-12-08 15:07:36	=!=	irc: address "chat.freenode.net" not found
+2017-12-08 15:07:36	=!=	irc: error: Name or service not known
+2017-12-08 15:07:36	--	irc: reconnecting to server in 10 seconds
+2017-12-08 15:07:46	--	irc: reconnecting to server...
+2017-12-08 15:07:46	--	irc: connecting to server chat.freenode.net/6667...
+2017-12-08 15:07:46	=!=	irc: address "chat.freenode.net" not found
+2017-12-08 15:07:46	=!=	irc: error: Name or service not known
+2017-12-08 15:07:46	--	irc: reconnecting to server in 20 seconds
+2017-12-08 15:07:50	--	irc: disconnected from server
+2017-12-08 16:09:37	--	irc: connecting to server chat.freenode.net/6667...
+2017-12-08 16:09:37		[16:09]
+2017-12-08 16:09:38	=!=	irc: address "chat.freenode.net" not found
+2017-12-08 16:09:38	=!=	irc: error: Name or service not known
+2017-12-08 16:09:38	--	irc: reconnecting to server in 10 seconds
+2017-12-08 16:09:48	--	irc: reconnecting to server...
+2017-12-08 16:09:48	--	irc: connecting to server chat.freenode.net/6667...
+2017-12-08 16:09:48	=!=	irc: address "chat.freenode.net" not found
+2017-12-08 16:09:48	=!=	irc: error: Name or service not known
+2017-12-08 16:09:48	--	irc: reconnecting to server in 20 seconds
+2017-12-08 16:10:08	--	irc: reconnecting to server...
+2017-12-08 16:10:08	--	irc: connecting to server chat.freenode.net/6667...
+2017-12-08 16:10:08	=!=	irc: address "chat.freenode.net" not found
+2017-12-08 16:10:08	=!=	irc: error: Name or service not known
+2017-12-08 16:10:08	--	irc: reconnecting to server in 40 seconds
+2017-12-08 16:10:48	--	irc: reconnecting to server...
+2017-12-08 16:10:48	--	irc: connecting to server chat.freenode.net/6667...
+2017-12-08 16:10:48	=!=	irc: address "chat.freenode.net" not found
+2017-12-08 16:10:48	=!=	irc: error: Name or service not known
+2017-12-08 16:10:48	--	irc: reconnecting to server in 1 minute, 20 seconds
+2017-12-08 16:12:08	--	irc: reconnecting to server...
+2017-12-08 16:12:08	--	irc: connecting to server chat.freenode.net/6667...
+2017-12-08 16:12:09	--	irc: connected to chat.freenode.net/6667 (195.154.200.232)
+2017-12-08 16:12:09	--	barjavel.freenode.net: *** Looking up your hostname...
+2017-12-08 16:12:09	--	barjavel.freenode.net: *** Checking Ident
+2017-12-08 16:12:09	--	barjavel.freenode.net: *** Found your hostname
+2017-12-08 16:12:16	--	barjavel.freenode.net: *** No Ident response
+2017-12-08 16:12:16	--	irc: client capability, server supports: account-notify extended-join identify-msg multi-prefix sasl
+2017-12-08 16:12:16	--	irc: client capability, requesting: sasl
+2017-12-08 16:12:16	--	irc: client capability, enabled: sasl
+2017-12-08 16:12:16	--	You are now logged in as C3D2. (C3D2!C3D2@cpc84741-aztw28-2-0-cust480.18-1.cable.virginm.net)
+2017-12-08 16:12:16	--	SASL authentication successful
+2017-12-08 16:12:17	--	Welcome to the freenode Internet Relay Chat Network C3D2
+2017-12-08 16:12:17	--	Your host is barjavel.freenode.net[195.154.200.232/6667], running version ircd-seven-1.1.4
+2017-12-08 16:12:17	--	This server was created Sat Jan 7 2017 at 03:00:47 CET
+2017-12-08 16:12:17	--	barjavel.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2017-12-08 16:12:17	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2017-12-08 16:12:17	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU WHOX :are supported by this server
+2017-12-08 16:12:17	--	ETRACE CPRIVMSG CNOTICE KNOCK :are supported by this server
+2017-12-08 16:12:17	--	There are 122 users and 92623 invisible on 35 servers
+2017-12-08 16:12:17	--	34 :IRC Operators online
+2017-12-08 16:12:17	--	25 :unknown connection(s)
+2017-12-08 16:12:17	--	56713 :channels formed
+2017-12-08 16:12:17	--	I have 5123 clients and 1 servers
+2017-12-08 16:12:17	--	5123 7620 :Current local users 5123, max 7620
+2017-12-08 16:12:17	--	92745 97718 :Current global users 92745, max 97718
+2017-12-08 16:12:17	--	Highest connection count: 7621 (7620 clients) (3321002 connections received)
+2017-12-08 16:12:17	--	- barjavel.freenode.net Message of the Day -
+2017-12-08 16:12:17	--	- Welcome to barjavel.freenode.net in Paris, FR, EU.
+2017-12-08 16:12:17	--	- Thanks to Bearstech (www.bearstech.com) for sponsoring
+2017-12-08 16:12:17	--	- this server!
+2017-12-08 16:12:17	--	-
+2017-12-08 16:12:17	--	- BARJAVEL, RENE [1911-1985].  Born in Nyons, he was a
+2017-12-08 16:12:17	--	- science-fiction author, a journalist and a critic. He is
+2017-12-08 16:12:17	--	- credited with having written the first novel to introduce
+2017-12-08 16:12:17	--	- the Grandfather Paradox in time travel, in his 1943 work
+2017-12-08 16:12:17	--	- 'Le Voyageur imprudent'.
+2017-12-08 16:12:17	--	-
+2017-12-08 16:12:17	--	- Welcome to freenode - supporting the free and open source
+2017-12-08 16:12:17	--	- software communities since 1998.
+2017-12-08 16:12:17	--	-
+2017-12-08 16:12:17	--	- By connecting to freenode you indicate that you have read and
+2017-12-08 16:12:17	--	- accept our policies and guidelines as set out on https://freenode.net
+2017-12-08 16:12:17	--	-
+2017-12-08 16:12:17	--	- In the event that you observe behaviour that contravenes our policies,
+2017-12-08 16:12:17	--	- please notify a volunteer staff member via private message, or send us an
+2017-12-08 16:12:17	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2017-12-08 16:12:17	--	- situation within a reasonable period of time, and we may request further
+2017-12-08 16:12:17	--	- information or, as appropriate, involve other parties such as channel operators
+2017-12-08 16:12:17	--	- Group Contacts representing an on-topic group.
+2017-12-08 16:12:17	--	-
+2017-12-08 16:12:17	--	- freenode runs an open proxy scanner.
+2017-12-08 16:12:17	--	-
+2017-12-08 16:12:17	--	- If you are looking for assistance, you will be able to find a list of
+2017-12-08 16:12:17	--	- volunteer staff using the '/who freenode/staff/*' command, and you may
+2017-12-08 16:12:17	--	- message any of us at any time. Please note that freenode predominantly
+2017-12-08 16:12:17	--	- provides assistance via private message, and while we have a network
+2017-12-08 16:12:17	--	- channel the primary venue for support requests is via private message to
+2017-12-08 16:12:17	--	- a member of the volunteer staff team.
+2017-12-08 16:12:17	--	-
+2017-12-08 16:12:17	--	- From time to time, volunteer staff may send server-wide notices relating to
+2017-12-08 16:12:17	--	- the project, or the communities that we host. The majority of such notices
+2017-12-08 16:12:17	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2017-12-08 16:12:17	--	- do not miss them. Important messages relating to the freenode project, including
+2017-12-08 16:12:17	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2017-12-08 16:12:17	--	- global notices.
+2017-12-08 16:12:17	--	-
+2017-12-08 16:12:17	--	- Representing an on-topic project? Don't forget to register, more information
+2017-12-08 16:12:17	--	- can be found on the https://freenode.net website under "Group Registration".
+2017-12-08 16:12:17	--	-
+2017-12-08 16:12:17	--	- freenode organises an annual conference, and we would like to extend our
+2017-12-08 16:12:17	--	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+2017-12-08 16:12:17	--	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+2017-12-08 16:12:17	--	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+2017-12-08 16:12:17	--	-
+2017-12-08 16:12:17	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2017-12-08 16:12:17	--	- network going for close to two decades.
+2017-12-08 16:12:17	--	-
+2017-12-08 16:12:17	--	- freenode #live returns to Bristol, UK on November 3rd-4th 2018, keep an eye
+2017-12-08 16:12:17	--	- on the https://freenode.live website for our call for volunteers and call for
+2017-12-08 16:12:17	--	- participation. If you are interested in sponsoring next year's event, please
+2017-12-08 16:12:17	--	- send us an e-mail to sponsor@freenode.live
+2017-12-08 16:12:17	--	-
+2017-12-08 16:12:17	--	- Thank you for using freenode!
+2017-12-08 16:12:17	--	-
+2017-12-08 16:12:17	--	-
+2017-12-08 16:12:17	--	End of /MOTD command.
+2017-12-08 16:12:17	--	User mode [+i] by C3D2
+2017-12-08 16:18:00		[16:12]
+2017-12-08 19:39:42	--	christel (christel@freenode/staff/exherbo.christel): [Global Notice] Hi all, we will be migrating services (NickServ, ChanServ and friends) to a new server in roughly half an hour. There will be a brief downtime, and you may wish to op yourself before they go down. Staff will be around during the move should you have any issues. Thank you.
+2017-12-08 19:39:42		[19:39]
+2017-12-08 20:53:54	=!=	irc: reading data on socket: error 104 Connection reset by peer
+2017-12-08 20:53:54		[20:53]
+2017-12-08 20:53:54	--	irc: disconnecting from server...
+2017-12-08 20:53:54	--	irc: disconnected from server
+2017-12-08 20:53:54	--	irc: reconnecting to server in 10 seconds
+2017-12-08 20:54:04	--	irc: reconnecting to server...
+2017-12-08 20:54:04	--	irc: connecting to server chat.freenode.net/6667...
+2017-12-08 20:54:11	--	irc: connected to chat.freenode.net/6667 (195.154.200.232)
+2017-12-08 20:54:11	--	barjavel.freenode.net: *** Looking up your hostname...
+2017-12-08 20:54:12	--	barjavel.freenode.net: *** Checking Ident
+2017-12-08 20:54:12	--	barjavel.freenode.net: *** Found your hostname
+2017-12-08 20:54:18	--	barjavel.freenode.net: *** No Ident response
+2017-12-08 20:54:19	--	irc: client capability, server supports: account-notify extended-join identify-msg multi-prefix sasl
+2017-12-08 20:54:19	--	irc: client capability, requesting: sasl
+2017-12-08 20:54:19	--	irc: client capability, enabled: sasl
+2017-12-08 20:54:26	--	You are now logged in as C3D2. (C3D2!C3D2@cpc84741-aztw28-2-0-cust480.18-1.cable.virginm.net)
+2017-12-08 20:54:28	--	SASL authentication successful
+2017-12-08 20:54:34	=!=	irc: SASL authentication timeout
+2017-12-08 20:54:37	--	Welcome to the freenode Internet Relay Chat Network C3D2
+2017-12-08 20:54:37	--	Your host is barjavel.freenode.net[195.154.200.232/6667], running version ircd-seven-1.1.4
+2017-12-08 20:54:37	--	This server was created Sat Jan 7 2017 at 03:00:47 CET
+2017-12-08 20:54:37	--	barjavel.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2017-12-08 20:54:37	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2017-12-08 20:54:37	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU WHOX :are supported by this server
+2017-12-08 20:54:37	--	ETRACE CPRIVMSG CNOTICE KNOCK :are supported by this server
+2017-12-08 20:54:37	--	There are 122 users and 91880 invisible on 35 servers
+2017-12-08 20:54:37	--	35 :IRC Operators online
+2017-12-08 20:54:37	--	93 :unknown connection(s)
+2017-12-08 20:54:37	--	45053 :channels formed
+2017-12-08 20:54:37	--	I have 5119 clients and 1 servers
+2017-12-08 20:54:37	--	5119 7620 :Current local users 5119, max 7620
+2017-12-08 20:54:37	--	92002 97718 :Current global users 92002, max 97718
+2017-12-08 20:54:38	--	Highest connection count: 7621 (7620 clients) (3322781 connections received)
+2017-12-08 20:54:38	--	- barjavel.freenode.net Message of the Day -
+2017-12-08 20:54:38	--	- Welcome to barjavel.freenode.net in Paris, FR, EU.
+2017-12-08 20:54:38	--	- Thanks to Bearstech (www.bearstech.com) for sponsoring
+2017-12-08 20:54:38	--	- this server!
+2017-12-08 20:54:38	--	-
+2017-12-08 20:54:38	--	- BARJAVEL, RENE [1911-1985].  Born in Nyons, he was a
+2017-12-08 20:54:38	--	- science-fiction author, a journalist and a critic. He is
+2017-12-08 20:54:38	--	- credited with having written the first novel to introduce
+2017-12-08 20:54:38	--	- the Grandfather Paradox in time travel, in his 1943 work
+2017-12-08 20:54:38	--	- 'Le Voyageur imprudent'.
+2017-12-08 20:54:38	--	-
+2017-12-08 20:54:38	--	- Welcome to freenode - supporting the free and open source
+2017-12-08 20:54:38	--	- software communities since 1998.
+2017-12-08 20:54:38	--	-
+2017-12-08 20:54:38	--	- By connecting to freenode you indicate that you have read and
+2017-12-08 20:54:38	--	- accept our policies and guidelines as set out on https://freenode.net
+2017-12-08 20:54:38	--	-
+2017-12-08 20:54:38	--	- In the event that you observe behaviour that contravenes our policies,
+2017-12-08 20:54:38	--	- please notify a volunteer staff member via private message, or send us an
+2017-12-08 20:54:38	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2017-12-08 20:54:38	--	- situation within a reasonable period of time, and we may request further
+2017-12-08 20:54:38	--	- information or, as appropriate, involve other parties such as channel operators
+2017-12-08 20:54:38	--	- Group Contacts representing an on-topic group.
+2017-12-08 20:54:38	--	-
+2017-12-08 20:54:38	--	- freenode runs an open proxy scanner.
+2017-12-08 20:54:38	--	-
+2017-12-08 20:54:38	--	- If you are looking for assistance, you will be able to find a list of
+2017-12-08 20:54:38	--	- volunteer staff using the '/who freenode/staff/*' command, and you may
+2017-12-08 20:54:38	--	- message any of us at any time. Please note that freenode predominantly
+2017-12-08 20:54:38	--	- provides assistance via private message, and while we have a network
+2017-12-08 20:54:38	--	- channel the primary venue for support requests is via private message to
+2017-12-08 20:54:38	--	- a member of the volunteer staff team.
+2017-12-08 20:54:38	--	-
+2017-12-08 20:54:38	--	- From time to time, volunteer staff may send server-wide notices relating to
+2017-12-08 20:55:00	--	- the project, or the communities that we host. The majority of such notices
+2017-12-08 20:55:00	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2017-12-08 20:55:00	--	- do not miss them. Important messages relating to the freenode project, including
+2017-12-08 20:55:00	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2017-12-08 20:55:00	--	- global notices.
+2017-12-08 20:55:00	--	-
+2017-12-08 20:55:00	--	- Representing an on-topic project? Don't forget to register, more information
+2017-12-08 20:55:00	--	- can be found on the https://freenode.net website under "Group Registration".
+2017-12-08 20:55:00	--	-
+2017-12-08 20:55:00	--	- freenode organises an annual conference, and we would like to extend our
+2017-12-08 20:55:00	--	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+2017-12-08 20:55:00	--	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+2017-12-08 20:55:00	--	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+2017-12-08 20:55:00	--	-
+2017-12-08 20:55:00	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2017-12-08 20:55:00	--	- network going for close to two decades.
+2017-12-08 20:55:00	--	-
+2017-12-08 20:55:00	--	- freenode #live returns to Bristol, UK on November 3rd-4th 2018, keep an eye
+2017-12-08 20:55:00	--	- on the https://freenode.live website for our call for volunteers and call for
+2017-12-08 20:55:00	--	- participation. If you are interested in sponsoring next year's event, please
+2017-12-08 20:55:00	--	- send us an e-mail to sponsor@freenode.live
+2017-12-08 20:55:00	--	-
+2017-12-08 20:55:00	--	- Thank you for using freenode!
+2017-12-08 20:55:00	--	-
+2017-12-08 20:55:00	--	-
+2017-12-08 20:55:00	--	End of /MOTD command.
+2017-12-08 20:55:00	--	User mode [+i] by C3D2
+2017-12-08 21:00:00		[20:55]
+2017-12-08 21:26:54	=!=	irc: reading data on socket: error 104 Connection reset by peer
+2017-12-08 21:26:54		[21:26]
+2017-12-08 21:26:54	--	irc: disconnecting from server...
+2017-12-08 21:26:54	--	irc: disconnected from server
+2017-12-08 21:26:54	--	irc: reconnecting to server in 10 seconds
+2017-12-08 21:27:04	--	irc: reconnecting to server...
+2017-12-08 21:27:04	--	irc: connecting to server chat.freenode.net/6667...
+2017-12-08 21:27:20	--	irc: connected to chat.freenode.net/6667 (38.229.70.22)
+2017-12-08 21:27:20	--	card.freenode.net: *** Looking up your hostname...
+2017-12-08 21:27:22	--	card.freenode.net: *** Checking Ident
+2017-12-08 21:27:22	--	card.freenode.net: *** Found your hostname
+2017-12-08 21:27:30	--	card.freenode.net: *** No Ident response
+2017-12-08 21:27:30	--	irc: client capability, server supports: account-notify extended-join identify-msg multi-prefix sasl
+2017-12-08 21:27:30	--	irc: client capability, requesting: sasl
+2017-12-08 21:27:30	--	irc: client capability, enabled: sasl
+2017-12-08 21:27:31	--	You are now logged in as C3D2. (C3D2!C3D2@cpc84741-aztw28-2-0-cust480.18-1.cable.virginm.net)
+2017-12-08 21:27:33	--	SASL authentication successful
+2017-12-08 21:27:33	--	Welcome to the freenode Internet Relay Chat Network C3D2
+2017-12-08 21:27:33	--	Your host is card.freenode.net[38.229.70.22/6667], running version ircd-seven-1.1.4
+2017-12-08 21:27:33	--	This server was created Tue Feb 7 2017 at 17:41:14 UTC
+2017-12-08 21:27:33	--	card.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2017-12-08 21:27:33	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2017-12-08 21:27:33	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 KNOCK CPRIVMSG CNOTICE :are supported by this server
+2017-12-08 21:27:33	--	WHOX SAFELIST ELIST=CTU ETRACE :are supported by this server
+2017-12-08 21:27:33	--	There are 123 users and 91506 invisible on 35 servers
+2017-12-08 21:27:33	--	35 :IRC Operators online
+2017-12-08 21:27:33	--	81 :unknown connection(s)
+2017-12-08 21:27:33	--	45083 :channels formed
+2017-12-08 21:27:33	--	I have 5144 clients and 1 servers
+2017-12-08 21:27:33	--	5144 6898 :Current local users 5144, max 6898
+2017-12-08 21:27:33	--	91629 94860 :Current global users 91629, max 94860
+2017-12-08 21:27:33	--	Highest connection count: 6899 (6898 clients) (1287707 connections received)
+2017-12-08 21:27:33	--	- card.freenode.net Message of the Day -
+2017-12-08 21:27:33	--	-
+2017-12-08 21:27:33	--	- Welcome to card.freenode.net in Washington, DC, US, kindly sponsored by
+2017-12-08 21:27:33	--	- Team Cymru (http://www.team-cymru.org).
+2017-12-08 21:27:33	--	-
+2017-12-08 21:27:33	--	- CARD, ORSON SCOTT [1951-]. Born in Richland, Washington, Card grew up in
+2017-12-08 21:27:33	--	- California, Arizona, and Utah. He lived in Brazil for two years as an unpaid
+2017-12-08 21:27:33	--	- missionary for the Mormon Church. Author of the Ender and Alvin Maker books,
+2017-12-08 21:27:33	--	- Card's science fiction and fantasy work is strongly influenced by his Mormon
+2017-12-08 21:27:33	--	- cultural background. The first author to win the Hugo and Nebula novel awards
+2017-12-08 21:27:33	--	- two years in a row, Card currently lives in Greensboro, North Carolina, US.
+2017-12-08 21:27:33	--	-
+2017-12-08 21:27:33	--	-
+2017-12-08 21:27:33	--	- Welcome to freenode - supporting the free and open source
+2017-12-08 21:27:33	--	- software communities since 1998.
+2017-12-08 21:27:33	--	-
+2017-12-08 21:27:33	--	- By connecting to freenode you indicate that you have read and
+2017-12-08 21:27:33	--	- accept our policies and guidelines as set out on https://freenode.net
+2017-12-08 21:27:33	--	-
+2017-12-08 21:27:33	--	- In the event that you observe behaviour that contravenes our policies,
+2017-12-08 21:27:33	--	- please notify a volunteer staff member via private message, or send us an
+2017-12-08 21:27:33	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2017-12-08 21:27:33	--	- situation within a reasonable period of time, and we may request further
+2017-12-08 21:27:33	--	- information or, as appropriate, involve other parties such as channel operators
+2017-12-08 21:27:33	--	- Group Contacts representing an on-topic group.
+2017-12-08 21:27:33	--	-
+2017-12-08 21:27:33	--	- freenode runs an open proxy scanner.
+2017-12-08 21:27:33	--	-
+2017-12-08 21:27:33	--	- If you are looking for assistance, you will be able to find a list of
+2017-12-08 21:27:33	--	- volunteer staff using the '/who freenode/staff/*' command, and you may
+2017-12-08 21:27:33	--	- message any of us at any time. Please note that freenode predominantly
+2017-12-08 21:27:33	--	- provides assistance via private message, and while we have a network
+2017-12-08 21:27:33	--	- channel the primary venue for support requests is via private message to
+2017-12-08 21:27:33	--	- a member of the volunteer staff team.
+2017-12-08 21:27:33	--	-
+2017-12-08 21:27:33	--	- From time to time, volunteer staff may send server-wide notices relating to
+2017-12-08 21:27:33	--	- the project, or the communities that we host. The majority of such notices
+2017-12-08 21:27:33	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2017-12-08 21:27:33	--	- do not miss them. Important messages relating to the freenode project, including
+2017-12-08 21:27:33	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2017-12-08 21:27:33	--	- global notices.
+2017-12-08 21:27:33	--	-
+2017-12-08 21:27:33	--	- Representing an on-topic project? Don't forget to register, more information
+2017-12-08 21:27:33	--	- can be found on the https://freenode.net website under "Group Registration".
+2017-12-08 21:27:33	--	-
+2017-12-08 21:27:33	--	- freenode organises an annual conference, and we would like to extend our
+2017-12-08 21:27:33	--	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+2017-12-08 21:27:33	--	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+2017-12-08 21:27:33	--	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+2017-12-08 21:27:33	--	-
+2017-12-08 21:27:33	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2017-12-08 21:27:34	--	- network going for close to two decades.
+2017-12-08 21:27:34	--	-
+2017-12-08 21:27:34	--	- freenode #live returns to Bristol, UK on November 3rd-4th 2018, keep an eye
+2017-12-08 21:27:34	--	- on the https://freenode.live website for our call for volunteers and call for
+2017-12-08 21:27:34	--	- participation. If you are interested in sponsoring next year's event, please
+2017-12-08 21:27:34	--	- send us an e-mail to sponsor@freenode.live
+2017-12-08 21:27:34	--	-
+2017-12-08 21:27:34	--	- Thank you for using freenode!
+2017-12-08 21:27:34	--	-
+2017-12-08 21:27:34	--	-
+2017-12-08 21:27:34	--	End of /MOTD command.
+2017-12-08 21:27:34	--	User mode [+i] by C3D2
+2017-12-08 21:33:00		[21:27]
+2017-12-08 21:38:23	--	irc: disconnected from server
+2017-12-09 10:44:12	--	irc: connecting to server chat.freenode.net/6667...
+2017-12-09 10:44:12		[10:44]
+2017-12-09 10:44:13	--	irc: connected to chat.freenode.net/6667 (71.11.84.232)
+2017-12-09 10:44:13	--	tolkien.freenode.net: *** Looking up your hostname...
+2017-12-09 10:44:13	--	tolkien.freenode.net: *** Checking Ident
+2017-12-09 10:44:13	--	tolkien.freenode.net: *** Found your hostname
+2017-12-09 10:44:19	--	tolkien.freenode.net: *** No Ident response
+2017-12-09 10:44:19	--	irc: client capability, server supports: account-notify extended-join identify-msg multi-prefix sasl
+2017-12-09 10:44:19	--	irc: client capability, requesting: sasl
+2017-12-09 10:44:19	--	irc: client capability, enabled: sasl
+2017-12-09 10:44:20	--	You are now logged in as C3D2. (C3D2!C3D2@cpc84741-aztw28-2-0-cust480.18-1.cable.virginm.net)
+2017-12-09 10:44:20	--	SASL authentication successful
+2017-12-09 10:44:20	--	Welcome to the freenode Internet Relay Chat Network C3D2
+2017-12-09 10:44:20	--	Your host is tolkien.freenode.net[71.11.84.232/6667], running version ircd-seven-1.1.4
+2017-12-09 10:44:20	--	This server was created Thu May 18 2017 at 17:43:36 UTC
+2017-12-09 10:44:20	--	tolkien.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2017-12-09 10:44:20	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2017-12-09 10:44:20	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU KNOCK :are supported by this server
+2017-12-09 10:44:20	--	WHOX ETRACE CPRIVMSG CNOTICE :are supported by this server
+2017-12-09 10:44:20	--	There are 119 users and 87466 invisible on 35 servers
+2017-12-09 10:44:20	--	35 :IRC Operators online
+2017-12-09 10:44:20	--	31 :unknown connection(s)
+2017-12-09 10:44:20	--	45206 :channels formed
+2017-12-09 10:44:20	--	I have 4577 clients and 1 servers
+2017-12-09 10:44:20	--	4577 7644 :Current local users 4577, max 7644
+2017-12-09 10:44:20	--	87585 97718 :Current global users 87585, max 97718
+2017-12-09 10:44:20	--	Highest connection count: 7645 (7644 clients) (2667499 connections received)
+2017-12-09 10:44:20	--	- tolkien.freenode.net Message of the Day -
+2017-12-09 10:44:20	--	- Welcome to freenode - supporting the free and open source
+2017-12-09 10:44:20	--	- software communities since 1998.
+2017-12-09 10:44:20	--	-
+2017-12-09 10:44:20	--	- By connecting to freenode you indicate that you have read and
+2017-12-09 10:44:20	--	- accept our policies and guidelines as set out on https://freenode.net
+2017-12-09 10:44:20	--	-
+2017-12-09 10:44:20	--	- In the event that you observe behaviour that contravenes our policies,
+2017-12-09 10:44:20	--	- please notify a volunteer staff member via private message, or send us an
+2017-12-09 10:44:20	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2017-12-09 10:44:20	--	- situation within a reasonable period of time, and we may request further
+2017-12-09 10:44:20	--	- information or, as appropriate, involve other parties such as channel operators
+2017-12-09 10:44:20	--	- Group Contacts representing an on-topic group.
+2017-12-09 10:44:20	--	-
+2017-12-09 10:44:20	--	- freenode runs an open proxy scanner.
+2017-12-09 10:44:20	--	-
+2017-12-09 10:44:20	--	- If you are looking for assistance, you will be able to find a list of
+2017-12-09 10:44:20	--	- volunteer staff using the '/who freenode/staff/*' command, and you may
+2017-12-09 10:44:20	--	- message any of us at any time. Please note that freenode predominantly
+2017-12-09 10:44:20	--	- provides assistance via private message, and while we have a network
+2017-12-09 10:44:20	--	- channel the primary venue for support requests is via private message to
+2017-12-09 10:44:20	--	- a member of the volunteer staff team.
+2017-12-09 10:44:20	--	-
+2017-12-09 10:44:20	--	- From time to time, volunteer staff may send server-wide notices relating to
+2017-12-09 10:44:20	--	- the project, or the communities that we host. The majority of such notices
+2017-12-09 10:44:20	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2017-12-09 10:44:20	--	- do not miss them. Important messages relating to the freenode project, including
+2017-12-09 10:44:20	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2017-12-09 10:44:20	--	- global notices.
+2017-12-09 10:44:20	--	-
+2017-12-09 10:44:20	--	- Representing an on-topic project? Don't forget to register, more information
+2017-12-09 10:44:20	--	- can be found on the https://freenode.net website under "Group Registration".
+2017-12-09 10:44:21	--	-
+2017-12-09 10:44:21	--	- freenode organises an annual conference, and we would like to extend our
+2017-12-09 10:44:21	--	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+2017-12-09 10:44:21	--	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+2017-12-09 10:44:21	--	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+2017-12-09 10:44:21	--	-
+2017-12-09 10:44:21	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2017-12-09 10:44:21	--	- network going for close to two decades.
+2017-12-09 10:44:21	--	-
+2017-12-09 10:44:21	--	- freenode #live returns to Bristol, UK on November 3rd-4th 2018, keep an eye
+2017-12-09 10:44:21	--	- on the https://freenode.live website for our call for volunteers and call for
+2017-12-09 10:44:21	--	- participation. If you are interested in sponsoring next year's event, please
+2017-12-09 10:44:21	--	- send us an e-mail to sponsor@freenode.live
+2017-12-09 10:44:21	--	-
+2017-12-09 10:44:21	--	- Thank you for using freenode!
+2017-12-09 10:44:21	--	-
+2017-12-09 10:44:21	--	-
+2017-12-09 10:44:21	--	End of /MOTD command.
+2017-12-09 10:44:21	--	User mode [+i] by C3D2
+2017-12-09 10:44:26	--	irc: disconnected from server
+2017-12-09 10:45:08	--	irc: connecting to server chat.freenode.net/6667...
+2017-12-09 10:45:08		[10:45]
+2017-12-09 10:45:08	--	irc: connected to chat.freenode.net/6667 (195.154.200.232)
+2017-12-09 10:45:08	--	barjavel.freenode.net: *** Looking up your hostname...
+2017-12-09 10:45:08	--	barjavel.freenode.net: *** Checking Ident
+2017-12-09 10:45:08	--	barjavel.freenode.net: *** Found your hostname
+2017-12-09 10:45:18	--	barjavel.freenode.net: *** No Ident response
+2017-12-09 10:45:19	--	irc: client capability, server supports: account-notify extended-join identify-msg multi-prefix sasl
+2017-12-09 10:45:19	--	irc: client capability, requesting: sasl
+2017-12-09 10:45:19	--	irc: client capability, enabled: sasl
+2017-12-09 10:45:19	--	You are now logged in as C3D2. (C3D2!C3D2@cpc84741-aztw28-2-0-cust480.18-1.cable.virginm.net)
+2017-12-09 10:45:20	--	SASL authentication successful
+2017-12-09 10:45:20	--	Welcome to the freenode Internet Relay Chat Network C3D2
+2017-12-09 10:45:20	--	Your host is barjavel.freenode.net[195.154.200.232/6667], running version ircd-seven-1.1.4
+2017-12-09 10:45:20	--	This server was created Sat Jan 7 2017 at 03:00:47 CET
+2017-12-09 10:45:20	--	barjavel.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2017-12-09 10:45:20	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2017-12-09 10:45:20	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU WHOX :are supported by this server
+2017-12-09 10:45:20	--	ETRACE CPRIVMSG CNOTICE KNOCK :are supported by this server
+2017-12-09 10:45:20	--	There are 119 users and 87463 invisible on 35 servers
+2017-12-09 10:45:20	--	35 :IRC Operators online
+2017-12-09 10:45:20	--	13 :unknown connection(s)
+2017-12-09 10:45:20	--	45201 :channels formed
+2017-12-09 10:45:20	--	I have 4581 clients and 1 servers
+2017-12-09 10:45:20	--	4581 7620 :Current local users 4581, max 7620
+2017-12-09 10:45:20	--	87582 97718 :Current global users 87582, max 97718
+2017-12-09 10:45:20	--	Highest connection count: 7621 (7620 clients) (3324831 connections received)
+2017-12-09 10:45:20	--	- barjavel.freenode.net Message of the Day -
+2017-12-09 10:45:20	--	- Welcome to barjavel.freenode.net in Paris, FR, EU.
+2017-12-09 10:45:20	--	- Thanks to Bearstech (www.bearstech.com) for sponsoring
+2017-12-09 10:45:20	--	- this server!
+2017-12-09 10:45:20	--	-
+2017-12-09 10:45:20	--	- BARJAVEL, RENE [1911-1985].  Born in Nyons, he was a
+2017-12-09 10:45:20	--	- science-fiction author, a journalist and a critic. He is
+2017-12-09 10:45:20	--	- credited with having written the first novel to introduce
+2017-12-09 10:45:20	--	- the Grandfather Paradox in time travel, in his 1943 work
+2017-12-09 10:45:20	--	- 'Le Voyageur imprudent'.
+2017-12-09 10:45:20	--	-
+2017-12-09 10:45:20	--	- Welcome to freenode - supporting the free and open source
+2017-12-09 10:45:20	--	- software communities since 1998.
+2017-12-09 10:45:20	--	-
+2017-12-09 10:45:20	--	- By connecting to freenode you indicate that you have read and
+2017-12-09 10:45:20	--	- accept our policies and guidelines as set out on https://freenode.net
+2017-12-09 10:45:20	--	-
+2017-12-09 10:45:20	--	- In the event that you observe behaviour that contravenes our policies,
+2017-12-09 10:45:20	--	- please notify a volunteer staff member via private message, or send us an
+2017-12-09 10:45:20	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2017-12-09 10:45:20	--	- situation within a reasonable period of time, and we may request further
+2017-12-09 10:45:20	--	- information or, as appropriate, involve other parties such as channel operators
+2017-12-09 10:45:20	--	- Group Contacts representing an on-topic group.
+2017-12-09 10:45:20	--	-
+2017-12-09 10:45:20	--	- freenode runs an open proxy scanner.
+2017-12-09 10:45:20	--	-
+2017-12-09 10:45:20	--	- If you are looking for assistance, you will be able to find a list of
+2017-12-09 10:45:20	--	- volunteer staff using the '/who freenode/staff/*' command, and you may
+2017-12-09 10:45:20	--	- message any of us at any time. Please note that freenode predominantly
+2017-12-09 10:45:20	--	- provides assistance via private message, and while we have a network
+2017-12-09 10:45:20	--	- channel the primary venue for support requests is via private message to
+2017-12-09 10:45:20	--	- a member of the volunteer staff team.
+2017-12-09 10:45:20	--	-
+2017-12-09 10:45:20	--	- From time to time, volunteer staff may send server-wide notices relating to
+2017-12-09 10:45:20	--	- the project, or the communities that we host. The majority of such notices
+2017-12-09 10:45:20	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2017-12-09 10:45:20	--	- do not miss them. Important messages relating to the freenode project, including
+2017-12-09 10:45:20	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2017-12-09 10:45:20	--	- global notices.
+2017-12-09 10:45:20	--	-
+2017-12-09 10:45:20	--	- Representing an on-topic project? Don't forget to register, more information
+2017-12-09 10:45:20	--	- can be found on the https://freenode.net website under "Group Registration".
+2017-12-09 10:45:20	--	-
+2017-12-09 10:45:20	--	- freenode organises an annual conference, and we would like to extend our
+2017-12-09 10:45:20	--	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+2017-12-09 10:45:20	--	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+2017-12-09 10:45:20	--	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+2017-12-09 10:45:20	--	-
+2017-12-09 10:45:20	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2017-12-09 10:45:20	--	- network going for close to two decades.
+2017-12-09 10:45:20	--	-
+2017-12-09 10:45:20	--	- freenode #live returns to Bristol, UK on November 3rd-4th 2018, keep an eye
+2017-12-09 10:45:20	--	- on the https://freenode.live website for our call for volunteers and call for
+2017-12-09 10:45:20	--	- participation. If you are interested in sponsoring next year's event, please
+2017-12-09 10:45:20	--	- send us an e-mail to sponsor@freenode.live
+2017-12-09 10:45:20	--	-
+2017-12-09 10:45:20	--	- Thank you for using freenode!
+2017-12-09 10:45:20	--	-
+2017-12-09 10:45:20	--	-
+2017-12-09 10:45:20	--	End of /MOTD command.
+2017-12-09 10:45:20	--	User mode [+i] by C3D2
+2017-12-09 10:51:00		[10:45]
+2017-12-09 10:59:22	--	irc: disconnected from server
+2017-12-09 10:59:57	--	irc: connecting to server chat.freenode.net/6667...
+2017-12-09 10:59:57		[10:59]
+2017-12-09 10:59:58	--	irc: connected to chat.freenode.net/6667 (149.56.134.238)
+2017-12-09 10:59:58	--	cherryh.freenode.net: *** Looking up your hostname...
+2017-12-09 10:59:58	--	cherryh.freenode.net: *** Checking Ident
+2017-12-09 10:59:58	--	cherryh.freenode.net: *** Found your hostname
+2017-12-09 11:00:05	--	cherryh.freenode.net: *** No Ident response
+2017-12-09 11:00:05	--	irc: client capability, server supports: account-notify extended-join identify-msg multi-prefix sasl
+2017-12-09 11:00:05	--	irc: client capability, requesting: sasl
+2017-12-09 11:00:05	--	irc: client capability, enabled: sasl
+2017-12-09 11:00:06	--	You are now logged in as C3D2. (C3D2!C3D2@cpc84741-aztw28-2-0-cust480.18-1.cable.virginm.net)
+2017-12-09 11:00:06	--	SASL authentication successful
+2017-12-09 11:00:07	--	Welcome to the freenode Internet Relay Chat Network C3D2
+2017-12-09 11:00:07	--	Your host is cherryh.freenode.net[149.56.134.238/6667], running version ircd-seven-1.1.4
+2017-12-09 11:00:07	--	This server was created Wed Jan 4 2017 at 16:45:00 EST
+2017-12-09 11:00:07	--	cherryh.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2017-12-09 11:00:07	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2017-12-09 11:00:07	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 CPRIVMSG CNOTICE SAFELIST :are supported by this server
+2017-12-09 11:00:07	--	ELIST=CTU WHOX ETRACE KNOCK :are supported by this server
+2017-12-09 11:00:07	--	There are 119 users and 87551 invisible on 35 servers
+2017-12-09 11:00:07	--	35 :IRC Operators online
+2017-12-09 11:00:07	--	14 :unknown connection(s)
+2017-12-09 11:00:07	--	45203 :channels formed
+2017-12-09 11:00:07	--	I have 4538 clients and 1 servers
+2017-12-09 11:00:07	--	4538 6190 :Current local users 4538, max 6190
+2017-12-09 11:00:07	--	87670 94860 :Current global users 87670, max 94860
+2017-12-09 11:00:07	--	Highest connection count: 6191 (6190 clients) (449017 connections received)
+2017-12-09 11:00:07	--	- cherryh.freenode.net Message of the Day -
+2017-12-09 11:00:07	--	- Welcome to freenode - supporting the free and open source
+2017-12-09 11:00:07	--	- software communities since 1998.
+2017-12-09 11:00:07	--	-
+2017-12-09 11:00:07	--	- By connecting to freenode you indicate that you have read and
+2017-12-09 11:00:07	--	- accept our policies and guidelines as set out on https://freenode.net
+2017-12-09 11:00:07	--	-
+2017-12-09 11:00:07	--	- In the event that you observe behaviour that contravenes our policies,
+2017-12-09 11:00:07	--	- please notify a volunteer staff member via private message, or send us an
+2017-12-09 11:00:07	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2017-12-09 11:00:07	--	- situation within a reasonable period of time, and we may request further
+2017-12-09 11:00:07	--	- information or, as appropriate, involve other parties such as channel operators
+2017-12-09 11:00:07	--	- Group Contacts representing an on-topic group.
+2017-12-09 11:00:07	--	-
+2017-12-09 11:00:07	--	- freenode runs an open proxy scanner.
+2017-12-09 11:00:07	--	-
+2017-12-09 11:00:07	--	- If you are looking for assistance, you will be able to find a list of
+2017-12-09 11:00:07	--	- volunteer staff using the '/who freenode/staff/*' command, and you may
+2017-12-09 11:00:07	--	- message any of us at any time. Please note that freenode predominantly
+2017-12-09 11:00:07	--	- provides assistance via private message, and while we have a network
+2017-12-09 11:00:07	--	- channel the primary venue for support requests is via private message to
+2017-12-09 11:00:07	--	- a member of the volunteer staff team.
+2017-12-09 11:00:07	--	-
+2017-12-09 11:00:07	--	- From time to time, volunteer staff may send server-wide notices relating to
+2017-12-09 11:00:07	--	- the project, or the communities that we host. The majority of such notices
+2017-12-09 11:00:07	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2017-12-09 11:00:07	--	- do not miss them. Important messages relating to the freenode project, including
+2017-12-09 11:00:07	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2017-12-09 11:00:07	--	- global notices.
+2017-12-09 11:00:07	--	-
+2017-12-09 11:00:07	--	- Representing an on-topic project? Don't forget to register, more information
+2017-12-09 11:00:07	--	- can be found on the https://freenode.net website under "Group Registration".
+2017-12-09 11:00:07	--	-
+2017-12-09 11:00:07	--	- freenode organises an annual conference, and we would like to extend our
+2017-12-09 11:00:07	--	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+2017-12-09 11:00:07	--	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+2017-12-09 11:00:07	--	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+2017-12-09 11:00:07	--	-
+2017-12-09 11:00:07	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2017-12-09 11:00:07	--	- network going for close to two decades.
+2017-12-09 11:00:07	--	-
+2017-12-09 11:00:07	--	- freenode #live returns to Bristol, UK on November 3rd-4th 2018, keep an eye
+2017-12-09 11:00:07	--	- on the https://freenode.live website for our call for volunteers and call for
+2017-12-09 11:00:07	--	- participation. If you are interested in sponsoring next year's event, please
+2017-12-09 11:00:07	--	- send us an e-mail to sponsor@freenode.live
+2017-12-09 11:00:07	--	-
+2017-12-09 11:00:07	--	- Thank you for using freenode!
+2017-12-09 11:00:07	--	-
+2017-12-09 11:00:07	--	-
+2017-12-09 11:00:07	--	End of /MOTD command.
+2017-12-09 11:00:07	--	User mode [+i] by C3D2
+2017-12-09 11:06:00		[11:00]
+2017-12-09 11:43:53	--	irc: disconnected from server
+2017-12-09 11:44:26	--	irc: connecting to server chat.freenode.net/6667...
+2017-12-09 11:44:26		[11:44]
+2017-12-09 11:44:26	--	irc: connected to chat.freenode.net/6667 (185.30.166.37)
+2017-12-09 11:44:26	--	verne.freenode.net: *** Looking up your hostname...
+2017-12-09 11:44:26	--	verne.freenode.net: *** Checking Ident
+2017-12-09 11:44:26	--	verne.freenode.net: *** Found your hostname
+2017-12-09 11:44:35	--	verne.freenode.net: *** No Ident response
+2017-12-09 11:44:35	--	irc: client capability, server supports: account-notify extended-join identify-msg multi-prefix sasl
+2017-12-09 11:44:35	--	irc: client capability, requesting: sasl
+2017-12-09 11:44:35	--	irc: client capability, enabled: sasl
+2017-12-09 11:44:36	--	You are now logged in as C3D2. (C3D2!C3D2@cpc84741-aztw28-2-0-cust480.18-1.cable.virginm.net)
+2017-12-09 11:44:36	--	SASL authentication successful
+2017-12-09 11:44:37	--	Welcome to the freenode Internet Relay Chat Network C3D2
+2017-12-09 11:44:37	--	Your host is verne.freenode.net[185.30.166.37/6667], running version ircd-seven-1.1.4
+2017-12-09 11:44:37	--	This server was created Sat Jan 7 2017 at 11:53:54 EST
+2017-12-09 11:44:37	--	verne.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2017-12-09 11:44:37	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2017-12-09 11:44:37	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 ETRACE WHOX KNOCK :are supported by this server
+2017-12-09 11:44:37	--	SAFELIST ELIST=CTU CPRIVMSG CNOTICE :are supported by this server
+2017-12-09 11:44:37	--	There are 119 users and 87801 invisible on 35 servers
+2017-12-09 11:44:37	--	35 :IRC Operators online
+2017-12-09 11:44:37	--	18 :unknown connection(s)
+2017-12-09 11:44:37	--	45214 :channels formed
+2017-12-09 11:44:37	--	I have 4661 clients and 3 servers
+2017-12-09 11:44:37	--	4661 7978 :Current local users 4661, max 7978
+2017-12-09 11:44:37	--	87920 97718 :Current global users 87920, max 97718
+2017-12-09 11:44:37	--	Highest connection count: 7980 (7978 clients) (3824448 connections received)
+2017-12-09 11:44:37	--	- verne.freenode.net Message of the Day -
+2017-12-09 11:44:37	--	- Welcome to verne.freenode.net in Amsterdam, NL.
+2017-12-09 11:44:37	--	- Thanks to http://www.hyperfilter.com/ for sponsoring
+2017-12-09 11:44:37	--	- this server!
+2017-12-09 11:44:37	--	-
+2017-12-09 11:44:37	--	-
+2017-12-09 11:44:37	--	- VERNE, Jules (1828-1905). Born in Nantes, France, Verne was
+2017-12-09 11:44:37	--	- a pioneering french author known for novels such as Twenty
+2017-12-09 11:44:37	--	- Thousand Leagues Under the Sea, A Journey to the Center of the
+2017-12-09 11:44:37	--	- Earth, and Around the World in Eighty Days. Often lauded as the
+2017-12-09 11:44:37	--	- Father of science fiction, Verne wrote about concepts such as
+2017-12-09 11:44:37	--	- space travel, skyscrapers, and worldwide communications
+2017-12-09 11:44:37	--	- networks long before these ideas became popularised or realised.
+2017-12-09 11:44:37	--	-
+2017-12-09 11:44:37	--	- Welcome to freenode - supporting the free and open source
+2017-12-09 11:44:37	--	- software communities since 1998.
+2017-12-09 11:44:37	--	-
+2017-12-09 11:44:37	--	- By connecting to freenode you indicate that you have read and
+2017-12-09 11:44:37	--	- accept our policies and guidelines as set out on https://freenode.net
+2017-12-09 11:44:37	--	-
+2017-12-09 11:44:37	--	- In the event that you observe behaviour that contravenes our policies,
+2017-12-09 11:44:37	--	- please notify a volunteer staff member via private message, or send us an
+2017-12-09 11:44:37	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2017-12-09 11:44:37	--	- situation within a reasonable period of time, and we may request further
+2017-12-09 11:44:37	--	- information or, as appropriate, involve other parties such as channel operators
+2017-12-09 11:44:37	--	- Group Contacts representing an on-topic group.
+2017-12-09 11:44:37	--	-
+2017-12-09 11:44:37	--	- freenode runs an open proxy scanner.
+2017-12-09 11:44:37	--	-
+2017-12-09 11:44:37	--	- If you are looking for assistance, you will be able to find a list of
+2017-12-09 11:44:37	--	- volunteer staff using the '/who freenode/staff/*' command, and you may
+2017-12-09 11:44:37	--	- message any of us at any time. Please note that freenode predominantly
+2017-12-09 11:44:37	--	- provides assistance via private message, and while we have a network
+2017-12-09 11:44:37	--	- channel the primary venue for support requests is via private message to
+2017-12-09 11:44:37	--	- a member of the volunteer staff team.
+2017-12-09 11:44:37	--	-
+2017-12-09 11:44:37	--	- From time to time, volunteer staff may send server-wide notices relating to
+2017-12-09 11:44:37	--	- the project, or the communities that we host. The majority of such notices
+2017-12-09 11:44:37	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2017-12-09 11:44:37	--	- do not miss them. Important messages relating to the freenode project, including
+2017-12-09 11:44:37	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2017-12-09 11:44:37	--	- global notices.
+2017-12-09 11:44:37	--	-
+2017-12-09 11:44:37	--	- Representing an on-topic project? Don't forget to register, more information
+2017-12-09 11:44:37	--	- can be found on the https://freenode.net website under "Group Registration".
+2017-12-09 11:44:37	--	-
+2017-12-09 11:44:37	--	- freenode organises an annual conference, and we would like to extend our
+2017-12-09 11:44:37	--	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+2017-12-09 11:44:37	--	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+2017-12-09 11:44:37	--	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+2017-12-09 11:44:37	--	-
+2017-12-09 11:44:37	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2017-12-09 11:44:37	--	- network going for close to two decades.
+2017-12-09 11:44:37	--	-
+2017-12-09 11:44:37	--	- freenode #live returns to Bristol, UK on November 3rd-4th 2018, keep an eye
+2017-12-09 11:44:37	--	- on the https://freenode.live website for our call for volunteers and call for
+2017-12-09 11:44:37	--	- participation. If you are interested in sponsoring next year's event, please
+2017-12-09 11:44:37	--	- send us an e-mail to sponsor@freenode.live
+2017-12-09 11:44:37	--	-
+2017-12-09 11:44:37	--	- Thank you for using freenode!
+2017-12-09 11:44:37	--	-
+2017-12-09 11:44:37	--	-
+2017-12-09 11:44:37	--	End of /MOTD command.
+2017-12-09 11:44:37	--	User mode [+i] by C3D2
+2017-12-09 11:48:04	--	You have been marked as being away
+2017-12-09 13:33:34	=!=	irc: reading data on socket: error 104 Connection reset by peer
+2017-12-09 13:33:34		[13:33]
+2017-12-09 13:33:34	--	irc: disconnecting from server...
+2017-12-09 13:33:35	--	irc: disconnected from server
+2017-12-09 13:33:35	--	irc: reconnecting to server in 10 seconds
+2017-12-09 13:33:45	--	irc: reconnecting to server...
+2017-12-09 13:33:45	--	irc: connecting to server chat.freenode.net/6667...
+2017-12-09 13:33:45	--	irc: connected to chat.freenode.net/6667 (71.11.84.232)
+2017-12-09 13:33:46	--	tolkien.freenode.net: *** Looking up your hostname...
+2017-12-09 13:33:46	--	tolkien.freenode.net: *** Checking Ident
+2017-12-09 13:33:46	--	tolkien.freenode.net: *** Found your hostname
+2017-12-09 13:33:55	--	tolkien.freenode.net: *** No Ident response
+2017-12-09 13:33:55	--	irc: client capability, server supports: account-notify extended-join identify-msg multi-prefix sasl
+2017-12-09 13:33:55	--	irc: client capability, requesting: sasl
+2017-12-09 13:33:56	--	irc: client capability, enabled: sasl
+2017-12-09 13:33:56	--	You are now logged in as C3D2. (C3D2!C3D2@cpc84741-aztw28-2-0-cust480.18-1.cable.virginm.net)
+2017-12-09 13:33:57	--	SASL authentication successful
+2017-12-09 13:33:57	--	Welcome to the freenode Internet Relay Chat Network C3D2
+2017-12-09 13:33:57	--	Your host is tolkien.freenode.net[71.11.84.232/6667], running version ircd-seven-1.1.4
+2017-12-09 13:33:57	--	This server was created Thu May 18 2017 at 17:43:36 UTC
+2017-12-09 13:33:57	--	tolkien.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2017-12-09 13:33:57	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2017-12-09 13:33:57	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU KNOCK :are supported by this server
+2017-12-09 13:33:57	--	WHOX ETRACE CPRIVMSG CNOTICE :are supported by this server
+2017-12-09 13:33:57	--	There are 120 users and 88160 invisible on 35 servers
+2017-12-09 13:33:57	--	35 :IRC Operators online
+2017-12-09 13:33:57	--	28 :unknown connection(s)
+2017-12-09 13:33:57	--	45290 :channels formed
+2017-12-09 13:33:57	--	I have 4701 clients and 1 servers
+2017-12-09 13:33:57	--	4701 7644 :Current local users 4701, max 7644
+2017-12-09 13:33:57	--	88280 97718 :Current global users 88280, max 97718
+2017-12-09 13:33:57	--	Highest connection count: 7645 (7644 clients) (2669172 connections received)
+2017-12-09 13:33:57	--	- tolkien.freenode.net Message of the Day -
+2017-12-09 13:33:57	--	- Welcome to freenode - supporting the free and open source
+2017-12-09 13:33:57	--	- software communities since 1998.
+2017-12-09 13:33:57	--	-
+2017-12-09 13:33:57	--	- By connecting to freenode you indicate that you have read and
+2017-12-09 13:33:57	--	- accept our policies and guidelines as set out on https://freenode.net
+2017-12-09 13:33:57	--	-
+2017-12-09 13:33:57	--	- In the event that you observe behaviour that contravenes our policies,
+2017-12-09 13:33:57	--	- please notify a volunteer staff member via private message, or send us an
+2017-12-09 13:33:57	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2017-12-09 13:33:57	--	- situation within a reasonable period of time, and we may request further
+2017-12-09 13:33:57	--	- information or, as appropriate, involve other parties such as channel operators
+2017-12-09 13:33:57	--	- Group Contacts representing an on-topic group.
+2017-12-09 13:33:57	--	-
+2017-12-09 13:33:57	--	- freenode runs an open proxy scanner.
+2017-12-09 13:33:57	--	-
+2017-12-09 13:33:57	--	- If you are looking for assistance, you will be able to find a list of
+2017-12-09 13:33:57	--	- volunteer staff using the '/who freenode/staff/*' command, and you may
+2017-12-09 13:33:57	--	- message any of us at any time. Please note that freenode predominantly
+2017-12-09 13:33:57	--	- provides assistance via private message, and while we have a network
+2017-12-09 13:33:57	--	- channel the primary venue for support requests is via private message to
+2017-12-09 13:33:57	--	- a member of the volunteer staff team.
+2017-12-09 13:33:57	--	-
+2017-12-09 13:33:57	--	- From time to time, volunteer staff may send server-wide notices relating to
+2017-12-09 13:33:57	--	- the project, or the communities that we host. The majority of such notices
+2017-12-09 13:33:57	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2017-12-09 13:33:57	--	- do not miss them. Important messages relating to the freenode project, including
+2017-12-09 13:33:57	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2017-12-09 13:33:57	--	- global notices.
+2017-12-09 13:33:57	--	-
+2017-12-09 13:33:57	--	- Representing an on-topic project? Don't forget to register, more information
+2017-12-09 13:33:57	--	- can be found on the https://freenode.net website under "Group Registration".
+2017-12-09 13:33:57	--	-
+2017-12-09 13:33:57	--	- freenode organises an annual conference, and we would like to extend our
+2017-12-09 13:33:57	--	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+2017-12-09 13:33:57	--	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+2017-12-09 13:33:57	--	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+2017-12-09 13:33:57	--	-
+2017-12-09 13:33:57	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2017-12-09 13:33:57	--	- network going for close to two decades.
+2017-12-09 13:33:57	--	-
+2017-12-09 13:33:57	--	- freenode #live returns to Bristol, UK on November 3rd-4th 2018, keep an eye
+2017-12-09 13:33:57	--	- on the https://freenode.live website for our call for volunteers and call for
+2017-12-09 13:33:57	--	- participation. If you are interested in sponsoring next year's event, please
+2017-12-09 13:33:57	--	- send us an e-mail to sponsor@freenode.live
+2017-12-09 13:33:57	--	-
+2017-12-09 13:33:57	--	- Thank you for using freenode!
+2017-12-09 13:33:57	--	-
+2017-12-09 13:33:57	--	-
+2017-12-09 13:33:57	--	End of /MOTD command.
+2017-12-09 13:33:57	--	User mode [+i] by C3D2
+2017-12-09 13:39:00		[13:33]
+2017-12-09 13:47:05	=!=	Closing Link: cpc84741-aztw28-2-0-cust480.18-1.cable.virginm.net (Ping timeout: 248 seconds)
+2017-12-09 13:47:05	--	irc: disconnected from server
+2017-12-09 13:47:05	--	irc: reconnecting to server in 10 seconds
+2017-12-09 13:47:15	--	irc: reconnecting to server...
+2017-12-09 13:47:15	--	irc: connecting to server chat.freenode.net/6667...
+2017-12-09 13:47:22	--	irc: connected to chat.freenode.net/6667 (38.229.70.22)
+2017-12-09 13:47:22	--	card.freenode.net: *** Looking up your hostname...
+2017-12-09 13:47:22	--	card.freenode.net: *** Checking Ident
+2017-12-09 13:47:22	--	card.freenode.net: *** Found your hostname
+2017-12-09 13:47:31	--	card.freenode.net: *** No Ident response
+2017-12-09 13:47:31	--	irc: client capability, server supports: account-notify extended-join identify-msg multi-prefix sasl
+2017-12-09 13:47:31	--	irc: client capability, requesting: sasl
+2017-12-09 13:47:32	--	irc: client capability, enabled: sasl
+2017-12-09 13:47:32	--	You are now logged in as C3D2. (C3D2!C3D2@cpc84741-aztw28-2-0-cust480.18-1.cable.virginm.net)
+2017-12-09 13:47:32	--	SASL authentication successful
+2017-12-09 13:47:33	--	Welcome to the freenode Internet Relay Chat Network C3D2
+2017-12-09 13:47:33	--	Your host is card.freenode.net[38.229.70.22/6667], running version ircd-seven-1.1.4
+2017-12-09 13:47:33	--	This server was created Tue Feb 7 2017 at 17:41:14 UTC
+2017-12-09 13:47:33	--	card.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2017-12-09 13:47:33	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2017-12-09 13:47:33	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 KNOCK CPRIVMSG CNOTICE :are supported by this server
+2017-12-09 13:47:33	--	WHOX SAFELIST ELIST=CTU ETRACE :are supported by this server
+2017-12-09 13:47:33	--	There are 120 users and 88229 invisible on 35 servers
+2017-12-09 13:47:33	--	35 :IRC Operators online
+2017-12-09 13:47:33	--	19 :unknown connection(s)
+2017-12-09 13:47:33	--	45293 :channels formed
+2017-12-09 13:47:33	--	I have 4740 clients and 1 servers
+2017-12-09 13:47:33	--	4740 6898 :Current local users 4740, max 6898
+2017-12-09 13:47:33	--	88349 94860 :Current global users 88349, max 94860
+2017-12-09 13:47:33	--	Highest connection count: 6899 (6898 clients) (1291170 connections received)
+2017-12-09 13:47:33	--	- card.freenode.net Message of the Day -
+2017-12-09 13:47:33	--	-
+2017-12-09 13:47:33	--	- Welcome to card.freenode.net in Washington, DC, US, kindly sponsored by
+2017-12-09 13:47:33	--	- Team Cymru (http://www.team-cymru.org).
+2017-12-09 13:47:33	--	-
+2017-12-09 13:47:33	--	- CARD, ORSON SCOTT [1951-]. Born in Richland, Washington, Card grew up in
+2017-12-09 13:47:33	--	- California, Arizona, and Utah. He lived in Brazil for two years as an unpaid
+2017-12-09 13:47:33	--	- missionary for the Mormon Church. Author of the Ender and Alvin Maker books,
+2017-12-09 13:47:33	--	- Card's science fiction and fantasy work is strongly influenced by his Mormon
+2017-12-09 13:47:33	--	- cultural background. The first author to win the Hugo and Nebula novel awards
+2017-12-09 13:47:33	--	- two years in a row, Card currently lives in Greensboro, North Carolina, US.
+2017-12-09 13:47:33	--	-
+2017-12-09 13:47:33	--	-
+2017-12-09 13:47:33	--	- Welcome to freenode - supporting the free and open source
+2017-12-09 13:47:33	--	- software communities since 1998.
+2017-12-09 13:47:33	--	-
+2017-12-09 13:47:33	--	- By connecting to freenode you indicate that you have read and
+2017-12-09 13:47:33	--	- accept our policies and guidelines as set out on https://freenode.net
+2017-12-09 13:47:33	--	-
+2017-12-09 13:47:33	--	- In the event that you observe behaviour that contravenes our policies,
+2017-12-09 13:47:33	--	- please notify a volunteer staff member via private message, or send us an
+2017-12-09 13:47:33	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2017-12-09 13:47:33	--	- situation within a reasonable period of time, and we may request further
+2017-12-09 13:47:33	--	- information or, as appropriate, involve other parties such as channel operators
+2017-12-09 13:47:33	--	- Group Contacts representing an on-topic group.
+2017-12-09 13:47:33	--	-
+2017-12-09 13:47:33	--	- freenode runs an open proxy scanner.
+2017-12-09 13:47:33	--	-
+2017-12-09 13:47:33	--	- If you are looking for assistance, you will be able to find a list of
+2017-12-09 13:47:33	--	- volunteer staff using the '/who freenode/staff/*' command, and you may
+2017-12-09 13:47:33	--	- message any of us at any time. Please note that freenode predominantly
+2017-12-09 13:47:33	--	- provides assistance via private message, and while we have a network
+2017-12-09 13:47:33	--	- channel the primary venue for support requests is via private message to
+2017-12-09 13:47:33	--	- a member of the volunteer staff team.
+2017-12-09 13:47:33	--	-
+2017-12-09 13:47:33	--	- From time to time, volunteer staff may send server-wide notices relating to
+2017-12-09 13:47:33	--	- the project, or the communities that we host. The majority of such notices
+2017-12-09 13:47:33	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2017-12-09 13:47:33	--	- do not miss them. Important messages relating to the freenode project, including
+2017-12-09 13:47:33	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2017-12-09 13:47:33	--	- global notices.
+2017-12-09 13:47:33	--	-
+2017-12-09 13:47:33	--	- Representing an on-topic project? Don't forget to register, more information
+2017-12-09 13:47:33	--	- can be found on the https://freenode.net website under "Group Registration".
+2017-12-09 13:47:33	--	-
+2017-12-09 13:47:33	--	- freenode organises an annual conference, and we would like to extend our
+2017-12-09 13:47:33	--	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+2017-12-09 13:47:33	--	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+2017-12-09 13:47:33	--	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+2017-12-09 13:47:33	--	-
+2017-12-09 13:47:33	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2017-12-09 13:47:33	--	- network going for close to two decades.
+2017-12-09 13:47:33	--	-
+2017-12-09 13:47:33	--	- freenode #live returns to Bristol, UK on November 3rd-4th 2018, keep an eye
+2017-12-09 13:47:33	--	- on the https://freenode.live website for our call for volunteers and call for
+2017-12-09 13:47:33	--	- participation. If you are interested in sponsoring next year's event, please
+2017-12-09 13:47:33	--	- send us an e-mail to sponsor@freenode.live
+2017-12-09 13:47:33	--	-
+2017-12-09 13:47:33	--	- Thank you for using freenode!
+2017-12-09 13:47:33	--	-
+2017-12-09 13:47:33	--	-
+2017-12-09 13:47:33	--	End of /MOTD command.
+2017-12-09 13:47:33	--	User mode [+i] by C3D2
+2017-12-09 13:53:00		[13:47]
+2017-12-09 14:41:15	=!=	irc: reading data on socket: error 104 Connection reset by peer
+2017-12-09 14:41:15		[14:41]
+2017-12-09 14:41:15	--	irc: disconnecting from server...
+2017-12-09 14:41:15	--	irc: disconnected from server
+2017-12-09 14:41:15	--	irc: reconnecting to server in 10 seconds
+2017-12-09 14:41:25	--	irc: reconnecting to server...
+2017-12-09 14:41:25	--	irc: connecting to server chat.freenode.net/6667...
+2017-12-09 14:41:25	--	irc: connected to chat.freenode.net/6667 (71.11.84.232)
+2017-12-09 14:41:26	--	tolkien.freenode.net: *** Looking up your hostname...
+2017-12-09 14:41:26	--	tolkien.freenode.net: *** Checking Ident
+2017-12-09 14:41:26	--	tolkien.freenode.net: *** Found your hostname
+2017-12-09 14:41:34	--	tolkien.freenode.net: *** No Ident response
+2017-12-09 14:41:34	--	irc: client capability, server supports: account-notify extended-join identify-msg multi-prefix sasl
+2017-12-09 14:41:34	--	irc: client capability, requesting: sasl
+2017-12-09 14:41:34	--	irc: client capability, enabled: sasl
+2017-12-09 14:41:36	--	You are now logged in as C3D2. (C3D2!C3D2@cpc84741-aztw28-2-0-cust480.18-1.cable.virginm.net)
+2017-12-09 14:41:36	--	SASL authentication successful
+2017-12-09 14:41:36	--	Welcome to the freenode Internet Relay Chat Network C3D2
+2017-12-09 14:41:36	--	Your host is tolkien.freenode.net[71.11.84.232/6667], running version ircd-seven-1.1.4
+2017-12-09 14:41:36	--	This server was created Thu May 18 2017 at 17:43:36 UTC
+2017-12-09 14:41:36	--	tolkien.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2017-12-09 14:41:36	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2017-12-09 14:41:36	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU KNOCK :are supported by this server
+2017-12-09 14:41:36	--	WHOX ETRACE CPRIVMSG CNOTICE :are supported by this server
+2017-12-09 14:41:36	--	There are 119 users and 88556 invisible on 35 servers
+2017-12-09 14:41:36	--	35 :IRC Operators online
+2017-12-09 14:41:36	--	25 :unknown connection(s)
+2017-12-09 14:41:36	--	45349 :channels formed
+2017-12-09 14:41:36	--	I have 4818 clients and 1 servers
+2017-12-09 14:41:36	--	4818 7644 :Current local users 4818, max 7644
+2017-12-09 14:41:36	--	88675 97718 :Current global users 88675, max 97718
+2017-12-09 14:41:36	--	Highest connection count: 7645 (7644 clients) (2669921 connections received)
+2017-12-09 14:41:36	--	- tolkien.freenode.net Message of the Day -
+2017-12-09 14:41:36	--	- Welcome to freenode - supporting the free and open source
+2017-12-09 14:41:36	--	- software communities since 1998.
+2017-12-09 14:41:36	--	-
+2017-12-09 14:41:36	--	- By connecting to freenode you indicate that you have read and
+2017-12-09 14:41:36	--	- accept our policies and guidelines as set out on https://freenode.net
+2017-12-09 14:41:36	--	-
+2017-12-09 14:41:36	--	- In the event that you observe behaviour that contravenes our policies,
+2017-12-09 14:41:36	--	- please notify a volunteer staff member via private message, or send us an
+2017-12-09 14:41:36	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2017-12-09 14:41:36	--	- situation within a reasonable period of time, and we may request further
+2017-12-09 14:41:36	--	- information or, as appropriate, involve other parties such as channel operators
+2017-12-09 14:41:36	--	- Group Contacts representing an on-topic group.
+2017-12-09 14:41:36	--	-
+2017-12-09 14:41:36	--	- freenode runs an open proxy scanner.
+2017-12-09 14:41:36	--	-
+2017-12-09 14:41:36	--	- If you are looking for assistance, you will be able to find a list of
+2017-12-09 14:41:36	--	- volunteer staff using the '/who freenode/staff/*' command, and you may
+2017-12-09 14:41:36	--	- message any of us at any time. Please note that freenode predominantly
+2017-12-09 14:41:36	--	- provides assistance via private message, and while we have a network
+2017-12-09 14:41:36	--	- channel the primary venue for support requests is via private message to
+2017-12-09 14:41:36	--	- a member of the volunteer staff team.
+2017-12-09 14:41:36	--	-
+2017-12-09 14:41:36	--	- From time to time, volunteer staff may send server-wide notices relating to
+2017-12-09 14:41:36	--	- the project, or the communities that we host. The majority of such notices
+2017-12-09 14:41:36	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2017-12-09 14:41:36	--	- do not miss them. Important messages relating to the freenode project, including
+2017-12-09 14:41:36	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2017-12-09 14:41:36	--	- global notices.
+2017-12-09 14:41:36	--	-
+2017-12-09 14:41:36	--	- Representing an on-topic project? Don't forget to register, more information
+2017-12-09 14:41:36	--	- can be found on the https://freenode.net website under "Group Registration".
+2017-12-09 14:41:36	--	-
+2017-12-09 14:41:36	--	- freenode organises an annual conference, and we would like to extend our
+2017-12-09 14:41:36	--	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+2017-12-09 14:41:36	--	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+2017-12-09 14:41:36	--	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+2017-12-09 14:41:36	--	-
+2017-12-09 14:41:36	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2017-12-09 14:41:36	--	- network going for close to two decades.
+2017-12-09 14:41:36	--	-
+2017-12-09 14:41:36	--	- freenode #live returns to Bristol, UK on November 3rd-4th 2018, keep an eye
+2017-12-09 14:41:36	--	- on the https://freenode.live website for our call for volunteers and call for
+2017-12-09 14:41:36	--	- participation. If you are interested in sponsoring next year's event, please
+2017-12-09 14:41:36	--	- send us an e-mail to sponsor@freenode.live
+2017-12-09 14:41:36	--	-
+2017-12-09 14:41:36	--	- Thank you for using freenode!
+2017-12-09 14:41:36	--	-
+2017-12-09 14:41:36	--	-
+2017-12-09 14:41:36	--	End of /MOTD command.
+2017-12-09 14:41:36	--	User mode [+i] by C3D2
+2017-12-09 14:47:00		[14:41]
+2017-12-09 15:59:59		PONG: sol__
+2017-12-09 15:59:59		[15:59]
+2017-12-11 13:27:33	--	irc: connecting to server chat.freenode.net/6667...
+2017-12-11 13:27:33		[13:27]
+2017-12-11 13:27:33	--	irc: connected to chat.freenode.net/6667 (185.30.166.38)
+2017-12-11 13:27:34	--	orwell.freenode.net: *** Looking up your hostname...
+2017-12-11 13:27:34	--	orwell.freenode.net: *** Checking Ident
+2017-12-11 13:27:34	--	orwell.freenode.net: *** Found your hostname
+2017-12-11 13:27:42	--	orwell.freenode.net: *** No Ident response
+2017-12-11 13:27:43	--	irc: client capability, server supports: account-notify extended-join identify-msg multi-prefix sasl
+2017-12-11 13:27:43	--	irc: client capability, requesting: sasl
+2017-12-11 13:27:43	--	irc: client capability, enabled: sasl
+2017-12-11 13:27:44	--	You are now logged in as C3D2. (C3D2!C3D2@cpc87143-aztw31-2-0-cust107.18-1.cable.virginm.net)
+2017-12-11 13:27:44	--	SASL authentication successful
+2017-12-11 13:27:44	--	Welcome to the freenode Internet Relay Chat Network C3D2
+2017-12-11 13:27:44	--	Your host is orwell.freenode.net[185.30.166.38/6667], running version ircd-seven-1.1.4
+2017-12-11 13:27:44	--	This server was created Sat Jan 7 2017 at 12:04:42 EST
+2017-12-11 13:27:44	--	orwell.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2017-12-11 13:27:44	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2017-12-11 13:27:44	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 KNOCK CPRIVMSG CNOTICE :are supported by this server
+2017-12-11 13:27:44	--	SAFELIST ELIST=CTU ETRACE WHOX :are supported by this server
+2017-12-11 13:27:44	--	There are 122 users and 93439 invisible on 35 servers
+2017-12-11 13:27:44	--	36 :IRC Operators online
+2017-12-11 13:27:44	--	43 :unknown connection(s)
+2017-12-11 13:27:44	--	45203 :channels formed
+2017-12-11 13:27:44	--	I have 5304 clients and 1 servers
+2017-12-11 13:27:44	--	5304 6943 :Current local users 5304, max 6943
+2017-12-11 13:27:44	--	93561 97718 :Current global users 93561, max 97718
+2017-12-11 13:27:44	--	Highest connection count: 6944 (6943 clients) (4070713 connections received)
+2017-12-11 13:27:44	--	- orwell.freenode.net Message of the Day -
+2017-12-11 13:27:44	--	- Welcome to orwell.freenode.net in Amsterdam, NL.
+2017-12-11 13:27:44	--	- Thanks to http://www.hyperfilter.com/ for sponsoring
+2017-12-11 13:27:44	--	- this server!
+2017-12-11 13:27:44	--	-
+2017-12-11 13:27:44	--	- ORWELL, GEORGE [1903 - 1950] Born in India, his mother
+2017-12-11 13:27:44	--	- moved him to England when he was one year old, and it
+2017-12-11 13:27:44	--	- was in England where he was educated and spent most of
+2017-12-11 13:27:44	--	- his life.  Orwell is perhaps best known for his novels
+2017-12-11 13:27:44	--	- Nineteen Eighty-Four and Animal Farm.
+2017-12-11 13:27:44	--	-
+2017-12-11 13:27:44	--	-
+2017-12-11 13:27:44	--	- Welcome to freenode - supporting the free and open source
+2017-12-11 13:27:44	--	- software communities since 1998.
+2017-12-11 13:27:44	--	-
+2017-12-11 13:27:44	--	- By connecting to freenode you indicate that you have read and
+2017-12-11 13:27:44	--	- accept our policies and guidelines as set out on https://freenode.net
+2017-12-11 13:27:44	--	-
+2017-12-11 13:27:44	--	- In the event that you observe behaviour that contravenes our policies,
+2017-12-11 13:27:44	--	- please notify a volunteer staff member via private message, or send us an
+2017-12-11 13:27:44	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2017-12-11 13:27:44	--	- situation within a reasonable period of time, and we may request further
+2017-12-11 13:27:44	--	- information or, as appropriate, involve other parties such as channel operators
+2017-12-11 13:27:44	--	- Group Contacts representing an on-topic group.
+2017-12-11 13:27:44	--	-
+2017-12-11 13:27:44	--	- freenode runs an open proxy scanner.
+2017-12-11 13:27:44	--	-
+2017-12-11 13:27:44	--	- If you are looking for assistance, you will be able to find a list of
+2017-12-11 13:27:44	--	- volunteer staff using the '/who freenode/staff/*' command, and you may
+2017-12-11 13:27:44	--	- message any of us at any time. Please note that freenode predominantly
+2017-12-11 13:27:44	--	- provides assistance via private message, and while we have a network
+2017-12-11 13:27:44	--	- channel the primary venue for support requests is via private message to
+2017-12-11 13:27:44	--	- a member of the volunteer staff team.
+2017-12-11 13:27:44	--	-
+2017-12-11 13:27:44	--	- From time to time, volunteer staff may send server-wide notices relating to
+2017-12-11 13:27:44	--	- the project, or the communities that we host. The majority of such notices
+2017-12-11 13:27:44	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2017-12-11 13:27:44	--	- do not miss them. Important messages relating to the freenode project, including
+2017-12-11 13:27:44	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2017-12-11 13:27:44	--	- global notices.
+2017-12-11 13:27:44	--	-
+2017-12-11 13:27:44	--	- Representing an on-topic project? Don't forget to register, more information
+2017-12-11 13:27:44	--	- can be found on the https://freenode.net website under "Group Registration".
+2017-12-11 13:27:44	--	-
+2017-12-11 13:27:44	--	- freenode organises an annual conference, and we would like to extend our
+2017-12-11 13:27:44	--	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+2017-12-11 13:27:44	--	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+2017-12-11 13:27:44	--	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+2017-12-11 13:27:44	--	-
+2017-12-11 13:27:44	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2017-12-11 13:27:44	--	- network going for close to two decades.
+2017-12-11 13:27:44	--	-
+2017-12-11 13:27:45	--	- freenode #live returns to Bristol, UK on November 3rd-4th 2018, keep an eye
+2017-12-11 13:27:45	--	- on the https://freenode.live website for our call for volunteers and call for
+2017-12-11 13:27:45	--	- participation. If you are interested in sponsoring next year's event, please
+2017-12-11 13:27:45	--	- send us an e-mail to sponsor@freenode.live
+2017-12-11 13:27:45	--	-
+2017-12-11 13:27:45	--	- Thank you for using freenode!
+2017-12-11 13:27:45	--	-
+2017-12-11 13:27:45	--	-
+2017-12-11 13:27:45	--	End of /MOTD command.
+2017-12-11 13:27:45	--	User mode [+i] by C3D2
+2017-12-11 13:33:00		[13:27]
+2017-12-11 16:19:12	--	MSG(alis): LIST Hammock
+2017-12-11 16:19:12		[16:19]
+2017-12-11 16:19:12	--	alis (alis@services.): Returning maximum of 60 channel names matching '*Hammock*'
+2017-12-11 16:19:12	--	alis (alis@services.): End of output
+2017-12-11 16:19:51	--	MSG(alis): list camp
+2017-12-11 16:19:51	--	alis (alis@services.): Returning maximum of 60 channel names matching '*camp*'
+2017-12-11 16:19:51	--	alis (alis@services.): ##irc-campfire                                       2
+2017-12-11 16:19:51	--	alis (alis@services.): #badcamp                                             1
+2017-12-11 16:19:51	--	alis (alis@services.): #barcamp-cm                                          1 :Barcamp Cameroon | Mailing-list : http://groups.google.com/group/barcampcameroon | Wiki : http://barcamp.org/w/page/400583/BarCampCameroon
+2017-12-11 16:19:51	--	alis (alis@services.): #barcamp-thailand                                    2
+2017-12-11 16:19:51	--	alis (alis@services.): #barcampgr                                           1
+2017-12-11 16:19:51	--	alis (alis@services.): #barcamplondon                                       4 :BarCamp London X: TODAY. Doors open 10:00 - http://ten.barcamplondon.org/
+2017-12-11 16:19:51	--	alis (alis@services.): #BarCampMelbourne                                    2 :http://barcampmel.org -- StixCampGembrook, 1-3 Nov, 2013
+2017-12-11 16:19:51	--	alis (alis@services.): #barcamppdx                                          1
+2017-12-11 16:19:51	--	alis (alis@services.): #beaverbarcamp                                       5
+2017-12-11 16:19:51	--	alis (alis@services.): #biblecamp                                          10 :is this bot working??
+2017-12-11 16:19:51	--	alis (alis@services.): #camp                                               14 :CCC Camp 2015 | http://events.ccc.de/camp/2015/ | --> #camp on irc.hackint.org
+2017-12-11 16:19:51	--	alis (alis@services.): #campfire                                            3 :please do not use green logs as it causes too much smoke inchannel
+2017-12-11 16:19:51	--	alis (alis@services.): #campjs                                              2
+2017-12-11 16:19:51	--	alis (alis@services.): #Campus                                              2
+2017-12-11 16:19:51	--	alis (alis@services.): #campux                                              2
+2017-12-11 16:19:51	--	alis (alis@services.): #capcamp                                             9
+2017-12-11 16:19:51	--	alis (alis@services.): #catbarcamp                                          4
+2017-12-11 16:19:51	--	alis (alis@services.): #cccamp                                              1
+2017-12-11 16:19:51	--	alis (alis@services.): #curatecamp                                          1
+2017-12-11 16:19:51	--	alis (alis@services.): #defcamp-ctf                                        11 :Official DefCamp CTF Qualifications 2017 channel. Start time: 12:00 UTC. IRC channel: #defcamp-ctf on freenode. Telegram group: https://t.me/defcamp_ctf_quals_2017. Website: https://dctf.def.camp/
+2017-12-11 16:19:51	--	alis (alis@services.): #devopsbootcamp                                      8 :OSU Open Source Lab DevOps BootCamp | Next meeting Feb. 25 | http://devopsbootcamp.osuosl.org | Channel Admins operate on PST, wait appropriately  | Youtube: http://osl.io/devopsbc
+2017-12-11 16:19:51	--	alis (alis@services.): #drupalcamp                                          6
+2017-12-11 16:19:51	--	alis (alis@services.): #emfcamp                                           147 :https://www.emfcamp.org || EMF 2016 is now over. Next EMF in 2018 || TiLDA badge discussion: #tilda || Please find/add media to https://wiki.emfcamp.org/wiki/Memories
+2017-12-11 16:19:51	--	alis (alis@services.): #emfcamp-ohm                                         1
+2017-12-11 16:19:51	--	alis (alis@services.): #emfcamp-power                                       5
+2017-12-11 16:19:51	--	alis (alis@services.): #emfcamp-volunteers                                  2
+2017-12-11 16:19:51	--	alis (alis@services.): #endsummercamp                                       7 :Official channel of the End Summer Camp | https://www.endsummercamp.org
+2017-12-11 16:19:51	--	alis (alis@services.): #fedora-campusamb                                    6
+2017-12-11 16:19:51	--	alis (alis@services.): #francogrid-vwcamp                                   2 :Bienvenue
+2017-12-11 16:19:51	--	alis (alis@services.): #funcamp                                             8
+2017-12-11 16:19:51	--	alis (alis@services.): #givecampmemphis                                     1
+2017-12-11 16:19:51	--	alis (alis@services.): #hackers-camp                                        2 :The Hackers Boot Camp http://www.hackers.camp || Hackers are not Crackers https://www.gnu.org/philosophy/words-to-avoid.html#Hacker
+2017-12-11 16:19:51	--	alis (alis@services.): #indiewebcamp                                        1
+2017-12-11 16:19:51	--	alis (alis@services.): #madcamp                                             2
+2017-12-11 16:19:51	--	alis (alis@services.): #midcamp                                             5 :There's a google group. Go join: https://groups.google.com/forum/#!categories/midcamp
+2017-12-11 16:19:51	--	alis (alis@services.): #ntacamp                                             2
+2017-12-11 16:19:51	--	alis (alis@services.): #nyccamp                                             2 :Welcome to the Drupal NYC Camp Channel | Next Meeting:TBA | Register with rule32 '/msg rule32 help register' | IRC weblogs available at http://j.mp/1ozgwQV
+2017-12-11 16:19:51	--	alis (alis@services.): #oggcamp                                            13 :OggCamp '17 on 19th/20th August 2017 in Canterbury, UK | Tickets & info from http://oggcamp.org | Lanyrd: http://lanyrd.com/ctdbzr | Joind.in: https://joind.in/event/oggcamp-17 | Upcoming: https://upcoming.org/event/oggcamp-17-bxbmvf00su | Do you Telegram? https://t.me/joinchat/AAAAAAsF-xo4ol9jAjNW8A
+2017-12-11 16:19:51	--	alis (alis@services.): #pycamp                                              2
+2017-12-11 16:19:51	--	alis (alis@services.): #slcampusparty                                       4
+2017-12-11 16:19:51	--	alis (alis@services.): #thecamp                                            26 :Gensynsweekend: 3-5. Nov || https://thecamp.dk/wiki/index.php/2017:Efter%C3%A5rsgensyn <- Husk og tilmeld jer!
+2017-12-11 16:19:51	--	alis (alis@services.): #toorcamp                                           20 :https://www.timeanddate.com/countdown/generic?iso=20180620T00&p0=234&font=cursive
+2017-12-11 16:19:51	--	alis (alis@services.): #ukhackcamp                                          4
+2017-12-11 16:19:51	--	alis (alis@services.): #ukhackcamp-meeting                                  2
+2017-12-11 16:19:51	--	alis (alis@services.): #webcamp                                             2
+2017-12-11 16:19:51	--	alis (alis@services.): #webcampzg                                           2
+2017-12-11 16:19:51	--	alis (alis@services.): #wesnoth-wescamp                                     1
+2017-12-11 16:19:51	--	alis (alis@services.): #wherecamppdx                                        1
+2017-12-11 16:19:51	--	alis (alis@services.): End of output
+2017-12-11 16:20:00	--	MSG(alis): list camping
+2017-12-11 16:20:01	--	alis (alis@services.): Returning maximum of 60 channel names matching '*camping*'
+2017-12-11 16:20:01	--	alis (alis@services.): End of output
+2017-12-11 16:26:00		[16:20]
+2017-12-11 18:16:56	--	irc: disconnected from server
+2017-12-12 09:24:44	--	irc: connecting to server chat.freenode.net/6667...
+2017-12-12 09:24:44		[09:24]
+2017-12-12 09:24:45	--	irc: connected to chat.freenode.net/6667 (185.30.166.37)
+2017-12-12 09:24:45	--	verne.freenode.net: *** Looking up your hostname...
+2017-12-12 09:24:45	--	verne.freenode.net: *** Checking Ident
+2017-12-12 09:24:45	--	verne.freenode.net: *** Found your hostname
+2017-12-12 09:24:52	--	verne.freenode.net: *** No Ident response
+2017-12-12 09:24:52	--	irc: client capability, server supports: account-notify extended-join identify-msg multi-prefix sasl
+2017-12-12 09:24:52	--	irc: client capability, requesting: sasl
+2017-12-12 09:24:52	--	irc: client capability, enabled: sasl
+2017-12-12 09:24:53	--	You are now logged in as C3D2. (C3D2!C3D2@cpc87143-aztw31-2-0-cust107.18-1.cable.virginm.net)
+2017-12-12 09:24:53	--	SASL authentication successful
+2017-12-12 09:24:53	--	Welcome to the freenode Internet Relay Chat Network C3D2
+2017-12-12 09:24:53	--	Your host is verne.freenode.net[185.30.166.37/6667], running version ircd-seven-1.1.4
+2017-12-12 09:24:53	--	This server was created Sat Jan 7 2017 at 11:53:54 EST
+2017-12-12 09:24:53	--	verne.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2017-12-12 09:24:53	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2017-12-12 09:24:53	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 ETRACE WHOX KNOCK :are supported by this server
+2017-12-12 09:24:53	--	SAFELIST ELIST=CTU CPRIVMSG CNOTICE :are supported by this server
+2017-12-12 09:24:53	--	There are 115 users and 91848 invisible on 34 servers
+2017-12-12 09:24:53	--	35 :IRC Operators online
+2017-12-12 09:24:53	--	49 :unknown connection(s)
+2017-12-12 09:24:53	--	45966 :channels formed
+2017-12-12 09:24:53	--	I have 5977 clients and 3 servers
+2017-12-12 09:24:53	--	5977 7978 :Current local users 5977, max 7978
+2017-12-12 09:24:53	--	91963 97718 :Current global users 91963, max 97718
+2017-12-12 09:24:53	--	Highest connection count: 7980 (7978 clients) (3861503 connections received)
+2017-12-12 09:24:53	--	- verne.freenode.net Message of the Day -
+2017-12-12 09:24:53	--	- Welcome to verne.freenode.net in Amsterdam, NL.
+2017-12-12 09:24:53	--	- Thanks to http://www.hyperfilter.com/ for sponsoring
+2017-12-12 09:24:53	--	- this server!
+2017-12-12 09:24:53	--	-
+2017-12-12 09:24:53	--	-
+2017-12-12 09:24:53	--	- VERNE, Jules (1828-1905). Born in Nantes, France, Verne was
+2017-12-12 09:24:53	--	- a pioneering french author known for novels such as Twenty
+2017-12-12 09:24:53	--	- Thousand Leagues Under the Sea, A Journey to the Center of the
+2017-12-12 09:24:53	--	- Earth, and Around the World in Eighty Days. Often lauded as the
+2017-12-12 09:24:53	--	- Father of science fiction, Verne wrote about concepts such as
+2017-12-12 09:24:53	--	- space travel, skyscrapers, and worldwide communications
+2017-12-12 09:24:53	--	- networks long before these ideas became popularised or realised.
+2017-12-12 09:24:53	--	-
+2017-12-12 09:24:53	--	- Welcome to freenode - supporting the free and open source
+2017-12-12 09:24:53	--	- software communities since 1998.
+2017-12-12 09:24:53	--	-
+2017-12-12 09:24:53	--	- By connecting to freenode you indicate that you have read and
+2017-12-12 09:24:53	--	- accept our policies and guidelines as set out on https://freenode.net
+2017-12-12 09:24:53	--	-
+2017-12-12 09:24:53	--	- In the event that you observe behaviour that contravenes our policies,
+2017-12-12 09:24:53	--	- please notify a volunteer staff member via private message, or send us an
+2017-12-12 09:24:53	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2017-12-12 09:24:53	--	- situation within a reasonable period of time, and we may request further
+2017-12-12 09:24:53	--	- information or, as appropriate, involve other parties such as channel operators
+2017-12-12 09:24:53	--	- Group Contacts representing an on-topic group.
+2017-12-12 09:24:53	--	-
+2017-12-12 09:24:53	--	- freenode runs an open proxy scanner.
+2017-12-12 09:24:53	--	-
+2017-12-12 09:24:53	--	- If you are looking for assistance, you will be able to find a list of
+2017-12-12 09:24:53	--	- volunteer staff using the '/who freenode/staff/*' command, and you may
+2017-12-12 09:24:53	--	- message any of us at any time. Please note that freenode predominantly
+2017-12-12 09:24:53	--	- provides assistance via private message, and while we have a network
+2017-12-12 09:24:53	--	- channel the primary venue for support requests is via private message to
+2017-12-12 09:24:53	--	- a member of the volunteer staff team.
+2017-12-12 09:24:53	--	-
+2017-12-12 09:24:53	--	- From time to time, volunteer staff may send server-wide notices relating to
+2017-12-12 09:24:53	--	- the project, or the communities that we host. The majority of such notices
+2017-12-12 09:24:53	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2017-12-12 09:24:53	--	- do not miss them. Important messages relating to the freenode project, including
+2017-12-12 09:24:53	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2017-12-12 09:24:53	--	- global notices.
+2017-12-12 09:24:53	--	-
+2017-12-12 09:24:53	--	- Representing an on-topic project? Don't forget to register, more information
+2017-12-12 09:24:53	--	- can be found on the https://freenode.net website under "Group Registration".
+2017-12-12 09:24:53	--	-
+2017-12-12 09:24:53	--	- freenode organises an annual conference, and we would like to extend our
+2017-12-12 09:24:53	--	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+2017-12-12 09:24:53	--	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+2017-12-12 09:24:53	--	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+2017-12-12 09:24:53	--	-
+2017-12-12 09:24:53	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2017-12-12 09:24:53	--	- network going for close to two decades.
+2017-12-12 09:24:53	--	-
+2017-12-12 09:24:53	--	- freenode #live returns to Bristol, UK on November 3rd-4th 2018, keep an eye
+2017-12-12 09:24:53	--	- on the https://freenode.live website for our call for volunteers and call for
+2017-12-12 09:24:53	--	- participation. If you are interested in sponsoring next year's event, please
+2017-12-12 09:24:53	--	- send us an e-mail to sponsor@freenode.live
+2017-12-12 09:24:53	--	-
+2017-12-12 09:24:53	--	- Thank you for using freenode!
+2017-12-12 09:24:53	--	-
+2017-12-12 09:24:53	--	-
+2017-12-12 09:24:53	--	End of /MOTD command.
+2017-12-12 09:24:53	--	User mode [+i] by C3D2
+2017-12-12 09:30:00		[09:24]
+2017-12-12 16:27:25	--	You have been marked as being away
+2017-12-12 16:27:25		[16:27]
+2017-12-12 16:27:30	--	irc: disconnected from server
+2017-12-12 18:28:04	--	irc: connecting to server chat.freenode.net/6667...
+2017-12-12 18:28:04		[18:28]
+2017-12-12 18:28:05	--	irc: connected to chat.freenode.net/6667 (193.10.255.100)
+2017-12-12 18:28:05	--	wolfe.freenode.net: *** Looking up your hostname...
+2017-12-12 18:28:05	--	wolfe.freenode.net: *** Checking Ident
+2017-12-12 18:28:05	--	wolfe.freenode.net: *** Found your hostname
+2017-12-12 18:28:11	--	wolfe.freenode.net: *** No Ident response
+2017-12-12 18:28:11	--	irc: client capability, server supports: account-notify extended-join identify-msg multi-prefix sasl
+2017-12-12 18:28:11	--	irc: client capability, requesting: sasl
+2017-12-12 18:28:12	--	irc: client capability, enabled: sasl
+2017-12-12 18:28:13	--	You are now logged in as C3D2. (C3D2!C3D2@cpc87143-aztw31-2-0-cust107.18-1.cable.virginm.net)
+2017-12-12 18:28:13	--	SASL authentication successful
+2017-12-12 18:28:13	--	Welcome to the freenode Internet Relay Chat Network C3D2
+2017-12-12 18:28:13	--	Your host is wolfe.freenode.net[193.10.255.100/6667], running version ircd-seven-1.1.4
+2017-12-12 18:28:13	--	This server was created Wed Jan 18 2017 at 02:26:17 CET
+2017-12-12 18:28:13	--	wolfe.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2017-12-12 18:28:13	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2017-12-12 18:28:13	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 KNOCK SAFELIST ELIST=CTU :are supported by this server
+2017-12-12 18:28:13	--	WHOX CPRIVMSG CNOTICE ETRACE :are supported by this server
+2017-12-12 18:28:13	--	There are 121 users and 93984 invisible on 34 servers
+2017-12-12 18:28:13	--	35 :IRC Operators online
+2017-12-12 18:28:13	--	46 :unknown connection(s)
+2017-12-12 18:28:13	--	46260 :channels formed
+2017-12-12 18:28:13	--	I have 6135 clients and 1 servers
+2017-12-12 18:28:13	--	6135 7170 :Current local users 6135, max 7170
+2017-12-12 18:28:13	--	94105 97718 :Current global users 94105, max 97718
+2017-12-12 18:28:13	--	Highest connection count: 7172 (7170 clients) (1759398 connections received)
+2017-12-12 18:28:13	--	- wolfe.freenode.net Message of the Day -
+2017-12-12 18:28:13	--	- Welcome to wolfe.freenode.net in Stockholm, SE.
+2017-12-12 18:28:13	--	- Thanks to http://nordu.net/ for sponsoring
+2017-12-12 18:28:13	--	- this server!
+2017-12-12 18:28:13	--	-
+2017-12-12 18:28:13	--	- WOLFE, GENE [1931-].  Prolific writer of short stories and
+2017-12-12 18:28:13	--	- novels. His best-known work is the multi-volume novel The
+2017-12-12 18:28:13	--	- Book of the New Sun. He has won multiple awards including
+2017-12-12 18:28:13	--	- the Nebula Award, the World Fantasy Award, The Campell
+2017-12-12 18:28:13	--	- Memorial Award and the Locus Award. He was awarded the World
+2017-12-12 18:28:13	--	- Fantasy Award for lifetime achievement in 1996.
+2017-12-12 18:28:13	--	-
+2017-12-12 18:28:13	--	- Welcome to freenode - supporting the free and open source
+2017-12-12 18:28:13	--	- software communities since 1998.
+2017-12-12 18:28:13	--	-
+2017-12-12 18:28:13	--	- By connecting to freenode you indicate that you have read and
+2017-12-12 18:28:13	--	- accept our policies and guidelines as set out on https://freenode.net
+2017-12-12 18:28:13	--	-
+2017-12-12 18:28:13	--	- In the event that you observe behaviour that contravenes our policies,
+2017-12-12 18:28:13	--	- please notify a volunteer staff member via private message, or send us an
+2017-12-12 18:28:13	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2017-12-12 18:28:13	--	- situation within a reasonable period of time, and we may request further
+2017-12-12 18:28:13	--	- information or, as appropriate, involve other parties such as channel operators
+2017-12-12 18:28:13	--	- Group Contacts representing an on-topic group.
+2017-12-12 18:28:13	--	-
+2017-12-12 18:28:13	--	- freenode runs an open proxy scanner.
+2017-12-12 18:28:13	--	-
+2017-12-12 18:28:13	--	- If you are looking for assistance, you will be able to find a list of
+2017-12-12 18:28:13	--	- volunteer staff using the '/who freenode/staff/*' command, and you may
+2017-12-12 18:28:13	--	- message any of us at any time. Please note that freenode predominantly
+2017-12-12 18:28:13	--	- provides assistance via private message, and while we have a network
+2017-12-12 18:28:13	--	- channel the primary venue for support requests is via private message to
+2017-12-12 18:28:13	--	- a member of the volunteer staff team.
+2017-12-12 18:28:13	--	-
+2017-12-12 18:28:13	--	- From time to time, volunteer staff may send server-wide notices relating to
+2017-12-12 18:28:13	--	- the project, or the communities that we host. The majority of such notices
+2017-12-12 18:28:13	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2017-12-12 18:28:13	--	- do not miss them. Important messages relating to the freenode project, including
+2017-12-12 18:28:13	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2017-12-12 18:28:13	--	- global notices.
+2017-12-12 18:28:13	--	-
+2017-12-12 18:28:13	--	- Representing an on-topic project? Don't forget to register, more information
+2017-12-12 18:28:13	--	- can be found on the https://freenode.net website under "Group Registration".
+2017-12-12 18:28:13	--	-
+2017-12-12 18:28:13	--	- freenode organises an annual conference, and we would like to extend our
+2017-12-12 18:28:13	--	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+2017-12-12 18:28:13	--	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+2017-12-12 18:28:13	--	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+2017-12-12 18:28:13	--	-
+2017-12-12 18:28:13	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2017-12-12 18:28:13	--	- network going for close to two decades.
+2017-12-12 18:28:13	--	-
+2017-12-12 18:28:13	--	- freenode #live returns to Bristol, UK on November 3rd-4th 2018, keep an eye
+2017-12-12 18:28:13	--	- on the https://freenode.live website for our call for volunteers and call for
+2017-12-12 18:28:13	--	- participation. If you are interested in sponsoring next year's event, please
+2017-12-12 18:28:13	--	- send us an e-mail to sponsor@freenode.live
+2017-12-12 18:28:13	--	-
+2017-12-12 18:28:13	--	- Thank you for using freenode!
+2017-12-12 18:28:13	--	-
+2017-12-12 18:28:13	--	-
+2017-12-12 18:28:13	--	End of /MOTD command.
+2017-12-12 18:28:13	--	User mode [+i] by C3D2
+2017-12-12 18:28:47	--	[d3r1ck] (derick@wikimedia/Alangi-Derick): Alangi Derick
+2017-12-12 18:28:47	--	[d3r1ck] #xroutine
+2017-12-12 18:28:47	--	[d3r1ck] weber.freenode.net (US)
+2017-12-12 18:28:47	--	[d3r1ck] is using a secure connection
+2017-12-12 18:28:47	--	[d3r1ck] is logged in as d3r1ck
+2017-12-12 18:28:47	--	[d3r1ck] End of /WHOIS list.
+2017-12-12 18:34:00		[18:28]
+2017-12-12 19:31:59	--	You have been marked as being away
+2017-12-12 19:31:59		[19:31]
+2017-12-12 19:44:45	--	mquin (~mquin@freenode/staff/mquin): [Global Notice] On December 14th the FCC will be voting on Net Neutrality. To learn more, and to see how you might make a difference - particularly if you live in the USA - see https://www.battleforthenet.com . Thank you for your attention, and for flying freenode!
+2017-12-12 19:50:00		[19:44]
+2017-12-12 19:53:57	--	You are no longer marked as being away
+2017-12-12 19:59:00		[19:53]
+2017-12-12 20:47:06	--	irc: disconnected from server
+2017-12-13 11:30:54	--	irc: connecting to server chat.freenode.net/6667...
+2017-12-13 11:30:54		[11:30]
+2017-12-13 11:30:54	--	irc: connected to chat.freenode.net/6667 (185.30.166.38)
+2017-12-13 11:30:54	--	orwell.freenode.net: *** Looking up your hostname...
+2017-12-13 11:30:54	--	orwell.freenode.net: *** Checking Ident
+2017-12-13 11:30:54	--	orwell.freenode.net: *** Found your hostname
+2017-12-13 11:31:00	--	orwell.freenode.net: *** No Ident response
+2017-12-13 11:31:00	--	irc: client capability, server supports: account-notify extended-join identify-msg multi-prefix sasl
+2017-12-13 11:31:00	--	irc: client capability, requesting: sasl
+2017-12-13 11:31:00	--	irc: client capability, enabled: sasl
+2017-12-13 11:31:01	--	You are now logged in as C3D2. (C3D2!C3D2@cpc87143-aztw31-2-0-cust107.18-1.cable.virginm.net)
+2017-12-13 11:31:01	--	SASL authentication successful
+2017-12-13 11:31:02	--	Welcome to the freenode Internet Relay Chat Network C3D2
+2017-12-13 11:31:02	--	Your host is orwell.freenode.net[185.30.166.38/6667], running version ircd-seven-1.1.4
+2017-12-13 11:31:02	--	This server was created Sat Jan 7 2017 at 12:04:42 EST
+2017-12-13 11:31:02	--	orwell.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2017-12-13 11:31:02	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2017-12-13 11:31:02	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 KNOCK CPRIVMSG CNOTICE :are supported by this server
+2017-12-13 11:31:02	--	SAFELIST ELIST=CTU ETRACE WHOX :are supported by this server
+2017-12-13 11:31:02	--	There are 120 users and 92618 invisible on 35 servers
+2017-12-13 11:31:02	--	34 :IRC Operators online
+2017-12-13 11:31:02	--	25 :unknown connection(s)
+2017-12-13 11:31:02	--	46541 :channels formed
+2017-12-13 11:31:02	--	I have 5371 clients and 1 servers
+2017-12-13 11:31:02	--	5371 6943 :Current local users 5371, max 6943
+2017-12-13 11:31:02	--	92738 97718 :Current global users 92738, max 97718
+2017-12-13 11:31:02	--	Highest connection count: 6944 (6943 clients) (4101554 connections received)
+2017-12-13 11:31:02	--	- orwell.freenode.net Message of the Day -
+2017-12-13 11:31:02	--	- Welcome to orwell.freenode.net in Amsterdam, NL.
+2017-12-13 11:31:02	--	- Thanks to http://www.hyperfilter.com/ for sponsoring
+2017-12-13 11:31:02	--	- this server!
+2017-12-13 11:31:02	--	-
+2017-12-13 11:31:02	--	- ORWELL, GEORGE [1903 - 1950] Born in India, his mother
+2017-12-13 11:31:02	--	- moved him to England when he was one year old, and it
+2017-12-13 11:31:02	--	- was in England where he was educated and spent most of
+2017-12-13 11:31:02	--	- his life.  Orwell is perhaps best known for his novels
+2017-12-13 11:31:02	--	- Nineteen Eighty-Four and Animal Farm.
+2017-12-13 11:31:02	--	-
+2017-12-13 11:31:02	--	-
+2017-12-13 11:31:02	--	- Welcome to freenode - supporting the free and open source
+2017-12-13 11:31:02	--	- software communities since 1998.
+2017-12-13 11:31:02	--	-
+2017-12-13 11:31:02	--	- By connecting to freenode you indicate that you have read and
+2017-12-13 11:31:02	--	- accept our policies and guidelines as set out on https://freenode.net
+2017-12-13 11:31:02	--	-
+2017-12-13 11:31:02	--	- In the event that you observe behaviour that contravenes our policies,
+2017-12-13 11:31:02	--	- please notify a volunteer staff member via private message, or send us an
+2017-12-13 11:31:02	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2017-12-13 11:31:02	--	- situation within a reasonable period of time, and we may request further
+2017-12-13 11:31:02	--	- information or, as appropriate, involve other parties such as channel operators
+2017-12-13 11:31:02	--	- Group Contacts representing an on-topic group.
+2017-12-13 11:31:02	--	-
+2017-12-13 11:31:02	--	- freenode runs an open proxy scanner.
+2017-12-13 11:31:02	--	-
+2017-12-13 11:31:02	--	- If you are looking for assistance, you will be able to find a list of
+2017-12-13 11:31:02	--	- volunteer staff using the '/who freenode/staff/*' command, and you may
+2017-12-13 11:31:02	--	- message any of us at any time. Please note that freenode predominantly
+2017-12-13 11:31:02	--	- provides assistance via private message, and while we have a network
+2017-12-13 11:31:02	--	- channel the primary venue for support requests is via private message to
+2017-12-13 11:31:02	--	- a member of the volunteer staff team.
+2017-12-13 11:31:02	--	-
+2017-12-13 11:31:02	--	- From time to time, volunteer staff may send server-wide notices relating to
+2017-12-13 11:31:02	--	- the project, or the communities that we host. The majority of such notices
+2017-12-13 11:31:02	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2017-12-13 11:31:02	--	- do not miss them. Important messages relating to the freenode project, including
+2017-12-13 11:31:02	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2017-12-13 11:31:02	--	- global notices.
+2017-12-13 11:31:02	--	-
+2017-12-13 11:31:02	--	- Representing an on-topic project? Don't forget to register, more information
+2017-12-13 11:31:02	--	- can be found on the https://freenode.net website under "Group Registration".
+2017-12-13 11:31:02	--	-
+2017-12-13 11:31:02	--	- freenode organises an annual conference, and we would like to extend our
+2017-12-13 11:31:02	--	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+2017-12-13 11:31:02	--	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+2017-12-13 11:31:02	--	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+2017-12-13 11:31:02	--	-
+2017-12-13 11:31:02	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2017-12-13 11:31:02	--	- network going for close to two decades.
+2017-12-13 11:31:02	--	-
+2017-12-13 11:31:02	--	- freenode #live returns to Bristol, UK on November 3rd-4th 2018, keep an eye
+2017-12-13 11:31:02	--	- on the https://freenode.live website for our call for volunteers and call for
+2017-12-13 11:31:02	--	- participation. If you are interested in sponsoring next year's event, please
+2017-12-13 11:31:02	--	- send us an e-mail to sponsor@freenode.live
+2017-12-13 11:31:02	--	-
+2017-12-13 11:31:02	--	- Thank you for using freenode!
+2017-12-13 11:31:02	--	-
+2017-12-13 11:31:02	--	-
+2017-12-13 11:31:02	--	End of /MOTD command.
+2017-12-13 11:31:02	--	User mode [+i] by C3D2
+2017-12-13 11:37:00		[11:31]
+2017-12-13 12:56:41	--	#sysadmin: Cannot join channel (+i) - you must be invited
+2017-12-13 12:56:41		[12:56]
+2017-12-13 12:56:47	--	##sysadmin: Cannot join channel (+k) - bad key
+2017-12-13 13:02:00		[12:56]
