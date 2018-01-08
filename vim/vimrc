@@ -1,6 +1,24 @@
-call plug#begin('~/.vim/plugged') 
-Plug 'tclem/vim-arduino'
-call plug#end()
+colo desert
+set nocompatible "Required
+filetype off "required
+
+" Set runtime path to include Vundle
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin("~/dotfiles/vim/plugins")
+" Let Vundle manage Vundle
+Plugin 'gmarik/Vundle.vim'
+
+" Add all the plugins here
+
+" No plugins after this point
+call vundle#end()
+filetype plugin indent on
+
+" Enable folding
+set foldmethod=indent
+set foldlevel=99
+" Fold with the spacebar
+nnoremap <space> za
 
 set number
 syntax on
