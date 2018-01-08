@@ -1,2 +1,14 @@
-Host pi
-	HostName hedzup456.me
+Host ClearPi
+	Hostname=192.168.0.210
+	user=rjh
+	Port=22
+
+Host BlackPi
+	Hostname=192.168.0.220
+	User=rjh
+	Port=22
+
+Host PiZero
+	Hostname=192.168.0.230
+	User=pi
+	Port=22

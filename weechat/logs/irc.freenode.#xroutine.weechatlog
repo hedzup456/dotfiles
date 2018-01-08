@@ -564,3 +564,618 @@
 2017-12-13 12:31:23		[12:31]
 2017-12-13 12:33:49	-->	FlibberTGibbet (~david@cust241-dsl93-89-129.idnet.net) has joined #xroutine
 2017-12-13 12:39:00		[12:33]
+2017-12-13 13:26:50		[C3D2 away: Feeding time at the zoo]
+2017-12-13 13:26:50		[13:26]
+2017-12-13 13:29:19		[C3D2 back: gone 00:02:29]
+2017-12-13 13:35:00		[13:29]
+2017-12-13 14:26:05	<--	xlambda (~xlambda@unaffiliated/nniro) has quit (Ping timeout: 240 seconds)
+2017-12-13 14:26:05		[14:26]
+2017-12-13 14:26:30	<--	blowfist (~blowfist@unaffiliated/nniro) has quit (Ping timeout: 248 seconds)
+2017-12-13 14:32:00		[14:26]
+2017-12-13 16:45:48	FlibberTGibbet	\o
+2017-12-13 16:45:48		[16:45]
+2017-12-13 16:45:55	d3r1ck	o/
+2017-12-13 16:51:00		[16:45]
+2017-12-13 16:51:49	FlibberTGibbet	hi d3r1ck
+2017-12-13 16:51:54	FlibberTGibbet	what are you doing today?
+2017-12-13 16:52:06	d3r1ck	FlibberTGibbet: I really don't know :D
+2017-12-13 16:52:08	d3r1ck	And you?
+2017-12-13 16:52:36	FlibberTGibbet	a little work, playing around with gopher. not much really
+2017-12-13 16:52:52	d3r1ck	Hmmm.. :)
+2017-12-13 16:53:47	FlibberTGibbet	cold outside...
+2017-12-13 16:56:30	FlibberTGibbet	where are you based d3r1ck?
+2017-12-13 17:01:05	d3r1ck	Cameroon
+2017-12-13 17:01:06	d3r1ck	FlibberTGibbet: You?
+2017-12-13 17:01:43	FlibberTGibbet	England
+2017-12-13 17:02:41	FlibberTGibbet	Yaounde, Douala?
+2017-12-13 17:03:59	pekka10	GOOD EVENING
+2017-12-13 17:04:02	pekka10	ups
+2017-12-13 17:04:04	pekka10	:D
+2017-12-13 17:04:18	FlibberTGibbet	hi pekka10!
+2017-12-13 17:04:26	pekka10	capitalized letters should generate sound
+2017-12-13 17:04:36	FlibberTGibbet	Ah
+2017-12-13 17:04:45	FlibberTGibbet	I'LL TRY NOT TO SHOUT :)
+2017-12-13 17:04:58	pekka10	yea
+2017-12-13 17:05:14	pekka10	expressionism
+2017-12-13 17:05:38	pekka10	Im currently qompiling qt5.9.3
+2017-12-13 17:05:55	FlibberTGibbet	that'll keep you busy 'til Christmas :)
+2017-12-13 17:06:02	pekka10	I just found out Qt has a LTS release
+2017-12-13 17:06:02		[17:06]
+2017-12-13 17:06:11	pekka10	http://blog.qt.io/blog/2017/05/11/introducing-long-term-support-qt-5-9/
+2017-12-13 17:06:14	--	Notice(xroutine): [X] Introducing Long Term Support for Qt 5.9 - Qt Blog
+2017-12-13 17:06:20	pekka10	and I think this is good newa
+2017-12-13 17:06:53	d3r1ck	FlibberTGibbet: No, Buea
+2017-12-13 17:07:01	d3r1ck	pekka10: Hey! o/
+2017-12-13 17:07:09	pekka10	if they really deliver on what is stated in that post, then its good bye GTK-3 for me
+2017-12-13 17:07:49	d3r1ck	pekka10: :D
+2017-12-13 17:07:51	FlibberTGibbet	good grief. just tried hyper (https://hyper.is). some crazy people have designed a standalone javascript terminal emulator. which doesn't work very well. no wonder we haven't colonised the planets yet...
+2017-12-13 17:08:08	d3r1ck	I didn't know Qt had a LTS even though I gon't use it much :)
+2017-12-13 17:08:27	FlibberTGibbet	had to look it up d3r1ck -- right near the mountain?
+2017-12-13 17:08:47	d3r1ck	Yes, exactly!
+2017-12-13 17:08:58	pekka10	FlibberTGibbet: we have colomized the mountains?
+2017-12-13 17:09:08	d3r1ck	Nope! You haven't
+2017-12-13 17:09:58	FlibberTGibbet	pekka10: nope. i mentioned colonising the planets in the sense that "brains wasted on npm projects could be doing better things" but am not a colonialist myself...
+2017-12-13 17:10:43	pekka10	maybe it was just a "proof of concept" project
+2017-12-13 17:11:01	FlibberTGibbet	didn't realise that Mount Cameroon is an active volcano...
+2017-12-13 17:11:28	FlibberTGibbet	pekka10, it certainly proves that there are better ideas than reinventing every last wheel in javascript :)
+2017-12-13 17:13:16	FlibberTGibbet	looks rather nice there d3r1ck
+2017-12-13 17:14:19	d3r1ck	FlibberTGibbet: it's a nice place
+2017-12-13 17:14:34	d3r1ck	With great environmental conditions :)
+2017-12-13 17:15:11	FlibberTGibbet	sounds good to me d3r1ck!
+2017-12-13 17:15:35	d3r1ck	How is life in England FlibberTGibbet ?
+2017-12-13 17:16:11	FlibberTGibbet	right now, it's cold and wet :)
+2017-12-13 17:16:47	FlibberTGibbet	but generally ok. i'd prefer to move somewhere warmer though
+2017-12-13 17:17:39	d3r1ck	Ohhh, you can get a heater?
+2017-12-13 17:17:52	C3D2	Not for outside!
+2017-12-13 17:19:26	FlibberTGibbet	lol C3D2
+2017-12-13 17:19:44	d3r1ck	:D
+2017-12-13 17:19:53	FlibberTGibbet	plenty of heating on d3r1ck, but i have to venture outside now and then.
+2017-12-13 17:20:03	d3r1ck	Okay!
+2017-12-13 17:20:32	FlibberTGibbet	must be pretty different at your latitude
+2017-12-13 17:24:42	FlibberTGibbet	might be a good venue for an xroutine meet...
+2017-12-13 17:24:42		[17:24]
+2017-12-13 17:28:17	d3r1ck	:D
+2017-12-13 17:28:31	d3r1ck	FlibberTGibbet: We can start prepping up the flight tickets for everyone then :D
+2017-12-13 17:30:28	FlibberTGibbet	i might have to save up a little first, but i'd love to see that part of the world!
+2017-12-13 17:34:39	FlibberTGibbet	actually it's under GBP400 via Istanbul. An odd route to west Africa, but that hardly matters. Tickets to Greece sometimes cost that much
+2017-12-13 17:40:00		[17:34]
+2017-12-13 17:40:44	pekka10	yea, #xroutine around the world
+2017-12-13 17:43:20	d3r1ck	:D
+2017-12-13 17:49:00		[17:43]
+2017-12-13 17:57:24		[C3D2 away: Commute..]
+2017-12-13 18:03:00		[17:57]
+2017-12-13 18:04:31	FlibberTGibbet	bbl
+2017-12-13 18:10:00		[18:04]
+2017-12-13 18:15:07	--	pekka10 is now known as pekka_afk
+2017-12-13 18:21:00		[18:15]
+2017-12-13 19:08:52	-->	blowfist (~blowfist@unaffiliated/nniro) has joined #xroutine
+2017-12-13 19:08:52		[19:08]
+2017-12-13 19:33:34		[C3D2 back: gone 01:36:10]
+2017-12-13 19:33:34		[19:33]
+2017-12-13 20:40:14	<--	xroutine (~xroutine@unaffiliated/gischy/bot/xroutine) has quit (*.net *.split)
+2017-12-13 20:40:14		[20:40]
+2017-12-13 20:40:25	-->	xroutine (~xroutine@ip5f5ad214.dynamic.kabel-deutschland.de) has joined #xroutine
+2017-12-13 20:40:45	<--	xroutine (~xroutine@ip5f5ad214.dynamic.kabel-deutschland.de) has quit (Changing host)
+2017-12-13 20:40:45	-->	xroutine (~xroutine@unaffiliated/gischy/bot/xroutine) has joined #xroutine
+2017-12-13 20:46:00		[20:40]
+2017-12-13 20:57:10	-->	KanalMonster (~KanalMons@91.65.167.9) has joined #xroutine
+2017-12-13 20:57:25	d3r1ck	blowfist: Hey!
+2017-12-13 20:57:28	d3r1ck	What's up?
+2017-12-13 21:00:31	blowfist	hey there
+2017-12-13 21:00:38	blowfist	doing good and you?
+2017-12-13 21:00:47	blowfist	hmm someone is missing here
+2017-12-13 21:01:19	-->	xlambda (~xlambda@unaffiliated/nniro) has joined #xroutine
+2017-12-13 21:01:19		[21:01]
+2017-12-13 21:01:51	d3r1ck	I'm okay!
+2017-12-13 21:01:57	d3r1ck	blowfist: Who is missing?
+2017-12-13 21:02:04	blowfist	xlambda
+2017-12-13 21:02:32	d3r1ck	Ohhh, xlambda just joined
+2017-12-13 21:02:59	blowfist	yeah, magic
+2017-12-13 21:04:01	d3r1ck	:)
+2017-12-13 21:04:06	d3r1ck	Wait, magic?
+2017-12-13 21:05:36	blowfist	totally
+2017-12-13 21:06:03	blowfist	I just had to think about it, shake my magic wand and he appeared
+2017-12-13 21:06:25	d3r1ck	:D
+2017-12-13 21:06:38	d3r1ck	I'll surely come for some lessons :)
+2017-12-13 21:06:48	d3r1ck	Did you finish up the matplotlib work yesterday?
+2017-12-13 21:07:27	blowfist	no :L, I had some weird issues
+2017-12-13 21:07:44	blowfist	then I noticed my data were giving total downloaded when I wanted to measure speed
+2017-12-13 21:08:07	d3r1ck	Okay!
+2017-12-13 21:08:10	blowfist	so I had to check the freebsd netflow stuff to see how to get the speed measurement... I haven't had luck so far
+2017-12-13 21:08:24	d3r1ck	:(
+2017-12-13 21:09:35	blowfist	I managed to load both the X and Y axis perfectly though, so I pretty much have all the technology/technique necessary to do this
+2017-12-13 21:10:42	d3r1ck	Okay!
+2017-12-13 21:11:49	blowfist	at least now I have a more fun part to do, I have to parse 124 files to a csv
+2017-12-13 21:12:14	blowfist	"fun"
+2017-12-13 21:18:00		[21:12]
+2017-12-13 21:22:58	d3r1ck	great
+2017-12-13 21:23:09	d3r1ck	Need to sleep!
+2017-12-13 21:29:00		[21:23]
+2017-12-13 21:31:58	pekka_afk	Jazz
+2017-12-13 21:37:00		[21:31]
+2017-12-13 22:13:04		[C3D2 away: zzz]
+2017-12-13 22:13:04		[22:13]
+2017-12-14 00:41:57	<--	KanalMonster (~KanalMons@91.65.167.9) has quit (Quit: Leaving)
+2017-12-14 00:41:57		[00:41]
+2017-12-14 01:35:42	-->	KanalMonster (~KanalMons@ip5b41a709.dynamic.kabel-deutschland.de) has joined #xroutine
+2017-12-14 01:35:42		[01:35]
+2017-12-14 01:53:58	<--	KanalMonster (~KanalMons@ip5b41a709.dynamic.kabel-deutschland.de) has quit (Quit: Leaving)
+2017-12-14 01:53:58		[01:53]
+2017-12-14 02:29:34	<--	ChanServ (ChanServ@services.) has quit (*.net *.split)
+2017-12-14 02:29:34		[02:29]
+2017-12-14 02:31:14	-->	ChanServ (ChanServ@services.) has joined #xroutine
+2017-12-14 02:31:14	--	Mode #xroutine [+o ChanServ] by orwell.freenode.net
+2017-12-14 02:37:00		[02:31]
+2017-12-14 05:46:42	<--	FrozenFox (~darkfox@unaffiliated/darkfox) has quit (Ping timeout: 240 seconds)
+2017-12-14 05:46:42		[05:46]
+2017-12-14 05:48:22	-->	DarkFox (~darkfox@unaffiliated/darkfox) has joined #xroutine
+2017-12-14 05:54:00		[05:48]
+2017-12-14 08:15:52		[C3D2 back: gone 10:02:48]
+2017-12-14 08:15:52		[08:15]
+2017-12-14 13:17:39	-->	geniack_ (5e65241b@gateway/web/freenode/ip.94.101.36.27) has joined #xroutine
+2017-12-14 13:17:39		[13:17]
+2017-12-14 13:17:56	geniack_	lo \o
+2017-12-14 13:18:59	geniack_	anyone every worked with geographical json data?
+2017-12-14 13:24:00		[13:18]
+2017-12-14 13:47:08	d3r1ck	geniack_: Hey!
+2017-12-14 13:47:08		[13:47]
+2017-12-14 13:47:10	d3r1ck	o/
+2017-12-14 13:47:14	d3r1ck	geniack_: What's up?
+2017-12-14 13:47:19	d3r1ck	How are you?
+2017-12-14 13:49:23	C3D2	o/ all, sadly not geniack_
+2017-12-14 13:55:00		[13:49]
+2017-12-14 14:09:13	geniack_	d3r1ck: hey there, i am fine, how are you?
+2017-12-14 14:09:15	geniack_	C3D2: what?
+2017-12-14 14:09:30	geniack_	ah okay that was an answer
+2017-12-14 14:10:44	d3r1ck	geniack_: cool
+2017-12-14 14:10:44		[14:10]
+2017-12-14 14:23:03	--	pekka_afk is now known as pekka20
+2017-12-14 14:29:00		[14:23]
+2017-12-14 14:39:30	C3D2	geniack_: Haven't worked with geo json
+2017-12-14 14:45:00		[14:39]
+2017-12-14 14:52:47	geniack_	i cannot say you missed anything
+2017-12-14 14:52:49	geniack_	pekka20: yo
+2017-12-14 14:58:00		[14:52]
+2017-12-14 15:00:25	pekka20	good day
+2017-12-14 15:01:20	geniack_	yes
+2017-12-14 15:01:22	geniack_	whats up
+2017-12-14 15:02:35	pekka20	I just managed to compile qt5 successfully
+2017-12-14 15:05:50	geniack_	thats great
+2017-12-14 15:05:54	geniack_	what are you doing with it?
+2017-12-14 15:06:30	pekka20	I wa asked to provide the Pkgfile to the Crux guys
+2017-12-14 15:06:44	pekka20	I will use it to run Qt apps
+2017-12-14 15:12:00		[15:06]
+2017-12-14 15:20:37	d3r1ck	:D
+2017-12-14 15:26:00		[15:20]
+2017-12-14 15:30:10	FlibberTGibbet	when you're storing a feature (shape, line, whatever) in geojson, can you specify the co-ordinate type (as in WGS84, Eastings/Northings, etc)?
+2017-12-14 15:36:00		[15:30]
+2017-12-14 15:47:34	geniack_	the file i am working with stores the type along with the coordinates
+2017-12-14 15:47:47	geniack_	which can be Polygon, Line etc
+2017-12-14 15:47:59	geniack_	right now i am extracting the coordinates from the json file
+2017-12-14 15:48:13	geniack_	and assigning longtitude and latitude myself to a boost geometry object
+2017-12-14 15:48:17	geniack_	not sure if it will work
+2017-12-14 15:48:42	FlibberTGibbet	so the coordinates are generally lat-lon pairs?
+2017-12-14 15:53:06	FlibberTGibbet	the official geojson.org site is a bit of a disaster area :)
+2017-12-14 15:53:06		[15:53]
+2017-12-14 15:56:49	FlibberTGibbet	ah, you can specify the coordinate reference system of your choice (presumably to be interpreted properly by applications) but the default is WGS84
+2017-12-14 15:57:24	FlibberTGibbet	geniack_ is that boost as in the c++ libraries?
+2017-12-14 16:03:00		[15:57]
+2017-12-14 16:11:42	geniack_	FlibberTGibbet: yeah
+2017-12-14 16:11:49	FlibberTGibbet	ah, ok
+2017-12-14 16:11:51	geniack_	i've just run into c++ templating issues
+2017-12-14 16:11:54	FlibberTGibbet	way over my head then :)
+2017-12-14 16:11:55	geniack_	you have knowledge?
+2017-12-14 16:12:04	geniack_	oh well
+2017-12-14 16:12:06	geniack_	too bad
+2017-12-14 16:12:06	FlibberTGibbet	not if it involves a language with pointers :(
+2017-12-14 16:12:32	geniack_	i just figured i cannot use dynamically initialized arrays as a template argument in c++
+2017-12-14 16:14:34	FlibberTGibbet	oof :)
+2017-12-14 16:15:08	FlibberTGibbet	have to go -- shopping for dottir's birthday party then off to hackspace. good luck with the boost libs
+2017-12-14 16:21:00		[16:15]
+2017-12-14 16:25:20		[C3D2 away: Commute]
+2017-12-14 16:28:51	<--	geniack_ (5e65241b@gateway/web/freenode/ip.94.101.36.27) has quit (Ping timeout: 260 seconds)
+2017-12-14 16:34:00		[16:28]
+2017-12-14 18:14:06	--	irc: disconnected from server
+2017-12-14 19:42:52	-->	C3D2 (~C3D2@cpc87143-aztw31-2-0-cust107.18-1.cable.virginm.net) has joined #xroutine
+2017-12-14 19:42:52		[19:42]
+2017-12-14 19:42:52	--	Topic for #xroutine is "Come talk about all things technology! Programming! Linux! Open source projects! Arduino! Security! IoT like the raspberry pi! Arm devices! Your pet tech projects are at home at xroutine!"
+2017-12-14 19:42:52	--	Topic set by blowfist (~nik_89@unaffiliated/nniro) on Wed, 15 Feb 2017 03:59:19
+2017-12-14 19:42:52	--	Channel #xroutine: 19 nicks (1 op, 0 voices, 18 normals)
+2017-12-14 19:42:57	--	Channel created on Sat, 28 Jul 2012 20:12:06
+2017-12-14 19:48:00		[19:42]
+2017-12-14 20:22:52	geniack	yo
+2017-12-14 20:22:52		[20:22]
+2017-12-14 21:18:50	--	irc: disconnected from server
+2017-12-14 21:18:50		[21:18]
+2017-12-14 21:19:24	-->	C3D2 (~C3D2@cpc87143-aztw31-2-0-cust107.18-1.cable.virginm.net) has joined #xroutine
+2017-12-14 21:19:24	--	Topic for #xroutine is "Come talk about all things technology! Programming! Linux! Open source projects! Arduino! Security! IoT like the raspberry pi! Arm devices! Your pet tech projects are at home at xroutine!"
+2017-12-14 21:19:25	--	Topic set by blowfist (~nik_89@unaffiliated/nniro) on Wed, 15 Feb 2017 03:59:19
+2017-12-14 21:19:25	--	Channel #xroutine: 19 nicks (1 op, 0 voices, 18 normals)
+2017-12-14 21:19:28	--	Channel created on Sat, 28 Jul 2012 20:12:06
+2017-12-14 21:25:00		[21:19]
+2017-12-14 21:48:16	-->	KanalMonster (~KanalMons@ip5b41a709.dynamic.kabel-deutschland.de) has joined #xroutine
+2017-12-14 21:48:16		[21:48]
+2017-12-14 22:14:17	<--	ChanServ (ChanServ@services.) has quit (*.net *.split)
+2017-12-14 22:14:17		[22:14]
+2017-12-14 22:21:10	-->	ChanServ (ChanServ@services.) has joined #xroutine
+2017-12-14 22:21:10	--	Mode #xroutine [+o ChanServ] by hitchcock.freenode.net
+2017-12-14 22:25:33	<--	ChanServ (ChanServ@services.) has quit (*.net *.split)
+2017-12-14 22:28:30	-->	ChanServ (ChanServ@services.) has joined #xroutine
+2017-12-14 22:28:30	--	Mode #xroutine [+o ChanServ] by hitchcock.freenode.net
+2017-12-14 22:34:00		[22:28]
+2017-12-15 03:24:06	<--	KanalMonster (~KanalMons@ip5b41a709.dynamic.kabel-deutschland.de) has quit (Quit: Leaving)
+2017-12-15 03:24:06		[03:24]
+2017-12-15 08:08:59	--	irc: disconnected from server
+2017-12-15 08:10:24	-->	C3D2 (~C3D2@cpc87143-aztw31-2-0-cust107.18-1.cable.virginm.net) has joined #xroutine
+2017-12-15 08:10:24		[08:10]
+2017-12-15 08:10:24	--	Topic for #xroutine is "Come talk about all things technology! Programming! Linux! Open source projects! Arduino! Security! IoT like the raspberry pi! Arm devices! Your pet tech projects are at home at xroutine!"
+2017-12-15 08:10:24	--	Topic set by blowfist (~nik_89@unaffiliated/nniro) on Wed, 15 Feb 2017 03:59:19
+2017-12-15 08:10:24	--	Channel #xroutine: 19 nicks (1 op, 0 voices, 18 normals)
+2017-12-15 08:10:28	--	Channel created on Sat, 28 Jul 2012 20:12:06
+2017-12-15 08:16:00		[08:10]
+2017-12-15 09:36:22	--	DarkFox is now known as FrozenFox
+2017-12-15 09:36:22		[09:36]
+2017-12-15 09:36:26	FrozenFox	Hello world
+2017-12-15 09:42:00		[09:36]
+2017-12-15 09:45:53	C3D2	Heya bud
+2017-12-15 09:51:00		[09:45]
+2017-12-15 10:39:37	-->	KanalMonster (~KanalMons@ip5b41a709.dynamic.kabel-deutschland.de) has joined #xroutine
+2017-12-15 10:39:37		[10:39]
+2017-12-15 11:28:30	<--	KanalMonster (~KanalMons@ip5b41a709.dynamic.kabel-deutschland.de) has quit (Quit: Leaving)
+2017-12-15 11:28:30		[11:28]
+2017-12-15 11:48:12	d3r1ck	FrozenFox: o/
+2017-12-15 11:48:12		[11:48]
+2017-12-15 11:55:00	C3D2	o/ d3r1ck
+2017-12-15 11:56:35	d3r1ck	C3D2: What are up to today?
+2017-12-15 12:02:00		[11:56]
+2017-12-15 12:17:38	C3D2	Not an awful lot
+2017-12-15 12:17:38		[12:17]
+2017-12-15 12:17:51	C3D2	Need to get my hands on a new power hub for my pis
+2017-12-15 12:23:00		[12:17]
+2017-12-15 16:31:00		[C3D2 away: commute]
+2017-12-15 16:31:00		[16:31]
+2017-12-15 17:43:14	<--	gischy (~gischy@unaffiliated/gischy) has quit (Ping timeout: 255 seconds)
+2017-12-15 17:43:14		[17:43]
+2017-12-15 17:43:56	<--	xroutine (~xroutine@unaffiliated/gischy/bot/xroutine) has quit (Ping timeout: 255 seconds)
+2017-12-15 17:45:05	-->	gischy (~gischy@ip5f5ad214.dynamic.kabel-deutschland.de) has joined #xroutine
+2017-12-15 17:46:12	-->	xroutine (~xroutine@ip5f5ad214.dynamic.kabel-deutschland.de) has joined #xroutine
+2017-12-15 17:46:32	<--	xroutine (~xroutine@ip5f5ad214.dynamic.kabel-deutschland.de) has quit (Changing host)
+2017-12-15 17:46:32	-->	xroutine (~xroutine@unaffiliated/gischy/bot/xroutine) has joined #xroutine
+2017-12-15 17:52:00		[17:46]
+2017-12-15 21:04:23	-->	betaboon (~betaboon@unaffiliated/betaboon) has joined #xroutine
+2017-12-15 21:04:23		[21:04]
+2017-12-15 21:18:38	<--	betaboon (~betaboon@unaffiliated/betaboon) has quit (Quit: WeeChat 1.9.1)
+2017-12-15 21:24:00		[21:18]
+2017-12-15 23:16:51	-->	Chan_Monster (~Chan_Mons@dslb-088-073-039-047.088.073.pools.vodafone-ip.de) has joined #xroutine
+2017-12-15 23:16:51		[23:16]
+2017-12-16 00:31:38	pekka20	good evening all
+2017-12-16 00:31:38		[00:31]
+2017-12-16 01:40:09	--	irc: disconnected from server
+2017-12-16 01:42:09	-->	C3D2 (~C3D2@cpc87143-aztw31-2-0-cust107.18-1.cable.virginm.net) has joined #xroutine
+2017-12-16 01:42:09		[01:42]
+2017-12-16 01:42:09	--	Topic for #xroutine is "Come talk about all things technology! Programming! Linux! Open source projects! Arduino! Security! IoT like the raspberry pi! Arm devices! Your pet tech projects are at home at xroutine!"
+2017-12-16 01:42:09	--	Topic set by blowfist (~nik_89@unaffiliated/nniro) on Wed, 15 Feb 2017 03:59:19
+2017-12-16 01:42:09	--	Channel #xroutine: 20 nicks (1 op, 0 voices, 19 normals)
+2017-12-16 01:42:13	--	Channel created on Sat, 28 Jul 2012 20:12:06
+2017-12-16 01:48:00		[01:42]
+2017-12-16 02:40:30	--	irc: disconnected from server
+2017-12-18 10:50:59	-->	C3D2 (~C3D2@cpc87143-aztw31-2-0-cust107.18-1.cable.virginm.net) has joined #xroutine
+2017-12-18 10:50:59		[10:50]
+2017-12-18 10:50:59	--	Topic for #xroutine is "Come talk about all things technology! Programming! Linux! Open source projects! Arduino! Security! IoT like the raspberry pi! Arm devices! Your pet tech projects are at home at xroutine!"
+2017-12-18 10:50:59	--	Topic set by blowfist (~nik_89@unaffiliated/nniro) on Wed, 15 Feb 2017 03:59:19
+2017-12-18 10:50:59	--	Channel #xroutine: 19 nicks (1 op, 0 voices, 18 normals)
+2017-12-18 10:51:03	--	Channel created on Sat, 28 Jul 2012 20:12:06
+2017-12-18 10:57:00		[10:51]
+2017-12-18 18:12:59	FlibberTGibbet	hi all
+2017-12-18 18:12:59		[18:12]
+2017-12-18 18:13:08	blowfist	hey FlibberTGibbet :)
+2017-12-18 18:13:13	blowfist	how are you doing?
+2017-12-18 18:13:51	FlibberTGibbet	hey blowfist. doing fine thanks. all recovering from the lovely weekend virus :)
+2017-12-18 18:13:59	FlibberTGibbet	how are you?
+2017-12-18 18:19:00		[18:13]
+2017-12-18 18:21:42	blowfist	ouch :(
+2017-12-18 18:21:54	blowfist	preparing for your trip to Greece I presume? ;P
+2017-12-18 18:22:02	blowfist	I'm ok, thanks :)
+2017-12-18 18:22:59	FlibberTGibbet	stuck indoors for the childcare while she's off sick. i'm turning into mary poppins :)
+2017-12-18 18:23:05	FlibberTGibbet	but yes, starting to pack etc tomorrow
+2017-12-18 18:23:41	blowfist	I envy you ^^
+2017-12-18 18:24:35	blowfist	this weekend, we've been busy installing electric heaters in my country house
+2017-12-18 18:24:48	blowfist	we had a central heating system that used oil as fuel
+2017-12-18 18:25:04	FlibberTGibbet	ah, it'll have its downsides as usual. i'll be in touch while i'm over there (possibly via vpn from my uk isp!)
+2017-12-18 18:25:27	blowfist	why do you need a vpn though?
+2017-12-18 18:25:34	blowfist	the ports are blocked?
+2017-12-18 18:25:49	blowfist	or you mean an ssh tunnel?
+2017-12-18 18:26:16	FlibberTGibbet	more of an ssh tunnel. though my asus router basically acts as a vpn server, so it says at least
+2017-12-18 18:26:29	FlibberTGibbet	that's how i got around the entirely unsecured wifi in that french hotel
+2017-12-18 18:26:43	blowfist	but you have a dynamic IP?
+2017-12-18 18:26:46	FlibberTGibbet	static
+2017-12-18 18:26:51	FlibberTGibbet	in the uk anyway
+2017-12-18 18:26:58	blowfist	ah that's easier then :)
+2017-12-18 18:27:01	FlibberTGibbet	yup
+2017-12-18 18:27:20	FlibberTGibbet	my isp is basically a b2b provider that also supplies homeworking freelancers
+2017-12-18 18:27:33	FlibberTGibbet	so it is much more business oriented than the average domestic isp
+2017-12-18 18:27:58	FlibberTGibbet	bloody expensive but no contention, throttling, traffic monitorying/shaping
+2017-12-18 18:31:39	blowfist	do you get ipv6 too?
+2017-12-18 18:32:04	FlibberTGibbet	yes, though configuring ipv6 has thus far been beyond my limited IQ :)
+2017-12-18 18:32:12	blowfist	last time I had an issue getting TLS certificates for some of my domain names
+2017-12-18 18:32:29	blowfist	the challenges just wouldn't work anymore for some weird reasons
+2017-12-18 18:32:30	FlibberTGibbet	tls including ipv6 addresses?
+2017-12-18 18:32:34	FlibberTGibbet	ah
+2017-12-18 18:32:48	FlibberTGibbet	buying certs or using letsencrypt?
+2017-12-18 18:33:26	blowfist	turns out the dns was set to send the ipv4 address and it also sent an ipv6 address and letsencrypt decided to treat ipv6 in priority exclusively, so it failed miserably... had to remove the ipv6 configuration for it to work
+2017-12-18 18:33:44	blowfist	with letsencrypt, it's totally free :)
+2017-12-18 18:34:13	blowfist	I have no clue why it worked before
+2017-12-18 18:34:13		[18:34]
+2017-12-18 18:35:04	blowfist	so ipv6 can get annoying sometimes ;P
+2017-12-18 18:37:30	blowfist	ipv6 creeps me out a bit... especially the firewall configuration, I've never done anything other than nat and without it I feel naked ahah
+2017-12-18 18:40:39	FlibberTGibbet	i need to do an actual course on it. like with study materials and a virtual network environment to play with... otherwise i'll never get my head around it
+2017-12-18 18:45:55	FlibberTGibbet	Here you go: https://www.mooc-list.com/course/objectif-ipv6-fun
+2017-12-18 18:45:57	--	Notice(xroutine): [X] Objectif IPv6 (FUN) | MOOC List
+2017-12-18 18:46:03	FlibberTGibbet	and it's FUN, too :)
+2017-12-18 18:52:00		[18:46]
+2017-12-18 18:53:57	blowfist	objectif? I never thought it was an english word as well ahah
+2017-12-18 18:54:11	blowfist	ah it's in french ;P
+2017-12-18 18:55:26	blowfist	I remember when I played a rogue like game and I found a weapon called "main gauche", I was wondering what the heck this weapon could be like and it sounded like weird english
+2017-12-18 18:55:44	blowfist	when I started to do some research on it, it hit me that it was in fact in french -_-
+2017-12-18 18:55:53	blowfist	I felt silly lol
+2017-12-18 18:58:11	blowfist	oh april 20th
+2017-12-18 19:03:13	blowfist	it looks really cool, I definitely have to put that on my agenda
+2017-12-18 19:09:00		[19:03]
+2017-12-18 19:38:23	FlibberTGibbet	main gauche is a loan term taken from French for the smaller knife/sword held in the left hand :)
+2017-12-18 19:38:23		[19:38]
+2017-12-18 19:39:53	blowfist	that explains my failure to play correctly then, I thought it was a main weapon, turns out I only had a dagger ;P
+2017-12-18 19:40:04	FlibberTGibbet	the principal guards/positions are also from French: prime, seconde, tierce, quarte, quinte and so on
+2017-12-18 19:40:10	FlibberTGibbet	heh
+2017-12-18 19:40:31	FlibberTGibbet	it's a secondary line of defence (and offence once you're inside the oppenent's reach)
+2017-12-18 19:40:55	FlibberTGibbet	s/oppenent/oppenent
+2017-12-18 19:41:02	FlibberTGibbet	opponent, even :D
+2017-12-18 19:41:03	blowfist	ahah
+2017-12-18 19:42:50	FlibberTGibbet	i like the 'bastard guard' best though. wonderful name :)
+2017-12-18 19:48:00		[19:42]
+2017-12-18 20:41:37	blowfist	I'm glad to see you successfully set up an IRC bouncer FlibberTGibbet :)
+2017-12-18 20:41:37		[20:41]
+2017-12-18 20:41:46	blowfist	"bouncer"
+2017-12-18 20:41:49	blowfist	eheh
+2017-12-18 20:47:00		[20:41]
+2017-12-18 20:52:36	<--	ChanServ (ChanServ@services.) has quit (shutting down)
+2017-12-18 20:58:00		[20:52]
+2017-12-18 21:01:47	-->	ChanServ (ChanServ@services.) has joined #xroutine
+2017-12-18 21:01:47	--	Mode #xroutine [+o ChanServ] by verne.freenode.net
+2017-12-18 21:07:00		[21:01]
+2017-12-18 22:28:50	-->	Chan_Monster (~Chan_Mons@p54842276.dip0.t-ipconnect.de) has joined #xroutine
+2017-12-18 22:28:50		[22:28]
+2017-12-18 22:30:32	FlibberTGibbet	heh. I just set up tmux on my bpi, which is more or less always on. then i just attach to the irc tmux session from wherever... it's so much better than dropping out all the time
+2017-12-18 22:36:00		[22:30]
+2017-12-18 22:52:59	--	irc: disconnected from server
+2017-12-19 08:55:51	-->	C3D2 (~C3D2@cpc87143-aztw31-2-0-cust107.18-1.cable.virginm.net) has joined #xroutine
+2017-12-19 08:55:51		[08:55]
+2017-12-19 08:55:51	--	Topic for #xroutine is "Come talk about all things technology! Programming! Linux! Open source projects! Arduino! Security! IoT like the raspberry pi! Arm devices! Your pet tech projects are at home at xroutine!"
+2017-12-19 08:55:51	--	Topic set by blowfist (~nik_89@unaffiliated/nniro) on Wed, 15 Feb 2017 03:59:19
+2017-12-19 08:55:51	--	Channel #xroutine: 19 nicks (1 op, 0 voices, 18 normals)
+2017-12-19 08:55:56	--	Channel created on Sat, 28 Jul 2012 20:12:06
+2017-12-19 09:01:00		[08:55]
+2017-12-19 10:04:54	<--	d3r1ck (derick@wikimedia/Alangi-Derick) has quit (Ping timeout: 272 seconds)
+2017-12-19 10:04:54		[10:04]
+2017-12-19 10:44:45	-->	d3r1ck (derick@wikimedia/Alangi-Derick) has joined #xroutine
+2017-12-19 10:44:45		[10:44]
+2017-12-19 16:28:47		[C3D2 away: some terrible reason]
+2017-12-19 16:28:47		[16:28]
+2017-12-19 20:38:40	blowfist	hello people
+2017-12-19 20:38:40		[20:38]
+2017-12-19 20:46:10	pekka20	FlibberTGibbet: yo
+2017-12-19 20:46:40	pekka20	FlibberTGibbet: you are online 24/7?
+2017-12-19 20:49:12	blowfist	he's online, but not active 24/7 ^^
+2017-12-19 20:55:00		[20:49]
+2017-12-19 20:57:34	-->	Chan_Monster (~Chan_Mons@p54843679.dip0.t-ipconnect.de) has joined #xroutine
+2017-12-19 21:03:00		[20:57]
+2017-12-19 22:56:15	-->	Chan_Monster-_ (~Chan_Mons@p548428F3.dip0.t-ipconnect.de) has joined #xroutine
+2017-12-19 22:56:15		[22:56]
+2017-12-19 23:00:06	<--	Chan_Monster (~Chan_Mons@p54843679.dip0.t-ipconnect.de) has quit (Ping timeout: 272 seconds)
+2017-12-19 23:06:00		[23:00]
+2017-12-19 23:11:42	FlibberTGibbet	halloooo
+2017-12-19 23:17:00		[23:11]
+2017-12-19 23:28:33	<--	MrBusiness (~ArcMrBism@2602:306:8325:a300:1426:998c:b44b:81fb) has quit (Ping timeout: 246 seconds)
+2017-12-19 23:32:11	FrozenFox	Why is it so easy to steal someone's identity; yet so difficult to get your own!?
+2017-12-19 23:32:11		[23:32]
+2017-12-19 23:32:18	FrozenFox	get/prove
+2017-12-19 23:32:46	FrozenFox	Cyclic dependencies in acquiring identities...
+2017-12-19 23:38:00		[23:32]
+2017-12-19 23:56:07	-->	MrBusiness (~ArcMrBism@2602:306:8325:a300:1426:998c:b44b:81fb) has joined #xroutine
+2017-12-19 23:56:07		[23:56]
+2017-12-20 00:35:17	-->	MrBismuth (~ArcMrBism@2602:306:8325:a300:f91e:94f9:5e23:e251) has joined #xroutine
+2017-12-20 00:35:17		[00:35]
+2017-12-20 00:38:39	<--	MrBusiness (~ArcMrBism@2602:306:8325:a300:1426:998c:b44b:81fb) has quit (Ping timeout: 265 seconds)
+2017-12-20 00:44:00		[00:38]
+2017-12-20 00:45:05	<--	MrBismuth (~ArcMrBism@2602:306:8325:a300:f91e:94f9:5e23:e251) has quit (Quit: https://www.youtube.com/watch?v=xIIqYqtR1lY -- Suicide is Painless - Johnny Mandel)
+2017-12-20 00:51:00		[00:45]
+2017-12-20 03:32:19	-->	MrBusiness (~ArcMrBism@2602:306:8325:a300:a048:324:3241:a9a4) has joined #xroutine
+2017-12-20 03:32:19		[03:32]
+2017-12-20 03:44:44	<--	xroutine (~xroutine@unaffiliated/gischy/bot/xroutine) has quit (Ping timeout: 265 seconds)
+2017-12-20 03:45:03	<--	gischy (~gischy@ip5f5ad214.dynamic.kabel-deutschland.de) has quit (Ping timeout: 248 seconds)
+2017-12-20 03:50:11	-->	xroutine (~xroutine@ip5f5ad214.dynamic.kabel-deutschland.de) has joined #xroutine
+2017-12-20 03:50:11		[03:50]
+2017-12-20 03:50:33	<--	xroutine (~xroutine@ip5f5ad214.dynamic.kabel-deutschland.de) has quit (Changing host)
+2017-12-20 03:50:33	-->	xroutine (~xroutine@unaffiliated/gischy/bot/xroutine) has joined #xroutine
+2017-12-20 03:51:46	-->	gischy (~gischy@unaffiliated/gischy) has joined #xroutine
+2017-12-20 03:57:00		[03:51]
+2017-12-20 04:54:02	<--	Chan_Monster-_ (~Chan_Mons@p548428F3.dip0.t-ipconnect.de) has quit (Quit: Leaving)
+2017-12-20 04:54:02		[04:54]
+2017-12-20 06:33:51	-->	KanalMonster (~KanalMons@ip5b41a709.dynamic.kabel-deutschland.de) has joined #xroutine
+2017-12-20 06:33:51		[06:33]
+2017-12-20 07:03:30	<--	KanalMonster (~KanalMons@ip5b41a709.dynamic.kabel-deutschland.de) has quit (Quit: Leaving)
+2017-12-20 07:03:30		[07:03]
+2017-12-20 08:23:39		[C3D2 back: gone 15:54:51]
+2017-12-20 08:23:39		[08:23]
+2017-12-20 09:51:37	-->	geniack_ (5e65241b@gateway/web/freenode/ip.94.101.36.27) has joined #xroutine
+2017-12-20 09:51:37		[09:51]
+2017-12-20 09:52:20	geniack_	hello everyone
+2017-12-20 09:52:24	geniack_	lots of xmas to you
+2017-12-20 09:58:00		[09:52]
+2017-12-20 10:11:41	<--	Ch3ck|away (~Ch3ck@104.225.5.10) has quit (Read error: Connection reset by peer)
+2017-12-20 10:17:00		[10:11]
+2017-12-20 10:18:04	-->	Ch3ck|away (~Ch3ck@104.225.5.10) has joined #xroutine
+2017-12-20 10:24:00		[10:18]
+2017-12-20 10:57:56	C3D2	But what if I only want a regular amount of xmas?
+2017-12-20 10:57:56		[10:57]
+2017-12-20 11:29:36	geniack_	thats not very british of you
+2017-12-20 11:29:36		[11:29]
+2017-12-20 12:05:42	C3D2	I'm a miserable bastard more than I am a devout brit
+2017-12-20 12:05:42		[12:05]
+2017-12-20 12:29:36	-->	arthur_dent[m] (arthurdent@gateway/shell/matrix.org/x-fmkpgvpdtihzsjar) has joined #xroutine
+2017-12-20 12:29:36		[12:29]
+2017-12-20 12:59:32	<--	xroutine (~xroutine@unaffiliated/gischy/bot/xroutine) has quit (Ping timeout: 255 seconds)
+2017-12-20 12:59:32		[12:59]
+2017-12-20 13:01:26	geniack_	you sound sympathic
+2017-12-20 13:01:33	<--	gischy (~gischy@unaffiliated/gischy) has quit (Ping timeout: 268 seconds)
+2017-12-20 13:02:54	 *	FrozenFox throws tinsel on everyone
+2017-12-20 13:03:39	FrozenFox	Shiny!
+2017-12-20 13:03:46	geniack_	we had a budgerigar
+2017-12-20 13:03:48	geniack_	once
+2017-12-20 13:03:55	FrozenFox	A what?
+2017-12-20 13:03:55	geniack_	he ate tinsel
+2017-12-20 13:03:56	geniack_	and died
+2017-12-20 13:04:06	geniack_	https://www.google.de/search?q=budgerigar&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&dcr=0&ei=wF86WoH2FuKX8Qe27oa4Bw
+2017-12-20 13:04:07	xlambda	http://tinyurl.com/y9u5skzp
+2017-12-20 13:04:42	FrozenFox	Oh a budgie
+2017-12-20 13:04:50	FrozenFox	Don't feed birds tinsel!
+2017-12-20 13:06:12	-->	xroutine (~xroutine@ip5f5ad214.dynamic.kabel-deutschland.de) has joined #xroutine
+2017-12-20 13:06:32	<--	xroutine (~xroutine@ip5f5ad214.dynamic.kabel-deutschland.de) has quit (Changing host)
+2017-12-20 13:06:32	-->	xroutine (~xroutine@unaffiliated/gischy/bot/xroutine) has joined #xroutine
+2017-12-20 13:07:47	-->	gischy (~gischy@unaffiliated/gischy) has joined #xroutine
+2017-12-20 13:09:57	geniack_	it was hanging on the xmas tree
+2017-12-20 13:10:04	geniack_	and he just flew there and ate it
+2017-12-20 13:10:08	geniack_	i was about 4 years old
+2017-12-20 13:10:20	geniack_	nothing i could do for the budgie
+2017-12-20 13:10:42	geniack_	you wasnt even alive back then when the budgie was poisoned
+2017-12-20 13:10:48	geniack_	so it's not your fault at least
+2017-12-20 13:16:00		[13:10]
+2017-12-20 13:19:51	FrozenFox	Nor yours.
+2017-12-20 13:20:34	C3D2	Blame the tinsel-manufacturer
+2017-12-20 13:21:37	FrozenFox	And/or the bird and/or who let the bird out and/or who didn't prevent the bird from landing on the tree / eating the tinsel - above an age to understand the risk and able to react.
+2017-12-20 13:25:44	arthur_dent[m]	dont have petz. let it live outside
+2017-12-20 13:28:59	geniack_	arthur_dent[m]: then its called "animal", not "pet"
+2017-12-20 13:29:25	geniack_	C3D2: it was good old GDR tinsel, you cant find this stuff nowadays
+2017-12-20 13:29:53	geniack_	FrozenFox: blame the education of the budgie, he felt a victim to darwin
+2017-12-20 13:30:09	geniack_	would he have studied heavy metals he would know his shit with the tinsel
+2017-12-20 13:30:53	arthur_dent[m]	Yes,  pet is our invention, but for what?
+2017-12-20 13:31:58	FrozenFox	geniack_: That'll do it
+2017-12-20 13:31:58		[13:31]
+2017-12-20 13:50:21	geniack_	arthur_dent[m]: to feel connected with the biological world and forget of our droid existence
+2017-12-20 13:50:21		[13:50]
+2017-12-20 13:50:39	geniack_	FrozenFox: what'll do it?
+2017-12-20 13:51:07	FrozenFox	geniack_: That statement of assigned blame will do.
+2017-12-20 13:51:56	geniack_	i am glad for that
+2017-12-20 13:57:00		[13:51]
+2017-12-20 15:47:20	<--	geniack_ (5e65241b@gateway/web/freenode/ip.94.101.36.27) has quit (*.net *.split)
+2017-12-20 15:47:20		[15:47]
+2017-12-20 16:02:05	-->	geniack_ (5e65241b@gateway/web/freenode/ip.94.101.36.27) has joined #xroutine
+2017-12-20 16:08:00		[16:02]
+2017-12-20 16:34:35		[C3D2 away: Bikin']
+2017-12-20 16:34:35		[16:34]
+2017-12-20 17:12:04	blowfist	hello folks
+2017-12-20 17:12:04		[17:12]
+2017-12-20 17:12:34	d3r1ck	blowfist: o/
+2017-12-20 17:12:36	d3r1ck	Welcome Sir!
+2017-12-20 17:12:52	blowfist	hey how are you d3r1ck?
+2017-12-20 17:13:25	<--	geniack_ (5e65241b@gateway/web/freenode/ip.94.101.36.27) has quit (Ping timeout: 260 seconds)
+2017-12-20 17:13:59	d3r1ck	blowfist: Great and you?
+2017-12-20 17:14:09	blowfist	I'm good, thanks
+2017-12-20 17:17:16	blowfist	d3r1ck: did you see the tiny project I made in python to measure the typing speed?
+2017-12-20 17:18:55	d3r1ck	blowfist: Hmmm.. Nope
+2017-12-20 17:18:59	d3r1ck	Can you link me to it?
+2017-12-20 17:19:49	blowfist	sure
+2017-12-20 17:20:18	blowfist	https://xroutine.net/files/typingSpeed.py
+2017-12-20 17:20:20	--	Notice(xroutine): [X] application/octet-stream
+2017-12-20 17:20:24	blowfist	I converted it to python3
+2017-12-20 17:23:18	d3r1ck	Okay!
+2017-12-20 17:23:21	d3r1ck	Let me give it a try
+2017-12-20 17:23:58	d3r1ck	I'm using Python 3.6 :)
+2017-12-20 17:24:45	blowfist	that will work perfectly then
+2017-12-20 17:25:38	blowfist	the only thing I don't understand is why it can't be killed while running... SIGINT doesn't work
+2017-12-20 17:26:55	d3r1ck	blowfist: Just tested it :)
+2017-12-20 17:26:57	d3r1ck	Great!
+2017-12-20 17:27:04	d3r1ck	Let me look at the code now
+2017-12-20 17:27:04		[17:27]
+2017-12-20 17:27:16	blowfist	at what speed did you manage to write it? :)
+2017-12-20 17:27:57	blowfist	I just typed it (at bit slow) and got 107 WPM
+2017-12-20 17:29:47	d3r1ck	89.XXXX
+2017-12-20 17:29:52	d3r1ck	:D
+2017-12-20 17:30:05	d3r1ck	Since it's my first time and needed to read the string :D
+2017-12-20 17:30:18	blowfist	that's very good
+2017-12-20 17:30:29	blowfist	do you do touch typing?
+2017-12-20 17:34:19	blowfist	this string is special btw, it's made to contain all the letters of the alphabet
+2017-12-20 17:34:42	blowfist	so it is significant
+2017-12-20 17:35:39	d3r1ck	:D
+2017-12-20 17:35:53	d3r1ck	Trying to look at your code and see why Ctrl + C now working
+2017-12-20 17:35:55	d3r1ck	Maybe fix it
+2017-12-20 17:36:04	d3r1ck	Second time was 120WPM
+2017-12-20 17:37:33	blowfist	heh you type faster than me!
+2017-12-20 17:38:35	blowfist	I didn't put anything in my code to catch any signal
+2017-12-20 17:38:43	blowfist	it seems to be a python3 thing
+2017-12-20 17:39:24	blowfist	I manage 120WPM but it's my peak peak
+2017-12-20 17:39:37	d3r1ck	:D
+2017-12-20 17:39:39	d3r1ck	https://github.com/spyder-ide/spyder/issues/5401
+2017-12-20 17:39:43	--	Notice(xroutine): [X] Ctrl+C not working when using input inside an infinite loop · Issue #5401 · spyder-ide/spyder · GitHub
+2017-12-20 17:39:53	blowfist	what? lol
+2017-12-20 17:41:10	d3r1ck	Yeah, it's a python thing
+2017-12-20 17:42:17	blowfist	so how can I fix this?
+2017-12-20 17:42:17		[17:42]
+2017-12-20 17:42:30	blowfist	can I make it poll for signals?
+2017-12-20 17:42:53	blowfist	because SIGINT is sent by the kernel, it's not the actual strokes that are sent to the program
+2017-12-20 17:43:53	blowfist	and I'm using blocky input...
+2017-12-20 17:44:01	blowfist	this sucks heh
+2017-12-20 17:44:16	blowfist	maybe I should catch ctrl + c ... but...
+2017-12-20 17:44:23	blowfist	that is the worst bug ever
+2017-12-20 17:44:31	blowfist	not worst, but stupidest
+2017-12-20 17:45:10	d3r1ck	:D
+2017-12-20 17:45:13	d3r1ck	You can give it a try
+2017-12-20 17:45:22	d3r1ck	Have you tried Ctrl+Break?
+2017-12-20 17:45:51	blowfist	I have an apple keyboard, I don't know where the breaks are ;P
+2017-12-20 17:46:03	d3r1ck	Or use 'try ... except"
+2017-12-20 17:46:06	d3r1ck	In the code?
+2017-12-20 17:46:48	blowfist	hmm
+2017-12-20 17:47:32	blowfist	it's unfortunate because I really like to use the function map
+2017-12-20 17:47:36	blowfist	and keep it simple
+2017-12-20 17:47:55	d3r1ck	I'm trying something now
+2017-12-20 17:47:58	d3r1ck	Will tell you if it works
+2017-12-20 17:48:16	blowfist	the only method I can think of is to use a global and I try to avoid using globals like the plague
+2017-12-20 17:51:14	d3r1ck	:D
+2017-12-20 17:56:51	-->	KanalMonster (~KanalMons@ip5b41a709.dynamic.kabel-deutschland.de) has joined #xroutine
+2017-12-20 18:02:00		[17:56]
+2017-12-20 18:33:59		[C3D2 back: gone 01:59:24]
+2017-12-20 18:33:59		[18:33]
+2017-12-20 18:34:02	C3D2	o/
+2017-12-20 18:38:24	blowfist	hey there C3D2, do you mind if I extend my warmest welcome to xroutine (even though you've been here for a while :)
+2017-12-20 18:38:38	C3D2	yes
+2017-12-20 18:38:39	C3D2	i do
+2017-12-20 18:38:43	C3D2	do not make me welcome
+2017-12-20 18:39:20	blowfist	too late ;P
+2017-12-20 18:39:21	C3D2	Nah, cheers
+2017-12-20 18:41:55	blowfist	I'm from Canada btw
+2017-12-20 18:42:06	blowfist	I'm not asking you because I've been reading the backlog, eheh
+2017-12-20 18:42:24	blowfist	haven't had the time to be around during your online times
+2017-12-20 18:42:35	blowfist	are you a friend of FlibberTGibbet?
+2017-12-20 18:43:00	C3D2	Alas no
+2017-12-20 18:43:44	C3D2	Just happened to stumble across a channel that's reasonably welcoming
+2017-12-20 18:44:02	blowfist	yet you refuse it for some reasons ;P
+2017-12-20 18:44:22	C3D2	s+gs is the best reason for anything
+2017-12-20 18:46:17	blowfist	brb, I'll have lunch
+2017-12-20 18:52:00		[18:46]
+2017-12-20 19:02:45	-->	KanalMonster_ (~KanalMons@ip5b41a709.dynamic.kabel-deutschland.de) has joined #xroutine
+2017-12-20 19:02:45	<--	KanalMonster (~KanalMons@ip5b41a709.dynamic.kabel-deutschland.de) has quit (Read error: Connection reset by peer)
+2017-12-20 19:08:00		[19:02]
+2017-12-20 19:11:47	blowfist	ok back
+2017-12-20 19:11:54	blowfist	s+gs?
+2017-12-20 19:17:00		[19:11]
+2017-12-20 19:50:44	<--	KanalMonster_ (~KanalMons@ip5b41a709.dynamic.kabel-deutschland.de) has quit (Quit: Leaving)
+2017-12-20 19:50:44		[19:50]
+2017-12-20 21:20:57	--	irc: disconnected from server
+2017-12-20 21:20:57		[21:20]
+2017-12-20 21:21:23	-->	C3D2 (~C3D2@cpc87143-aztw31-2-0-cust107.18-1.cable.virginm.net) has joined #xroutine
+2017-12-20 21:21:23	--	Topic for #xroutine is "Come talk about all things technology! Programming! Linux! Open source projects! Arduino! Security! IoT like the raspberry pi! Arm devices! Your pet tech projects are at home at xroutine!"
+2017-12-20 21:21:23	--	Topic set by blowfist (~nik_89@unaffiliated/nniro) on Wed, 15 Feb 2017 03:59:19
+2017-12-20 21:21:23	--	Channel #xroutine: 20 nicks (1 op, 0 voices, 19 normals)
+2017-12-20 21:21:28	--	Channel created on Sat, 28 Jul 2012 20:12:06
+2017-12-20 21:27:00		[21:21]
+2017-12-20 22:10:50	-->	C3D2_ (~C3D2@cpc87143-aztw31-2-0-cust107.18-1.cable.virginm.net) has joined #xroutine
+2017-12-20 22:10:50		[22:10]

@@ -3081,3 +3081,700 @@
 2017-12-13 11:30:54		perl scripts loaded: colorize_lines, iset
 2017-12-13 11:30:54		script: 351 scripts for WeeChat 1.9-dev
 2017-12-13 11:30:54		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-14 18:14:05		fifo: pipe closed
+2017-12-14 18:14:05		[18:14]
+2017-12-14 18:14:05		perl: scripts unloaded
+2017-12-14 18:14:05		URL server stopped
+2017-12-14 18:14:05		python: scripts unloaded
+2017-12-14 19:35:45		URL server listening on ('127.0.1.1', 38405)
+2017-12-14 19:35:45		[vimode.py] Problematic keybindings detected:
+2017-12-14 19:35:45		[19:35]
+2017-12-14 19:35:45		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-14 19:35:45		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-14 19:35:45		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-14 19:35:45		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-14 19:35:45		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-14 19:35:45		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-14 19:35:45		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-14 19:35:45		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-14 19:35:45		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-14 19:35:45		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-14 19:35:45		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-14 19:35:45		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-14 19:35:45		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-14 19:35:45		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-14 19:35:45		[vimode.py] These keybindings may conflict with vimode.
+2017-12-14 19:35:45		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-14 19:35:45		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-14 19:35:45		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-14 19:35:45		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-14 19:35:45		perl scripts loaded: colorize_lines, iset
+2017-12-14 19:35:45		script: downloading list of scripts...
+2017-12-14 19:35:45		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-14 19:35:45	=!=	script: error downloading list of scripts: curl error 6 (Could not resolve host: weechat.org) (URL: "http://weechat.org/files/plugins.xml.gz")
+2017-12-15 08:08:58		fifo: pipe closed
+2017-12-15 08:08:58		[08:08]
+2017-12-15 08:08:58		perl: scripts unloaded
+2017-12-15 08:08:59		URL server stopped
+2017-12-15 08:08:59		python: scripts unloaded
+2017-12-15 08:10:10		URL server listening on ('127.0.1.1', 59711)
+2017-12-15 08:10:10		[vimode.py] Problematic keybindings detected:
+2017-12-15 08:10:10		[08:10]
+2017-12-15 08:10:10		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-15 08:10:10		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-15 08:10:10		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-15 08:10:10		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-15 08:10:10		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-15 08:10:10		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-15 08:10:10		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-15 08:10:10		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-15 08:10:10		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-15 08:10:10		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-15 08:10:10		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-15 08:10:10		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-15 08:10:10		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-15 08:10:10		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-15 08:10:10		[vimode.py] These keybindings may conflict with vimode.
+2017-12-15 08:10:10		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-15 08:10:10		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-15 08:10:10		[vimode.py] tmux/screen users, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ.md#esc-key-not-being-detected-instantly
+2017-12-15 08:10:10		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-15 08:10:10		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-15 08:10:10		perl scripts loaded: colorize_lines, iset
+2017-12-15 08:10:10		script: downloading list of scripts...
+2017-12-15 08:10:10		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-15 08:10:11		script: 351 scripts for WeeChat 1.9-dev
+2017-12-15 08:16:00		[08:10]
+2017-12-15 14:56:14		irc: server DALnet added
+2017-12-15 14:56:14		[14:56]
+2017-12-15 14:56:19		irc: server DALnet has been deleted
+2017-12-15 14:56:24		irc: server DALnet added
+2017-12-15 14:57:48		irc: server DALnet has been deleted
+2017-12-15 14:58:30	=!=	irc: unable to add temporary server "ix1.undernet.org" because the addition of temporary servers with command /connect is currently disabled
+2017-12-15 14:58:30	=!=	irc: if you want to add a standard server, use the command "/server add" (see /help server); if you really want to add a temporary server (NOT SAVED), turn on the option irc.look.temporary_servers
+2017-12-15 14:59:03		irc: server Undernet added
+2017-12-15 15:01:32		irc: server EFNet added
+2017-12-15 15:02:05	--	irc: reconnecting to server...
+2017-12-15 15:02:22		irc: server Undernet has been deleted
+2017-12-15 15:08:00		[15:02]
+2017-12-15 15:13:30	=!=	Error: unknown command "/list*out*" (type /help for help)
+2017-12-15 15:19:00		[15:13]
+2017-12-16 01:40:09		fifo: pipe closed
+2017-12-16 01:40:09		[01:40]
+2017-12-16 01:40:09		perl: scripts unloaded
+2017-12-16 01:40:09		URL server stopped
+2017-12-16 01:40:09		python: scripts unloaded
+2017-12-16 01:41:50		URL server listening on ('127.0.1.1', 45555)
+2017-12-16 01:41:50		[vimode.py] Problematic keybindings detected:
+2017-12-16 01:41:50		[01:41]
+2017-12-16 01:41:50		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-16 01:41:50		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-16 01:41:50		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-16 01:41:50		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-16 01:41:50		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-16 01:41:50		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-16 01:41:50		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-16 01:41:50		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-16 01:41:50		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-16 01:41:50		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-16 01:41:50		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-16 01:41:50		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-16 01:41:50		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-16 01:41:50		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-16 01:41:50		[vimode.py] These keybindings may conflict with vimode.
+2017-12-16 01:41:50		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-16 01:41:50		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-16 01:41:50		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-16 01:41:51		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-16 01:41:51		perl scripts loaded: colorize_lines, iset
+2017-12-16 01:41:51		script: 351 scripts for WeeChat 1.9-dev
+2017-12-16 01:41:51		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-16 01:47:00		[01:41]
+2017-12-16 02:40:29		fifo: pipe closed
+2017-12-16 02:40:29		[02:40]
+2017-12-16 02:40:29		perl: scripts unloaded
+2017-12-16 02:40:30		URL server stopped
+2017-12-16 02:40:30		python: scripts unloaded
+2017-12-18 10:50:45		URL server listening on ('127.0.1.1', 53223)
+2017-12-18 10:50:45		[vimode.py] Problematic keybindings detected:
+2017-12-18 10:50:45		[10:50]
+2017-12-18 10:50:45		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-18 10:50:45		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-18 10:50:45		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-18 10:50:45		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-18 10:50:45		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-18 10:50:45		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-18 10:50:45		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-18 10:50:45		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-18 10:50:45		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-18 10:50:45		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-18 10:50:45		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-18 10:50:45		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-18 10:50:45		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-18 10:50:45		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-18 10:50:45		[vimode.py] These keybindings may conflict with vimode.
+2017-12-18 10:50:45		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-18 10:50:45		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-18 10:50:45		[vimode.py] tmux/screen users, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ.md#esc-key-not-being-detected-instantly
+2017-12-18 10:50:45		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-18 10:50:45		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-18 10:50:45		perl scripts loaded: colorize_lines, iset
+2017-12-18 10:50:45		script: downloading list of scripts...
+2017-12-18 10:50:45		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-18 10:50:46		script: 351 scripts for WeeChat 1.9-dev
+2017-12-18 10:56:00		[10:50]
+2017-12-18 22:52:59		fifo: pipe closed
+2017-12-18 22:52:59		[22:52]
+2017-12-18 22:52:59		perl: scripts unloaded
+2017-12-18 22:52:59		URL server stopped
+2017-12-18 22:52:59		python: scripts unloaded
+2017-12-19 08:55:35		URL server listening on ('127.0.1.1', 46121)
+2017-12-19 08:55:35		[vimode.py] Problematic keybindings detected:
+2017-12-19 08:55:35		[08:55]
+2017-12-19 08:55:35		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-19 08:55:35		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-19 08:55:35		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-19 08:55:35		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-19 08:55:35		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-19 08:55:35		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-19 08:55:35		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-19 08:55:35		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-19 08:55:35		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-19 08:55:35		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-19 08:55:35		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-19 08:55:35		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-19 08:55:35		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-19 08:55:35		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-19 08:55:35		[vimode.py] These keybindings may conflict with vimode.
+2017-12-19 08:55:35		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-19 08:55:35		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-19 08:55:35		[vimode.py] tmux/screen users, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ.md#esc-key-not-being-detected-instantly
+2017-12-19 08:55:35		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-19 08:55:35		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-19 08:55:35		perl scripts loaded: colorize_lines, iset
+2017-12-19 08:55:35		script: 351 scripts for WeeChat 1.9-dev
+2017-12-19 08:55:35		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-20 22:13:04		irc: server Freenode_ZNC added
+2017-12-20 22:13:04		[22:13]
+2017-12-20 22:15:06		irc: server freenode has been deleted
+2017-12-20 22:15:19	=!=	Error with command "/server *" (help on command: /help server)
+2017-12-20 22:15:25		[irc]  /server  list|listfull [<server>]
+2017-12-20 22:15:25		                add <server> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2017-12-20 22:15:25		                copy|rename <server> <new_name>
+2017-12-20 22:15:25		                reorder <server> [<server>...]
+2017-12-20 22:15:25		                open <server>|-all [<server>...]
+2017-12-20 22:15:25		                del|keep <server>
+2017-12-20 22:15:25		                deloutq|jump|raw
+2017-12-20 22:15:25		list, add or remove IRC servers
+2017-12-20 22:15:25		    list: list servers (without argument, this list is displayed)
+2017-12-20 22:15:25		listfull: list servers with detailed info for each server
+2017-12-20 22:15:25		     add: add a new server
+2017-12-20 22:15:25		  server: server name, for internal and display use
+2017-12-20 22:15:25		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2017-12-20 22:15:25		   -temp: add a temporary server (not saved)
+2017-12-20 22:15:25		  option: set option for server (for boolean option, value can be omitted)
+2017-12-20 22:15:25		nooption: set boolean option to 'off' (for example: -nossl)
+2017-12-20 22:15:25		    copy: duplicate a server
+2017-12-20 22:15:25		  rename: rename a server
+2017-12-20 22:15:25		 reorder: reorder list of servers
+2017-12-20 22:15:25		    open: open the server buffer without connecting
+2017-12-20 22:15:25		    keep: keep server in config file (for temporary servers only)
+2017-12-20 22:15:25		     del: delete a server
+2017-12-20 22:15:25		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2017-12-20 22:15:25		    jump: jump to server buffer
+2017-12-20 22:15:25		     raw: open buffer with raw IRC data
+2017-12-20 22:15:25		Examples:
+2017-12-20 22:15:25		  /server listfull
+2017-12-20 22:15:25		  /server add freenode chat.freenode.net
+2017-12-20 22:15:25		  /server add freenode chat.freenode.net/6697 -ssl -autoconnect
+2017-12-20 22:15:25		  /server add chatspike irc.chatspike.net/6667,irc.duckspike.net/6667
+2017-12-20 22:15:25		  /server copy freenode freenode-test
+2017-12-20 22:15:25		  /server rename freenode-test freenode2
+2017-12-20 22:15:25		  /server reorder freenode2 freenode
+2017-12-20 22:15:25		  /server del freenode
+2017-12-20 22:15:25		  /server deloutq
+2017-12-20 22:15:40		irc: server Freenode_ZNC has been renamed to Freenode
+2017-12-20 22:17:20		Option changed: irc.server.Freenode.command = "/quote PASS C3D2:zncR1chardH3nry"  (default if null: "")
+2017-12-20 22:18:28		irc: server Freenode has been deleted
+2017-12-20 22:19:26		irc: server freenode_ZNC added
+2017-12-20 22:23:17	=!=	Error: unknown command "/znc" (type /help for help)
+2017-12-20 22:24:13		Option changed: irc.network.send_unknown_commands = on  (default: off)
+2017-12-20 22:24:17	=!=	Error: unknown command "/znc" (type /help for help)
+2017-12-20 22:24:22	=!=	Error: unknown command "/znc" (type /help for help)
+2017-12-20 22:24:49	=!=	irc: command "msg" must be executed on irc buffer (server or channel)
+2017-12-20 22:29:53	=!=	Too few arguments for command "/msg" (help on command: /help msg)
+2017-12-20 22:29:53		[22:29]
+2017-12-20 22:34:21	=!=	irc: already connected to server "freenode_ZNC"!
+2017-12-20 22:40:00		[22:34]
+2017-12-20 22:59:12		[server] (irc.conf)
+2017-12-20 22:59:12		[22:59]
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.addresses = "192.168.0.220/2000"  (default if null: "")
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.anti_flood_prio_high = null -> 2
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.anti_flood_prio_low = null -> 2
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.autoconnect = on  (default if null: off)
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.autojoin = null -> ""
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.autoreconnect = null -> on
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.autoreconnect_delay = null -> 10
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.autorejoin = null -> off
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.autorejoin_delay = null -> 30
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.away_check = null -> 0
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.away_check_max_nicks = null -> 25
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.capabilities = null -> ""
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.command = null -> ""
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.command_delay = null -> 0
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.connection_timeout = null -> 60
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.ipv6 = null -> on
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.local_hostname = null -> ""
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.msg_kick = null -> ""
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.msg_part = null -> "Back soon, probably"
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.msg_quit = null -> "Back soon, probably"
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.nicks = null -> "C3D2,C3D2_,C3D2__,C3D2_this_is_taking_the_mickey"
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.nicks_alternate = null -> on
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.notify = null -> ""
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.password = "zncR1chardH3nry"  (default if null: "")
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.proxy = null -> ""
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.realname = null -> "C3D2"
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.sasl_fail = null -> continue
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.sasl_key = null -> ""
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.sasl_mechanism = null -> plain
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.sasl_password = null -> ""
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.sasl_timeout = null -> 15
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.sasl_username = null -> ""
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.ssl = null -> off
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.ssl_cert = null -> ""
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.ssl_dhkey_size = null -> 2048
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.ssl_fingerprint = null -> ""
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.ssl_priorities = null -> "NORMAL:-VERS-SSL3.0"
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.ssl_verify = null -> on
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.usermode = null -> ""
+2017-12-20 22:59:12		  irc.server.freenode_ZNC.username = "C3D2/freenode"  (default if null: "C3D2")
+2017-12-20 22:59:12		40 options (matching with "irc.server.freenode_ZNC.*")
+2017-12-20 23:00:48		fifo: pipe closed
+2017-12-20 23:00:48		perl: scripts unloaded
+2017-12-20 23:00:48		URL server stopped
+2017-12-20 23:00:48		python: scripts unloaded
+2017-12-20 23:00:59		URL server listening on ('127.0.1.1', 55926)
+2017-12-20 23:00:59		[vimode.py] Problematic keybindings detected:
+2017-12-20 23:00:59		[23:00]
+2017-12-20 23:00:59		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-20 23:00:59		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-20 23:00:59		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-20 23:00:59		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-20 23:00:59		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-20 23:00:59		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-20 23:00:59		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-20 23:00:59		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-20 23:00:59		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-20 23:00:59		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-20 23:00:59		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-20 23:00:59		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-20 23:00:59		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-20 23:00:59		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-20 23:00:59		[vimode.py] These keybindings may conflict with vimode.
+2017-12-20 23:00:59		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-20 23:00:59		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-20 23:00:59		[vimode.py] tmux/screen users, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ.md#esc-key-not-being-detected-instantly
+2017-12-20 23:00:59		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-20 23:00:59		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-20 23:00:59		perl scripts loaded: colorize_lines, iset
+2017-12-20 23:00:59		script: downloading list of scripts...
+2017-12-20 23:00:59		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-20 23:01:00		script: 351 scripts for WeeChat 1.9-dev
+2017-12-20 23:01:17		fifo: pipe closed
+2017-12-20 23:01:17		perl: scripts unloaded
+2017-12-20 23:01:17		URL server stopped
+2017-12-20 23:01:17		python: scripts unloaded
+2017-12-20 23:01:44		URL server listening on ('127.0.1.1', 38088)
+2017-12-20 23:01:44		[vimode.py] Problematic keybindings detected:
+2017-12-20 23:01:44		[23:01]
+2017-12-20 23:01:44		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-20 23:01:44		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-20 23:01:44		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-20 23:01:44		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-20 23:01:44		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-20 23:01:44		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-20 23:01:44		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-20 23:01:44		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-20 23:01:44		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-20 23:01:44		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-20 23:01:44		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-20 23:01:44		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-20 23:01:44		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-20 23:01:44		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-20 23:01:44		[vimode.py] These keybindings may conflict with vimode.
+2017-12-20 23:01:44		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-20 23:01:44		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-20 23:01:44		[vimode.py] tmux/screen users, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ.md#esc-key-not-being-detected-instantly
+2017-12-20 23:01:44		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-20 23:01:44		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-20 23:01:44		perl scripts loaded: colorize_lines, iset
+2017-12-20 23:01:44		script: 351 scripts for WeeChat 1.9-dev
+2017-12-20 23:01:44		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-20 23:04:41		fifo: pipe closed
+2017-12-20 23:04:41		perl: scripts unloaded
+2017-12-20 23:04:41		URL server stopped
+2017-12-20 23:04:41		python: scripts unloaded
+2017-12-21 09:57:57		URL server listening on ('127.0.1.1', 50587)
+2017-12-21 09:57:57		[vimode.py] Problematic keybindings detected:
+2017-12-21 09:57:57		[09:57]
+2017-12-21 09:57:57		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-21 09:57:57		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-21 09:57:57		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-21 09:57:57		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-21 09:57:57		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-21 09:57:57		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-21 09:57:57		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-21 09:57:57		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-21 09:57:57		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-21 09:57:57		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-21 09:57:57		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-21 09:57:57		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-21 09:57:57		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-21 09:57:57		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-21 09:57:57		[vimode.py] These keybindings may conflict with vimode.
+2017-12-21 09:57:57		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-21 09:57:57		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-21 09:57:57		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-21 09:57:57		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-21 09:57:57		perl scripts loaded: colorize_lines, iset
+2017-12-21 09:57:57		script: 351 scripts for WeeChat 1.9-dev
+2017-12-21 09:57:57		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-21 11:52:44		Option changed: irc.look.smart_filter = on
+2017-12-21 11:52:44		[11:52]
+2017-12-21 11:53:12		Filter "irc_smart" added:
+2017-12-21 11:53:12		  [irc_smart] buffer: * / tags: irc_smart_filter / regex: * 
+2017-12-21 11:53:33		Option changed: irc.look.smart_filter_delay = 15  (default: 5)
+2017-12-21 11:54:01		Plugins loaded:
+2017-12-21 11:54:01		  logger: Log buffers to files
+2017-12-21 11:54:01		  relay: Relay WeeChat data to remote application (irc/weechat protocols)
+2017-12-21 11:54:01		  trigger: Text replacement and command execution on events triggered by WeeChat/plugins
+2017-12-21 11:54:01		  buflist: Buffers list
+2017-12-21 11:54:01		  guile: Support of scheme scripts (with Guile)
+2017-12-21 11:54:01		  alias: Alias commands
+2017-12-21 11:54:01		  irc: IRC (Internet Relay Chat) protocol
+2017-12-21 11:54:01		  python: Support of python scripts
+2017-12-21 11:54:01		  tcl: Support of tcl scripts
+2017-12-21 11:54:01		  perl: Support of perl scripts
+2017-12-21 11:54:01		  charset: Charset conversions
+2017-12-21 11:54:01		  script: Scripts manager
+2017-12-21 11:54:01		  javascript: Support of javascript scripts
+2017-12-21 11:54:01		  exec: Execution of external commands in WeeChat
+2017-12-21 11:54:01		  ruby: Support of ruby scripts
+2017-12-21 11:54:01		  fifo: FIFO pipe for remote control
+2017-12-21 11:54:01		  xfer: DCC file transfer and direct chat
+2017-12-21 11:54:01		  lua: Support of lua scripts
+2017-12-21 11:54:01		  aspell: Spell checker for input (with Aspell)
+2017-12-21 11:54:08	=!=	Error: unknown command "/clear" (type /help for help)
+2017-12-21 11:54:17		Plugins loaded:
+2017-12-21 11:54:17		  logger: Log buffers to files
+2017-12-21 11:54:17		  relay: Relay WeeChat data to remote application (irc/weechat protocols)
+2017-12-21 11:54:17		  trigger: Text replacement and command execution on events triggered by WeeChat/plugins
+2017-12-21 11:54:17		  buflist: Buffers list
+2017-12-21 11:54:17		  guile: Support of scheme scripts (with Guile)
+2017-12-21 11:54:17		  alias: Alias commands
+2017-12-21 11:54:17		  irc: IRC (Internet Relay Chat) protocol
+2017-12-21 11:54:17		  python: Support of python scripts
+2017-12-21 11:54:17		  tcl: Support of tcl scripts
+2017-12-21 11:54:17		  perl: Support of perl scripts
+2017-12-21 11:54:17		  charset: Charset conversions
+2017-12-21 11:54:17		  script: Scripts manager
+2017-12-21 11:54:17		  javascript: Support of javascript scripts
+2017-12-21 11:54:17		  exec: Execution of external commands in WeeChat
+2017-12-21 11:54:17		  ruby: Support of ruby scripts
+2017-12-21 11:54:17		  fifo: FIFO pipe for remote control
+2017-12-21 11:54:17		  xfer: DCC file transfer and direct chat
+2017-12-21 11:54:17		  lua: Support of lua scripts
+2017-12-21 11:54:17		  aspell: Spell checker for input (with Aspell)
+2017-12-21 11:55:30		python: unloading script "vimode"
+2017-12-21 11:55:30		python: script "vimode" unloaded
+2017-12-21 11:55:59	=!=	python: script "buffer_autoclose.py" not found
+2017-12-21 12:01:00		[11:55]
+2017-12-21 18:34:59		fifo: pipe closed
+2017-12-21 18:34:59		[18:34]
+2017-12-21 18:34:59		perl: scripts unloaded
+2017-12-21 18:34:59		URL server stopped
+2017-12-21 18:34:59		python: scripts unloaded
+2017-12-21 20:04:41		URL server listening on ('127.0.1.1', 43701)
+2017-12-21 20:04:41		[vimode.py] Problematic keybindings detected:
+2017-12-21 20:04:41		[20:04]
+2017-12-21 20:04:41		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-21 20:04:41		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-21 20:04:41		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-21 20:04:41		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-21 20:04:41		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-21 20:04:41		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-21 20:04:41		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-21 20:04:41		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-21 20:04:41		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-21 20:04:41		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-21 20:04:41		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-21 20:04:41		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-21 20:04:41		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-21 20:04:41		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-21 20:04:41		[vimode.py] These keybindings may conflict with vimode.
+2017-12-21 20:04:41		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-21 20:04:41		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-21 20:04:41		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-21 20:04:41		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-21 20:04:41		perl scripts loaded: colorize_lines, iset
+2017-12-21 20:04:41		script: 351 scripts for WeeChat 1.9-dev
+2017-12-21 20:04:41		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-21 20:22:40	=!=	Error with command "/window close" (help on command: /help window)
+2017-12-21 20:22:40		[20:22]
+2017-12-21 20:22:55		fifo: pipe closed
+2017-12-21 20:22:55		perl: scripts unloaded
+2017-12-21 20:22:55		URL server stopped
+2017-12-21 20:22:55		python: scripts unloaded
+2017-12-21 20:23:02		URL server listening on ('127.0.1.1', 40440)
+2017-12-21 20:23:02		[vimode.py] Problematic keybindings detected:
+2017-12-21 20:23:02		[20:23]
+2017-12-21 20:23:02		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-21 20:23:02		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-21 20:23:02		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-21 20:23:02		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-21 20:23:02		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-21 20:23:02		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-21 20:23:02		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-21 20:23:02		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-21 20:23:02		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-21 20:23:02		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-21 20:23:02		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-21 20:23:02		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-21 20:23:02		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-21 20:23:02		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-21 20:23:02		[vimode.py] These keybindings may conflict with vimode.
+2017-12-21 20:23:02		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-21 20:23:02		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-21 20:23:02		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-21 20:23:02		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-21 20:23:02		perl scripts loaded: colorize_lines, iset
+2017-12-21 20:23:02		script: 351 scripts for WeeChat 1.9-dev
+2017-12-21 20:23:02		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-21 20:23:18		[core]  /window  list
+2017-12-21 20:23:18		                 -1|+1|b#|up|down|left|right [-window <number>]
+2017-12-21 20:23:18		                 <number>
+2017-12-21 20:23:18		                 splith|splitv [-window <number>] [<pct>]
+2017-12-21 20:23:18		                 resize [-window <number>] [h|v][+|-]<pct>
+2017-12-21 20:23:18		                 balance
+2017-12-21 20:23:18		                 merge [-window <number>] [all]
+2017-12-21 20:23:18		                 page_up|page_down [-window <number>]
+2017-12-21 20:23:18		                 refresh
+2017-12-21 20:23:18		                 scroll [-window <number>] [+|-]<value>[s|m|h|d|M|y]
+2017-12-21 20:23:18		                 scroll_horiz [-window <number>] [+|-]<value>[%]
+2017-12-21 20:23:18		                 scroll_up|scroll_down|scroll_top|scroll_bottom|scroll_beyond_end|scroll_previous_highlight|scroll_next_highlight|scroll_unread [-window <number>]
+2017-12-21 20:23:18		                 swap [-window <number>] [up|down|left|right]
+2017-12-21 20:23:18		                 zoom [-window <number>]
+2017-12-21 20:23:18		                 bare [<delay>]
+2017-12-21 20:23:18		manage windows
+2017-12-21 20:23:18		         list: list opened windows (without argument, this list is displayed)
+2017-12-21 20:23:18		           -1: jump to previous window
+2017-12-21 20:23:18		           +1: jump to next window
+2017-12-21 20:23:18		           b#: jump to next window displaying buffer number #
+2017-12-21 20:23:18		           up: switch to window above current one
+2017-12-21 20:23:18		         down: switch to window below current one
+2017-12-21 20:23:18		         left: switch to window on the left
+2017-12-21 20:23:18		        right: switch to window on the right
+2017-12-21 20:23:18		       number: window number (see /window list)
+2017-12-21 20:23:18		       splith: split current window horizontally (to undo: /window merge)
+2017-12-21 20:23:18		       splitv: split current window vertically (to undo: /window merge)
+2017-12-21 20:23:18		       resize: resize window size, new size is <pct> percentage of parent window
+2017-12-21 20:23:18		               if "h" or "v" is specified, the resize affects the nearest parent window with a split of this type (horizontal/vertical)
+2017-12-21 20:23:18		      balance: balance the sizes of all windows
+2017-12-21 20:23:18		        merge: merge window with another (all = keep only one window)
+2017-12-21 20:23:18		      page_up: scroll one page up
+2017-12-21 20:23:18		    page_down: scroll one page down
+2017-12-21 20:23:18		      refresh: refresh screen
+2017-12-21 20:23:18		       scroll: scroll a number of lines (+/-N) or with time: s=seconds, m=minutes, h=hours, d=days, M=months, y=years
+2017-12-21 20:23:18		 scroll_horiz: scroll horizontally a number of columns (+/-N) or percentage of window size (this scrolling is possible only on buffers with free content)
+2017-12-21 20:23:18		    scroll_up: scroll a few lines up
+2017-12-21 20:23:18		  scroll_down: scroll a few lines down
+2017-12-21 20:23:18		   scroll_top: scroll to top of buffer
+2017-12-21 20:23:18		scroll_bottom: scroll to bottom of buffer
+2017-12-21 20:23:18		scroll_beyond_end: scroll beyond the end of buffer
+2017-12-21 20:23:18		scroll_previous_highlight: scroll to previous highlight
+2017-12-21 20:23:18		scroll_next_highlight: scroll to next highlight
+2017-12-21 20:23:18		scroll_unread: scroll to unread marker
+2017-12-21 20:23:18		         swap: swap buffers of two windows (with optional direction for target window)
+2017-12-21 20:23:18		         zoom: zoom on window
+2017-12-21 20:23:18		         bare: toggle bare display (with optional delay in seconds for automatic return to standard display mode)
+2017-12-21 20:23:18		For splith and splitv, pct is a percentage which represents size of new window, computed with current window as size reference. For example 25 means create a new window with size = current_size / 4
+2017-12-21 20:23:18		Examples:
+2017-12-21 20:23:18		  jump to window displaying buffer #1:
+2017-12-21 20:23:18		    /window b1
+2017-12-21 20:23:18		  scroll 2 lines up:
+2017-12-21 20:23:18		    /window scroll -2
+2017-12-21 20:23:18		  scroll 2 days up:
+2017-12-21 20:23:18		    /window scroll -2d
+2017-12-21 20:23:18		  scroll to beginning of current day:
+2017-12-21 20:23:18		    /window scroll -d
+2017-12-21 20:23:18		  zoom on window #2:
+2017-12-21 20:23:18		    /window zoom -window 2
+2017-12-21 20:23:18		  split window horizontally using 30% of space for the window on top:
+2017-12-21 20:23:18		    /window splith 30
+2017-12-21 20:23:18		  resize window to 75% of the parent window size:
+2017-12-21 20:23:18		    /window resize 75
+2017-12-21 20:23:18		  resize vertical split, add 10% in size:
+2017-12-21 20:23:18		    /window resize v+10
+2017-12-21 20:23:18		  remove the split:
+2017-12-21 20:23:18		    /window merge
+2017-12-21 20:23:18		  enable bare display for 2 seconds:
+2017-12-21 20:23:18		    /window bare 2
+2017-12-21 20:26:04	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2017-12-21 20:32:00		[20:26]
+2017-12-21 23:16:30		fifo: pipe closed
+2017-12-21 23:16:30		[23:16]
+2017-12-21 23:16:30		perl: scripts unloaded
+2017-12-21 23:16:30		URL server stopped
+2017-12-21 23:16:30		python: scripts unloaded
+2017-12-22 10:41:49		URL server listening on ('127.0.1.1', 54046)
+2017-12-22 10:41:49		[vimode.py] Problematic keybindings detected:
+2017-12-22 10:41:49		[10:41]
+2017-12-22 10:41:49		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-22 10:41:49		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-22 10:41:49		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-22 10:41:49		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-22 10:41:49		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-22 10:41:49		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-22 10:41:49		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-22 10:41:49		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-22 10:41:49		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-22 10:41:49		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-22 10:41:49		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-22 10:41:49		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-22 10:41:49		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-22 10:41:49		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-22 10:41:49		[vimode.py] These keybindings may conflict with vimode.
+2017-12-22 10:41:49		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-22 10:41:49		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-22 10:41:49		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-22 10:41:49		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-22 10:41:49		perl scripts loaded: colorize_lines, iset
+2017-12-22 10:41:49		script: downloading list of scripts...
+2017-12-22 10:41:49		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-22 10:41:50		script: 351 scripts for WeeChat 1.9-dev
+2017-12-22 10:47:00		[10:41]
+2017-12-22 19:47:06		fifo: pipe closed
+2017-12-22 19:47:06		[19:47]
+2017-12-22 19:47:06		perl: scripts unloaded
+2017-12-22 19:47:06		URL server stopped
+2017-12-22 19:47:06		python: scripts unloaded
+2017-12-30 22:38:37		URL server listening on ('127.0.1.1', 40318)
+2017-12-30 22:38:37		[vimode.py] Problematic keybindings detected:
+2017-12-30 22:38:37		[22:38]
+2017-12-30 22:38:37		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-30 22:38:37		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-30 22:38:37		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-30 22:38:37		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-30 22:38:37		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-30 22:38:37		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-30 22:38:37		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-30 22:38:37		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-30 22:38:37		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-30 22:38:37		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-30 22:38:37		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-30 22:38:37		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-30 22:38:37		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-30 22:38:37		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-30 22:38:37		[vimode.py] These keybindings may conflict with vimode.
+2017-12-30 22:38:37		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-30 22:38:37		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-30 22:38:37		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-30 22:38:37		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-30 22:38:37		perl scripts loaded: colorize_lines, iset
+2017-12-30 22:38:37		script: downloading list of scripts...
+2017-12-30 22:38:37		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-30 22:38:38		script: 351 scripts for WeeChat 1.9-dev
+2017-12-30 22:44:00		[22:38]
+2017-12-30 22:48:59		fifo: pipe closed
+2017-12-30 22:48:59		perl: scripts unloaded
+2017-12-30 22:48:59		URL server stopped
+2017-12-30 22:48:59		python: scripts unloaded
+2017-12-30 22:49:06		URL server listening on ('127.0.1.1', 34537)
+2017-12-30 22:49:06		[vimode.py] Problematic keybindings detected:
+2017-12-30 22:49:06		[22:49]
+2017-12-30 22:49:06		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-30 22:49:06		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-30 22:49:06		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-30 22:49:06		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-30 22:49:06		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-30 22:49:06		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-30 22:49:06		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-30 22:49:06		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-30 22:49:06		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-30 22:49:06		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-30 22:49:06		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-30 22:49:06		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-30 22:49:06		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-30 22:49:06		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-30 22:49:06		[vimode.py] These keybindings may conflict with vimode.
+2017-12-30 22:49:06		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-30 22:49:06		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-30 22:49:06		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-30 22:49:06		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-30 22:49:06		perl scripts loaded: colorize_lines, iset
+2017-12-30 22:49:06		script: 351 scripts for WeeChat 1.9-dev
+2017-12-30 22:49:06		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-30 23:08:15		fifo: pipe closed
+2017-12-30 23:08:15		[23:08]
+2017-12-30 23:08:15		perl: scripts unloaded
+2017-12-30 23:08:15		URL server stopped
+2017-12-30 23:08:15		python: scripts unloaded
+2017-12-30 23:08:35		URL server listening on ('127.0.1.1', 48096)
+2017-12-30 23:08:35		[vimode.py] Problematic keybindings detected:
+2017-12-30 23:08:35		[23:08]
+2017-12-30 23:08:35		[vimode.py]     meta-jmeta-f -> /buffer -
+2017-12-30 23:08:35		[vimode.py]     meta-jmeta-l -> /buffer +
+2017-12-30 23:08:35		[vimode.py]     meta-jmeta-r -> /server raw
+2017-12-30 23:08:35		[vimode.py]     meta-jmeta-s -> /server jump
+2017-12-30 23:08:35		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2017-12-30 23:08:35		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2017-12-30 23:08:35		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2017-12-30 23:08:35		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2017-12-30 23:08:35		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2017-12-30 23:08:35		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2017-12-30 23:08:35		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2017-12-30 23:08:35		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2017-12-30 23:08:35		[vimode.py]     meta-wmeta-b -> /window balance
+2017-12-30 23:08:35		[vimode.py]     meta-wmeta-s -> /window swap
+2017-12-30 23:08:35		[vimode.py] These keybindings may conflict with vimode.
+2017-12-30 23:08:35		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2017-12-30 23:08:35		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2017-12-30 23:08:35		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2017-12-30 23:08:35		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2017-12-30 23:08:35		perl scripts loaded: colorize_lines, iset
+2017-12-30 23:08:35		script: 351 scripts for WeeChat 1.9-dev
+2017-12-30 23:08:35		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-12-30 23:13:13		fifo: pipe closed
+2017-12-30 23:13:13		perl: scripts unloaded
+2017-12-30 23:13:13		URL server stopped
+2017-12-30 23:13:13		python: scripts unloaded
+2018-01-04 13:38:17		URL server listening on ('127.0.1.1', 52357)
+2018-01-04 13:38:17		[vimode.py] Problematic keybindings detected:
+2018-01-04 13:38:17		[13:38]
+2018-01-04 13:38:17		[vimode.py]     meta-jmeta-f -> /buffer -
+2018-01-04 13:38:17		[vimode.py]     meta-jmeta-l -> /buffer +
+2018-01-04 13:38:17		[vimode.py]     meta-jmeta-r -> /server raw
+2018-01-04 13:38:17		[vimode.py]     meta-jmeta-s -> /server jump
+2018-01-04 13:38:17		[vimode.py]     meta-wmeta-meta2-A -> /window up
+2018-01-04 13:38:17		[vimode.py]     meta-wmeta-meta2-B -> /window down
+2018-01-04 13:38:17		[vimode.py]     meta-wmeta-meta2-C -> /window right
+2018-01-04 13:38:17		[vimode.py]     meta-wmeta-meta2-D -> /window left
+2018-01-04 13:38:17		[vimode.py]     meta-wmeta2-1;3A -> /window up
+2018-01-04 13:38:17		[vimode.py]     meta-wmeta2-1;3B -> /window down
+2018-01-04 13:38:17		[vimode.py]     meta-wmeta2-1;3C -> /window right
+2018-01-04 13:38:17		[vimode.py]     meta-wmeta2-1;3D -> /window left
+2018-01-04 13:38:17		[vimode.py]     meta-wmeta-b -> /window balance
+2018-01-04 13:38:17		[vimode.py]     meta-wmeta-s -> /window swap
+2018-01-04 13:38:17		[vimode.py] These keybindings may conflict with vimode.
+2018-01-04 13:38:17		[vimode.py] You can remove problematic key bindings and add recommended ones by using /vimode bind_keys, or only list them with /vimode bind_keys --list
+2018-01-04 13:38:17		[vimode.py] For help, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ#problematic-key-bindings.md
+2018-01-04 13:38:17		[vimode.py] tmux/screen users, see: https://github.com/GermainZ/weechat-vimode/blob/master/FAQ.md#esc-key-not-being-detected-instantly
+2018-01-04 13:38:17		[vimode.py] To force disable warnings, you can set plugins.var.python.vimode.no_warn to 'on'
+2018-01-04 13:38:17		python scripts loaded: autosort, go, ichatts, shell, urlserver, vimode, ws_replace
+2018-01-04 13:38:17		perl scripts loaded: colorize_lines, iset
+2018-01-04 13:38:17		script: downloading list of scripts...
+2018-01-04 13:38:17		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-01-04 13:38:18		script: 351 scripts for WeeChat 1.9-dev
+2018-01-04 13:44:00		[13:38]
+2018-01-05 16:44:09	=!=	Error with command "/nick sudo rm -rf /" (help on command: /help nick)
+2018-01-05 16:44:09		[16:44]
